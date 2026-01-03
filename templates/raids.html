@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raid Bosses - Pokémon GO</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        nav {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 12px;
+            padding: 15px 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        nav a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 8px 20px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        nav a:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        nav a.active {
+            background: #667eea;
+            color: white;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .event-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .event-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .event-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15), 0 3px 6px rgba(0,0,0,0.1);
+        }
+
+        .event-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: linear-gradient(to bottom, #f0f0f0, #e0e0e0);
+        }
+
+        .event-content {
+            padding: 20px;
+        }
+
+        .event-title {
+            font-size: 1.4em;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #2d3748;
+        }
+
+        .event-types {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .event-type-badge {
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+
+        .event-type-badge.community-day {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .event-type-badge.raid-hour {
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+        }
+
+        .event-type-badge.spotlight-hour {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        .event-type-badge.event {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .event-type-badge.go-battle-league {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+        }
+
+        .event-type-badge.research {
+            background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+            color: #333;
+        }
+
+        .event-type-badge.special-research {
+            background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+            color: #333;
+        }
+
+        .event-type-badge.pokemon-spotlight-hour {
+            background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+        }
+
+        .event-type-badge.default {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .ongoing-badge {
+            background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 8px rgba(86, 171, 47, 0.3);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+
+        .ongoing-dot {
+            width: 8px;
+            height: 8px;
+            background: white;
+            border-radius: 50%;
+            animation: blink 1.5s ease-in-out infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .event-date {
+            color: #718096;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+
+        .raid-section {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .raid-tier-section {
+            margin-bottom: 15px;
+        }
+
+        .raid-tier-header {
+            color: white;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.95em;
+            font-weight: 600;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .raid-tier-header.tier-1 {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        }
+
+        .raid-tier-header.tier-3 {
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+        }
+
+        .raid-tier-header.tier-5 {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .raid-tier-header.tier-mega {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .raid-tier-header.tier-shadow {
+            background: linear-gradient(135deg, #434343 0%, #000000 100%);
+        }
+
+        .raid-tier-header.tier-default {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .raid-tier-header .tier-icon {
+            font-size: 1.1em;
+        }
+
+        .raid-pokemon-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .raid-pokemon {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: #f7fafc;
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 0.85em;
+        }
+
+        .raid-pokemon img {
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+        }
+
+        .no-raids {
+            text-align: center;
+            color: white;
+            font-size: 1.2em;
+            padding: 60px 20px;
+        }
+
+        .event-link {
+            display: inline-block;
+            margin-top: 15px;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9em;
+        }
+
+        .event-link:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .event-grid {
+                grid-template-columns: 1fr;
+            }
+
+            header h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/">🏠 Home</a>
+            <a href="/raids" class="active">⚔️ Raids</a>
+            <a href="/spawns">🌍 Spawns</a>
+        </nav>
+
+        <header>
+            <h1>⚔️ Raid Bosses</h1>
+            <p>Current and upcoming raid bosses in Pokémon GO</p>
+        </header>
+
+        {% if events %}
+        <div class="event-grid">
+            {% for event in events %}
+            <div class="event-card">
+                {% if event.hero_image %}
+                <img src="{{ event.hero_image }}" alt="{{ event.title }}" class="event-image">
+                {% endif %}
+                
+                <div class="event-content">
+                    {% if event.is_ongoing %}
+                    <div class="ongoing-badge">
+                        <span class="ongoing-dot"></span>
+                        <span>ONGOING</span>
+                    </div>
+                    {% endif %}
+
+                    {% if event.detail_types %}
+                    <div class="event-types">
+                        {% for type in event.detail_types %}
+                        <span class="event-type-badge {{ type|lower|replace(' ', '-') }}">{{ type }}</span>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+
+                    <h2 class="event-title">{{ event.title or event.name }}</h2>
+
+                    {% if event.start_date and event.start_time %}
+                    <div class="event-date">
+                        📅 {{ event.start_date }} {{ event.start_time }}
+                        {% if event.end_date and event.end_time %}
+                        <br>to {{ event.end_date }} {{ event.end_time }}
+                        {% endif %}
+                    </div>
+                    {% endif %}
+
+                    <div class="raid-section">
+                        {% for tier, pokemon_list in event.raid_pokemon.items() %}
+                        <div class="raid-tier-section">
+                            <div class="raid-tier-header {% if '1-star' in tier %}tier-1{% elif '3-star' in tier %}tier-3{% elif '5-star' in tier %}tier-5{% elif 'Mega' in tier %}tier-mega{% elif 'Shadow' in tier %}tier-shadow{% else %}tier-default{% endif %}">
+                                <span class="tier-icon">
+                                    {% if '1-star' in tier %}⭐
+                                    {% elif '3-star' in tier %}⭐⭐⭐
+                                    {% elif '5-star' in tier %}⭐⭐⭐⭐⭐
+                                    {% elif 'Mega' in tier %}💫
+                                    {% elif 'Shadow' in tier %}👤
+                                    {% else %}⚔️
+                                    {% endif %}
+                                </span>
+                                <span>{{ tier }}</span>
+                            </div>
+                            <div class="raid-pokemon-list">
+                                {% for pokemon in pokemon_list %}
+                                <div class="raid-pokemon">
+                                    {% if pokemon.image %}
+                                    <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                    {% endif %}
+                                    <span>{{ pokemon.name }}</span>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+                    {% if event.url %}
+                    <a href="{{ event.url }}" target="_blank" class="event-link">View on Leek Duck →</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="no-raids">
+            <p>No raid events found. Check back later!</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
