@@ -193,5 +193,5 @@ def save_events_to_json(events: list[dict], destination: Path | str = "events.js
 
 if __name__ == "__main__":
     events = scrape_events_with_details()
-    json_path = save_events_to_json(events)
+    json_path = save_events_to_json(events, "events.json")
     print(f"Saved {len(events)} events to {json_path}")
