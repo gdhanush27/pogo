@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raid Bosses - Pokémon GO</title>
+    <title>Pokémon GO Events - Leek Duck</title>
     <style>
         * {
             margin: 0;
@@ -75,27 +75,6 @@
             opacity: 0.9;
         }
 
-        .metadata-info {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 15px;
-            flex-wrap: wrap;
-        }
-
-        .metadata-item {
-            background: rgba(255, 255, 255, 0.2);
-            padding: 8px 16px;
-            border-radius: 8px;
-            font-size: clamp(0.75rem, 2.5vw, 0.9rem);
-            backdrop-filter: blur(10px);
-        }
-
-        .metadata-label {
-            font-weight: 600;
-            margin-right: 5px;
-        }
-
         .event-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(min(100%, 350px), 1fr));
@@ -109,6 +88,7 @@
             overflow: hidden;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
         }
 
         .event-card:hover {
@@ -125,13 +105,6 @@
 
         .event-content {
             padding: 20px;
-        }
-
-        .event-title {
-            font-size: 1.4em;
-            font-weight: 700;
-            margin-bottom: 10px;
-            color: #2d3748;
         }
 
         .event-types {
@@ -220,10 +193,27 @@
             50% { opacity: 0.3; }
         }
 
+        .event-title {
+            font-size: 1.4em;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #2d3748;
+        }
+
         .event-date {
             color: #718096;
             font-size: 0.9em;
+            margin-bottom: 12px;
+        }
+
+        .event-description {
+            color: #4a5568;
+            line-height: 1.6;
             margin-bottom: 15px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
         .raid-section {
@@ -232,48 +222,54 @@
             border-top: 1px solid #e2e8f0;
         }
 
-        .raid-tier-section {
-            margin-bottom: 15px;
-        }
-
-        .raid-tier-header {
-            color: white;
-            padding: 8px 14px;
-            border-radius: 8px;
-            font-size: 0.95em;
+        .raid-title {
             font-weight: 600;
+            color: #2d3748;
             margin-bottom: 10px;
+            font-size: 0.95em;
+            cursor: pointer;
             display: flex;
             align-items: center;
             gap: 8px;
+            user-select: none;
+            transition: color 0.2s ease;
         }
 
-        .raid-tier-header.tier-1 {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        .raid-title:hover {
+            color: #667eea;
         }
 
-        .raid-tier-header.tier-3 {
-            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+        .raid-title::before {
+            content: '▶';
+            font-size: 0.8em;
+            transition: transform 0.3s ease;
+            display: inline-block;
         }
 
-        .raid-tier-header.tier-5 {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        .raid-title.expanded::before {
+            transform: rotate(90deg);
         }
 
-        .raid-tier-header.tier-mega {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        .raid-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
         }
 
-        .raid-tier-header.tier-shadow {
-            background: linear-gradient(135deg, #434343 0%, #000000 100%);
+        .raid-content.expanded {
+            max-height: 1000px;
+            transition: max-height 0.5s ease-in;
         }
 
-        .raid-tier-header.tier-default {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        .raid-tier {
+            margin-bottom: 10px;
         }
 
-        .raid-tier-header .tier-icon {
-            font-size: 1.1em;
+        .raid-tier-name {
+            font-weight: 600;
+            color: #4a5568;
+            font-size: 0.85em;
+            margin-bottom: 6px;
         }
 
         .raid-pokemon-list {
@@ -298,7 +294,7 @@
             object-fit: contain;
         }
 
-        .no-raids {
+        .no-events {
             text-align: center;
             color: white;
             font-size: 1.2em;
@@ -307,7 +303,7 @@
 
         .event-link {
             display: inline-block;
-            margin-top: 15px;
+            margin-top: 10px;
             color: #667eea;
             text-decoration: none;
             font-weight: 500;
@@ -360,10 +356,6 @@
             .event-title {
                 font-size: 1.2em;
             }
-
-            .raid-pokemon-list {
-                gap: 6px;
-            }
         }
 
         @media (max-width: 480px) {
@@ -408,19 +400,13 @@
                 padding: 3px 10px;
             }
 
-            .raid-tier-header {
-                font-size: 0.85em;
-                padding: 6px 10px;
+            .raid-pokemon-list {
+                gap: 6px;
             }
 
             .raid-pokemon {
                 padding: 3px 8px;
                 font-size: 0.8em;
-            }
-
-            .raid-pokemon img {
-                width: 20px;
-                height: 20px;
             }
         }
     </style>
@@ -429,27 +415,14 @@
     <div class="container">
         <nav>
             <a href="/">🏠 Home</a>
-            <a href="/raids" class="active">⚔️ Raids</a>
+            <a href="/events" class="active">📅 Events</a>
+            <a href="/raids">⚔️ Raids</a>
             <a href="/spawns">🌍 Spawns</a>
         </nav>
 
         <header>
-            <h1>⚔️ Raid Bosses</h1>
-            <p>Current and upcoming raid bosses in Pokémon GO</p>
-            <div class="metadata-info">
-                {% if metadata.get('last_fetch_leekduck') %}
-                <div class="metadata-item">
-                    <span class="metadata-label">Last fetch from Leek Duck:</span>
-                    <span>{{ metadata.last_fetch_leekduck }}</span>
-                </div>
-                {% endif %}
-                {% if metadata.get('last_fetch_github') %}
-                <div class="metadata-item">
-                    <span class="metadata-label">Last fetch from GitHub:</span>
-                    <span>{{ metadata.last_fetch_github }}</span>
-                </div>
-                {% endif %}
-            </div>
+            <h1>🦆 Pokémon GO Events</h1>
+            <p>{{ events|length }} upcoming events from Leek Duck</p>
         </header>
 
         {% if events %}
@@ -487,23 +460,39 @@
                     </div>
                     {% endif %}
 
+                    {% if event.description %}
+                    <p class="event-description">{{ event.description }}</p>
+                    {% endif %}
+
+                    {% if event.raid_pokemon and event.raid_pokemon|length > 0 %}
                     <div class="raid-section">
-                        {% for tier, pokemon_list in event.raid_pokemon.items() %}
-                        <div class="raid-tier-section">
-                            <div class="raid-tier-header {% if '1-star' in tier %}tier-1{% elif '3-star' in tier %}tier-3{% elif '5-star' in tier %}tier-5{% elif 'Mega' in tier %}tier-mega{% elif 'Shadow' in tier %}tier-shadow{% else %}tier-default{% endif %}">
-                                <span class="tier-icon">
-                                    {% if '1-star' in tier %}⭐
-                                    {% elif '3-star' in tier %}⭐⭐⭐
-                                    {% elif '5-star' in tier %}⭐⭐⭐⭐⭐
-                                    {% elif 'Mega' in tier %}💫
-                                    {% elif 'Shadow' in tier %}👤
-                                    {% else %}⚔️
-                                    {% endif %}
-                                </span>
-                                <span>{{ tier }}</span>
+                        <div class="raid-title" onclick="toggleSection(this)">⚔️ Raid Bosses</div>
+                        <div class="raid-content">
+                            {% for tier, pokemon_list in event.raid_pokemon.items() %}
+                            <div class="raid-tier">
+                                <div class="raid-tier-name">{{ tier }}</div>
+                                <div class="raid-pokemon-list">
+                                    {% for pokemon in pokemon_list %}
+                                    <div class="raid-pokemon">
+                                        {% if pokemon.image %}
+                                        <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                        {% endif %}
+                                        <span>{{ pokemon.name }}</span>
+                                    </div>
+                                    {% endfor %}
+                                </div>
                             </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    {% if event.spawns and event.spawns|length > 0 %}
+                    <div class="raid-section">
+                        <div class="raid-title" onclick="toggleSection(this)">🌍 Spawns</div>
+                        <div class="raid-content">
                             <div class="raid-pokemon-list">
-                                {% for pokemon in pokemon_list %}
+                                {% for pokemon in event.spawns %}
                                 <div class="raid-pokemon">
                                     {% if pokemon.image %}
                                     <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
@@ -513,8 +502,8 @@
                                 {% endfor %}
                             </div>
                         </div>
-                        {% endfor %}
                     </div>
+                    {% endif %}
 
                     {% if event.url %}
                     <a href="{{ event.url }}" target="_blank" class="event-link">View on Leek Duck →</a>
@@ -524,10 +513,18 @@
             {% endfor %}
         </div>
         {% else %}
-        <div class="no-raids">
-            <p>No raid events found. Check back later!</p>
+        <div class="no-events">
+            <p>No events found. Run the scraper to fetch events!</p>
         </div>
         {% endif %}
     </div>
+
+    <script>
+        function toggleSection(element) {
+            const content = element.nextElementSibling;
+            element.classList.toggle('expanded');
+            content.classList.toggle('expanded');
+        }
+    </script>
 </body>
 </html>
