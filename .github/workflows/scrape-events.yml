@@ -2,8 +2,8 @@ name: Scrape Pokemon GO Events
 
 on:
   schedule:
-    # Run every day at 01:30 UTC
-    - cron: '30 1 * * *'
+    # Run every 1 hour
+    - cron: '0 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
@@ -35,5 +35,5 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add events.json metadata.json
+          git add events.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update events data - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
