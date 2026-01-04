@@ -267,6 +267,24 @@
     "is_ongoing": false
   },
   {
+    "name": "Water-type and Grass-type PokéStop Showcases",
+    "url": "https://leekduck.com/events/pokemon-showcase-water-grass-type/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Water-type and Grass-type PokéStop Showcases",
+    "start_date": "Monday, January 5, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, January 7, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "raid_pokemon": {},
+    "spawns": [],
+    "is_ongoing": false
+  },
+  {
     "name": "Kyurem Fusion Raid Day",
     "url": "https://leekduck.com/events/kyurem-fusion-raid-day/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg",
@@ -1447,29 +1465,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Piplup Community Day Classic",
-    "url": "https://leekduck.com/events/january-communitydayclassic2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-    "title": "Piplup Community Day Classic",
-    "start_date": "Sunday, January 4, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, January 4, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "raid_pokemon": {},
-    "spawns": [
-      {
-        "name": "Piplup",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
-      }
-    ],
-    "is_ongoing": true
-  },
-  {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
     "url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1502,6 +1497,24 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
     "detail_types": [
       "Raid Battles"
+    ],
+    "raid_pokemon": {},
+    "spawns": [],
+    "is_ongoing": false
+  },
+  {
+    "name": "Water-type and Grass-type PokéStop Showcases",
+    "url": "https://leekduck.com/events/pokemon-showcase-water-grass-type/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Water-type and Grass-type PokéStop Showcases",
+    "start_date": "Monday, January 5, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, January 7, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
     ],
     "raid_pokemon": {},
     "spawns": [],
