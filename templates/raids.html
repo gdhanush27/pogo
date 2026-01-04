@@ -75,27 +75,6 @@
             opacity: 0.9;
         }
 
-        .metadata-info {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 15px;
-            flex-wrap: wrap;
-        }
-
-        .metadata-item {
-            background: rgba(255, 255, 255, 0.2);
-            padding: 8px 16px;
-            border-radius: 8px;
-            font-size: clamp(0.75rem, 2.5vw, 0.9rem);
-            backdrop-filter: blur(10px);
-        }
-
-        .metadata-label {
-            font-weight: 600;
-            margin-right: 5px;
-        }
-
         .event-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(min(100%, 350px), 1fr));
@@ -436,20 +415,9 @@
         <header>
             <h1>⚔️ Raid Bosses</h1>
             <p>Current and upcoming raid bosses in Pokémon GO</p>
-            <div class="metadata-info">
-                {% if metadata.get('last_fetch_leekduck') %}
-                <div class="metadata-item">
-                    <span class="metadata-label">Last fetch from Leek Duck:</span>
-                    <span>{{ metadata.last_fetch_leekduck }}</span>
-                </div>
-                {% endif %}
-                {% if metadata.get('last_fetch_github') %}
-                <div class="metadata-item">
-                    <span class="metadata-label">Last fetch from GitHub:</span>
-                    <span>{{ metadata.last_fetch_github }}</span>
-                </div>
-                {% endif %}
-            </div>
+            {% if last_fetch %}
+            <p style="font-size: 0.85rem; opacity: 0.8; margin-top: 5px;">Last fetched: {{ last_fetch }}</p>
+            {% endif %}
         </header>
 
         {% if events %}

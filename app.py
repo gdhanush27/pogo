@@ -4,7 +4,6 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-from zoneinfo import ZoneInfo
 
 BASE_URL = "https://leekduck.com"
 EVENTS_URL = "https://leekduck.com/events/"
@@ -192,31 +191,7 @@ def save_events_to_json(events: list[dict], destination: Path | str = "events.js
     return destination
 
 
-def save_metadata(last_fetch_leekduck: str = None, destination: Path | str = "metadata.json") -> Path:
-    """Save metadata about last fetch times."""
-    destination = Path(destination)
-    
-    metadata = {}
-    if destination.exists():
-        with destination.open("r", encoding="utf-8") as f:
-            metadata = json.load(f)
-    
-    if last_fetch_leekduck:
-        metadata["last_fetch_leekduck"] = last_fetch_leekduck
-    
-    with destination.open("w", encoding="utf-8") as f:
-        json.dump(metadata, f, indent=2, ensure_ascii=False)
-    
-    return destination
-
-
 if __name__ == "__main__":
     events = scrape_events_with_details()
     json_path = save_events_to_json(events, "events.json")
-    
-    # Save metadata with timestamp in IST
-    timestamp = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d %H:%M:%S %Z")
-    save_metadata(last_fetch_leekduck=timestamp, destination="metadata.json")
-    
     print(f"Saved {len(events)} events to {json_path}")
-    print(f"Last fetch from Leek Duck: {timestamp}")

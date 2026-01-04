@@ -423,6 +423,9 @@
         <header>
             <h1>🦆 Pokémon GO Events</h1>
             <p>{{ events|length }} upcoming events from Leek Duck</p>
+            {% if last_fetch %}
+            <p style="font-size: 0.85rem; opacity: 0.8; margin-top: 5px;">Last fetched: {{ last_fetch }}</p>
+            {% endif %}
         </header>
 
         {% if events %}
