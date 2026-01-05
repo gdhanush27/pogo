@@ -1,125 +1,5 @@
 [
   {
-    "name": "New Year's 2026",
-    "url": "https://leekduck.com/events/new-years-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
-    "title": "New Year's 2026",
-    "start_date": "Wednesday, December 31, 2025,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Ring in 2026 with Pokémon GO’s New Year’s event!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 1-star Raids": [
-          {
-            "name": "Party Top Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png"
-          },
-          {
-            "name": "Party Hat Wurmple",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_11.png"
-          }
-        ],
-        "In 3-star Raids": [
-          {
-            "name": "Party Hat Raticate",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_020_00_11.png"
-          },
-          {
-            "name": "Party Hat Nidorino",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00_11.png"
-          },
-          {
-            "name": "Party Hat Gengar",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png"
-          },
-          {
-            "name": "Party Hat Wobbuffet",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png"
-          }
-        ],
-        "In 5-star Raids": [
-          {
-            "name": "Blacephalon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm806.icon.png"
-          }
-        ]
-      },
-      "In Mega Raids": [
-        {
-          "name": "Mega Swampert",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Party Top Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Party Hat Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_11.png"
-        },
-        {
-          "name": "Party Hat Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_11.png"
-        },
-        {
-          "name": "Party Hat Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_11.png"
-        },
-        {
-          "name": "Ribbon Jigglypuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm39.cJAN_2024.icon.png"
-        },
-        {
-          "name": "New Years Hat Hoothoot",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm163.cJAN_2022_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Party Hat Wurmple",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_11.png"
-        },
-        {
-          "name": "Party Top Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Pikachu PokéStop Showcase",
-    "url": "https://leekduck.com/events/pokemon-showcase-pikachu/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Pikachu PokéStop Showcase",
-    "start_date": "Saturday, January 3, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Blacephalon in Raids",
     "url": "https://leekduck.com/events/blacephalon-in-raids-january-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -599,14 +479,14 @@
   {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
     "url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/genesect.jpg",
     "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
     "start_date": "Monday, January 5, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Friday, January 16, 2026,",
     "end_time": "at 10:00 AM Local Time",
     "description": "Genesect (Burn Drive) and Genesect (Chill Drive) will be in five-star raid battles from January 5, 2026 to January 16, 2026. There will also be Raid Hours featuring Genesect (Burn Drive) and Genesect (Chill Drive) from 6:00 pm to 7:00 pm local time on the following dates:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
     "detail_types": [
       "Raid Battles"
     ],
