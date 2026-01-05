@@ -1,28 +1,5 @@
 [
   {
-    "name": "Piplup Community Day Classic",
-    "url": "https://leekduck.com/events/january-communitydayclassic2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-    "title": "Piplup Community Day Classic",
-    "start_date": "Sunday, January 4, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, January 4, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "raid_pokemon": {},
-    "spawns": [
-      {
-        "name": "Piplup",
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
-      }
-    ],
-    "is_ongoing": false
-  },
-  {
     "name": "New Year's 2026",
     "url": "https://leekduck.com/events/new-years-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
