@@ -568,18 +568,75 @@
   {
     "name": "High Zaptitude",
     "url": "https://leekduck.com/events/high-zaptitude-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
     "title": "High Zaptitude",
     "start_date": "Tuesday, January 13, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, January 18, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Level 2 Rewards": [
+        {
+          "name": "Wattrel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png"
+        },
+        {
+          "name": "Kilowattrel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm941.icon.png"
+        }
+      ],
+      "Eggs": [
+        {
+          "name": "Pichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png"
+        },
+        {
+          "name": "Elekid",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png"
+        },
+        {
+          "name": "Toxel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+        },
+        {
+          "name": "Tadbulb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Tadbulb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.s.icon.png"
+        },
+        {
+          "name": "Bellibolt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm939.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Helioptile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
+        },
+        {
+          "name": "Tadbulb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
