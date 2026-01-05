@@ -153,7 +153,7 @@ def scrape_event_detail(event_url: str) -> dict:
                     section_key = section_key.replace("- Star", "-star")
                 
                 # If this is a raid tier, add to raid_pokemon dict
-                if "raid" in section_key.lower() and "star" in section_key.lower():
+                if "raid" in section_key.lower() and ("star" in section_key.lower() or "mega" in section_key.lower()):
                     if "raid_pokemon" not in pokemon_sections:
                         pokemon_sections["raid_pokemon"] = {}
                     pokemon_sections["raid_pokemon"][section_key] = pokemon_data
