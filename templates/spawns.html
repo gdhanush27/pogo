@@ -211,6 +211,90 @@
             border-top: 1px solid #e2e8f0;
         }
 
+        .raid-section {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .raid-title {
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 10px;
+            font-size: 0.95em;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            user-select: none;
+            transition: color 0.2s ease;
+        }
+
+        .raid-title:hover {
+            color: #667eea;
+        }
+
+        .raid-title::before {
+            content: '▶';
+            font-size: 0.8em;
+            transition: transform 0.3s ease;
+            display: inline-block;
+        }
+
+        .raid-title.expanded::before {
+            transform: rotate(90deg);
+        }
+
+        .raid-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+
+        .raid-content.expanded {
+            max-height: 1000px;
+            transition: max-height 0.5s ease-in;
+        }
+
+        .raid-tier {
+            margin-bottom: 10px;
+        }
+
+        .raid-tier-name {
+            font-weight: 600;
+            color: #4a5568;
+            font-size: 0.85em;
+            margin-bottom: 6px;
+        }
+
+        .raid-pokemon-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .raid-pokemon {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: #f7fafc;
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 0.85em;
+        }
+
+        .raid-pokemon img {
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+        }
+
+        .section-text {
+            color: #4a5568;
+            line-height: 1.6;
+            font-size: 0.9em;
+        }
+
         .spawn-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(min(100%, 120px), 1fr));
@@ -472,6 +556,50 @@
                     </div>
                     {% endif %}
 
+                    {% if event.additional_sections %}
+                    {% for section in event.additional_sections %}
+                    {% if section.category != "raid" %}
+                    <div class="raid-section">
+                        <div class="raid-title" onclick="toggleSection(this)">{{ section.icon }} {{ section.display_title }}</div>
+                        <div class="raid-content">
+                            {% if section.type == "grouped" %}
+                                {% for group in section.groups %}
+                                <div class="raid-tier">
+                                    {% if group.title %}
+                                    <div class="raid-tier-name">{{ group.title }}</div>
+                                    {% endif %}
+                                    <div class="raid-pokemon-list">
+                                        {% for pokemon in group.items %}
+                                        <div class="raid-pokemon">
+                                            {% if pokemon.image %}
+                                            <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                            {% endif %}
+                                            <span>{{ pokemon.name }}</span>
+                                        </div>
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            {% elif section.type == "list" %}
+                                <div class="raid-pokemon-list">
+                                    {% for pokemon in section["items"] %}
+                                    <div class="raid-pokemon">
+                                        {% if pokemon.image %}
+                                        <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                        {% endif %}
+                                        <span>{{ pokemon.name }}</span>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            {% elif section.type == "text" %}
+                                <p class="section-text">{{ section.content }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+
                     {% if event.url %}
                     <a href="{{ event.url }}" target="_blank" class="event-link">View on Leek Duck →</a>
                     {% endif %}
@@ -485,5 +613,12 @@
         </div>
         {% endif %}
     </div>
+    <script>
+        function toggleSection(element) {
+            const content = element.nextElementSibling;
+            const expanded = content.classList.toggle('expanded');
+            element.classList.toggle('expanded', expanded);
+        }
+    </script>
 </body>
 </html>

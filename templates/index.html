@@ -294,6 +294,12 @@
             object-fit: contain;
         }
 
+        .section-text {
+            color: #4a5568;
+            line-height: 1.6;
+            font-size: 0.9em;
+        }
+
         .no-events {
             text-align: center;
             color: white;
@@ -505,6 +511,48 @@
                             </div>
                         </div>
                     </div>
+                    {% endif %}
+
+                    {% if event.additional_sections %}
+                    {% for section in event.additional_sections %}
+                    <div class="raid-section">
+                        <div class="raid-title" onclick="toggleSection(this)">{{ section.icon }} {{ section.display_title }}</div>
+                        <div class="raid-content">
+                            {% if section.type == "grouped" %}
+                                {% for group in section.groups %}
+                                <div class="raid-tier">
+                                    {% if group.title %}
+                                    <div class="raid-tier-name">{{ group.title }}</div>
+                                    {% endif %}
+                                    <div class="raid-pokemon-list">
+                                        {% for pokemon in group.items %}
+                                        <div class="raid-pokemon">
+                                            {% if pokemon.image %}
+                                            <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                            {% endif %}
+                                            <span>{{ pokemon.name }}</span>
+                                        </div>
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            {% elif section.type == "list" %}
+                                <div class="raid-pokemon-list">
+                                    {% for pokemon in section["items"] %}
+                                    <div class="raid-pokemon">
+                                        {% if pokemon.image %}
+                                        <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                        {% endif %}
+                                        <span>{{ pokemon.name }}</span>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            {% elif section.type == "text" %}
+                                <p class="section-text">{{ section.content }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
                     {% endif %}
 
                     {% if event.url %}
