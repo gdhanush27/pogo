@@ -1,65 +1,5 @@
 [
   {
-    "name": "Blacephalon in Raids",
-    "url": "https://leekduck.com/events/blacephalon-in-raids-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Blacephalon in Raids",
-    "start_date": "Wednesday, December 31, 2025,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, January 5, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Blacephalon return to raids on December 31, 2025, at 10 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-star Raids": [
-          {
-            "name": "Blacephalon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm806.icon.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Blacephalon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm806.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
-    "name": "Mega Swampert in Mega Raids",
-    "url": "https://leekduck.com/events/mega-swampert-in-mega-raids-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Swampert in Mega Raids",
-    "start_date": "Wednesday, December 31, 2025,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, January 5, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Swampert return to Mega Raids on December 31, 2025, at 10 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Swampert",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png"
-        },
-        {
-          "name": "Mega Swampert",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Dynamax Drampa during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-01-05/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -354,12 +294,44 @@
       ],
       "spawns": [
         {
+          "name": "Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_00.png"
+        },
+        {
+          "name": "Tentacool",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_072_00.png"
+        },
+        {
+          "name": "Onix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png"
+        },
+        {
+          "name": "Rhyhorn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png"
+        },
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Trapinch",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png"
+        },
+        {
           "name": "Corphish",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png"
         },
         {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
           "name": "Dwebble",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
         },
         {
           "name": "Clauncher",
