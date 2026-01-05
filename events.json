@@ -20,7 +20,7 @@
         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
       }
     ],
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "New Year's 2026",
@@ -108,7 +108,7 @@
         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png"
       }
     ],
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pikachu PokéStop Showcase",
@@ -126,7 +126,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Blacephalon in Raids",
@@ -187,7 +187,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: December",
@@ -282,7 +282,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Kyurem Fusion Raid Day",
@@ -480,7 +480,7 @@
       "Raid Hours": []
     },
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Blaziken in Mega Raids",
@@ -498,7 +498,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Grookey Community Day",
@@ -1482,7 +1482,7 @@
       "Raid Hours": []
     },
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Blaziken in Mega Raids",
@@ -1500,7 +1500,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Water-type and Grass-type PokéStop Showcases",
@@ -1518,7 +1518,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Drampa during Max Monday",
@@ -1536,7 +1536,7 @@
     ],
     "raid_pokemon": {},
     "spawns": [],
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pinch Perfect",
