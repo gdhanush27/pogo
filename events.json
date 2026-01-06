@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Drampa during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-01-05/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Drampa during Max Monday",
-    "start_date": "Monday, January 5, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, January 5, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On January 5, 2026 , the featured Dynamax Pokémon is Drampa .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Drampa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "GO Pass: December",
     "url": "https://leekduck.com/events/go-pass-december-2025/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
