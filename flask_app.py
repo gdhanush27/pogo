@@ -5,7 +5,7 @@ from flask import Flask, render_template, jsonify
 
 app = Flask(__name__)
 
-GITHUB_JSON_URL = "https://raw.githubusercontent.com/gdhanush27/pogo/refs/heads/main/events.json"
+GITHUB_JSON_URL = "https://raw.githubusercontent.com/gdhanush27/pogo/refs/heads/github_actions/events.json"
 
 # Cache for events data
 _events_cache = {
