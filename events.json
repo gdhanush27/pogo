@@ -14,7 +14,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League, Ultra League, and Master League | Precious Paths",
@@ -55,7 +55,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) Raid Hour",
@@ -72,7 +72,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Water-type and Grass-type PokéStop Showcases",
