@@ -176,16 +176,6 @@
           }
         ]
       },
-      "Thursday, January 8, at 10:00 a.m. to Saturday, January 10, 2026, at 10:00 a.m. local time": [
-        {
-          "name": "Corphish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png"
-        },
-        {
-          "name": "Klawf",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm950.icon.png"
-        }
-      ],
       "Saturday, January 10, at 10:00 a.m. to Sunday, January 11, 2026, at 8:00 p.m. local time": [
         {
           "name": "Clauncher",
@@ -664,23 +654,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Precious Pals",
-    "url": "https://leekduck.com/events/precious-pals-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Precious Pals",
-    "start_date": "Tuesday, January 20, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 25, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Precious Pals: Taken Over",
     "url": "https://leekduck.com/events/precious-pals-taken-over-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -695,6 +668,88 @@
       "Team GO Rocket"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Precious Pals",
+    "url": "https://leekduck.com/events/precious-pals-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
+    "title": "Precious Pals",
+    "start_date": "Tuesday, January 20, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, January 25, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Make memories with your Buddy Pokémon during the Precious Pals event!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Eggs": [
+        {
+          "name": "Goldeen",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png"
+        },
+        {
+          "name": "Togepi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png"
+        },
+        {
+          "name": "Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+        },
+        {
+          "name": "Riolu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
+        },
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        }
+      ],
+      "Shiny Debut": [
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.s.icon.png"
+        },
+        {
+          "name": "Dachsbun",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm927.s.icon.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Goldeen",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00_shiny.png"
+        },
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Goldeen",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        },
+        {
+          "name": "Espurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png"
+        },
+        {
+          "name": "Wimpod",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
+        },
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
