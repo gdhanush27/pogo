@@ -3,7 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Leek Duck">
+    <meta name="description" content="Stay updated with Pokémon GO events, raids, and spawns">
+    
+    <!-- Icons -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23ff1c1c' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='48' fill='none' stroke='%23000' stroke-width='4'/><rect x='0' y='46' width='100' height='8' fill='%23000'/><circle cx='50' cy='50' r='16' fill='%23fff' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='8' fill='%23000'/><path d='M50,2 A48,48 0 0,1 50,98' fill='%23fff' opacity='0.1'/></svg>" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-192x192.png') }}">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+    
     <title>Pokémon GO Events - Leek Duck</title>
     <style>
         * {
@@ -575,6 +589,19 @@
             const content = element.nextElementSibling;
             element.classList.toggle('expanded');
             content.classList.toggle('expanded');
+        }
+
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then(registration => {
+                        console.log('Service Worker registered successfully:', registration.scope);
+                    })
+                    .catch(error => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
         }
     </script>
 </body>

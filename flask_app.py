@@ -1,7 +1,7 @@
 import json
 import requests
 from datetime import datetime, timedelta, timezone
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, send_from_directory
 
 app = Flask(__name__)
 
@@ -196,6 +196,12 @@ def api_event_detail(index):
     if 0 <= index < len(events):
         return jsonify(events[index])
     return jsonify({"error": "Event not found"}), 404
+
+
+@app.route('/service-worker.js')
+def service_worker():
+    """Serve the service worker from static folder."""
+    return send_from_directory('static', 'service-worker.js', mimetype='application/javascript')
 
 
 if __name__ == "__main__":
