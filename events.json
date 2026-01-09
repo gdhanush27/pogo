@@ -224,6 +224,12 @@
     "is_ongoing": true
   },
   {
+    "name": null,
+    "url": "https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/"
+  },
+  {
     "name": "Dynamax Caterpie during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-01-12/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
