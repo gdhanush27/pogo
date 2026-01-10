@@ -224,10 +224,32 @@
     "is_ongoing": true
   },
   {
-    "name": null,
+    "name": "Klawf and Dhelmise PokéStop Showcases",
     "url": "https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/"
+    "title": "Klawf and Dhelmise PokéStop Showcases",
+    "start_date": "Saturday, January 10, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, January 11, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Klawf and Dhelmise. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Dhelmise",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
+        },
+        {
+          "name": "Klawf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm950.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Caterpie during Max Monday",
