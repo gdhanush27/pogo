@@ -1,6 +1,5 @@
-const CACHE_NAME = 'leekduck-v1';
+const CACHE_NAME = 'leekduck-v3';
 const urlsToCache = [
-  '/',
   '/static/manifest.json'
 ];
 
@@ -19,33 +18,37 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
 
-// Fetch event - serve from cache, fallback to network
+// Fetch event - cache only /static assets
 self.addEventListener('fetch', (event) => {
+  const url = new URL(event.request.url);
+
+  // Only cache static assets
+  if (!url.pathname.startsWith('/static/')) {
+    event.respondWith(fetch(event.request));
+    return;
+  }
+
+  // For static assets, use cache-first strategy
   event.respondWith(
     caches.match(event.request)
       .then((response) => {
-        // Cache hit - return response
         if (response) {
           return response;
         }
-        
-        // Clone the request
+
         const fetchRequest = event.request.clone();
-        
         return fetch(fetchRequest).then((response) => {
-          // Check if valid response
+          // Avoid caching error responses or opaque/cross-origin responses
           if (!response || response.status !== 200 || response.type !== 'basic') {
             return response;
           }
-          
-          // Clone the response
+
           const responseToCache = response.clone();
-          
           caches.open(CACHE_NAME)
             .then((cache) => {
               cache.put(event.request, responseToCache);
             });
-          
+
           return response;
         });
       })
