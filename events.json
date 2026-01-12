@@ -1,95 +1,5 @@
 [
   {
-    "name": "Kyurem Fusion Raid Day",
-    "url": "https://leekduck.com/events/kyurem-fusion-raid-day/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg",
-    "title": "Kyurem Fusion Raid Day",
-    "start_date": "Saturday, January 10, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, January 10, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Battle with the twin heroes for truth or ideals during Kyurem Fusion Raid Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Featured Pokémon": [
-        {
-          "name": "Reshiram",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00.png"
-        },
-        {
-          "name": "Zekrom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png"
-        },
-        {
-          "name": "Kyurem (Black)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13.png"
-        },
-        {
-          "name": "Kyurem (White)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12.png"
-        }
-      ],
-      "Black Kyurem and White Kyurem": [
-        {
-          "name": "Kyurem (Black)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13.png"
-        },
-        {
-          "name": "Kyurem (White)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12.png"
-        }
-      ],
-      "raid_pokemon": {
-        "In 5-Star Raids": [
-          {
-            "name": "Reshiram",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00.png"
-          },
-          {
-            "name": "Zekrom",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png"
-          },
-          {
-            "name": "Kyurem (Black)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13.png"
-          },
-          {
-            "name": "Kyurem (White)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Reshiram",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00_shiny.png"
-        },
-        {
-          "name": "Zekrom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00_shiny.png"
-        },
-        {
-          "name": "Kyurem",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11_shiny.png"
-        }
-      ],
-      "Fusion Form Shinies": [
-        {
-          "name": "Kyurem (Black)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13_shiny.png"
-        },
-        {
-          "name": "Kyurem (White)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Pinch Perfect",
     "url": "https://leekduck.com/events/pinch-perfect-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
@@ -221,7 +131,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Klawf and Dhelmise PokéStop Showcases",
@@ -249,7 +159,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Caterpie during Max Monday",
@@ -273,7 +183,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
@@ -339,6 +249,23 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
+  },
+  {
+    "name": "Rock-type Pokémon PokéStop Showcases",
+    "url": "https://leekduck.com/events/pokemon-showcase-rock-type/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Rock-type Pokémon PokéStop Showcases",
+    "start_date": "Monday, January 12, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, January 14, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Rock-type Pokémon. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": true
   },
   {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
