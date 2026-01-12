@@ -249,12 +249,44 @@
       ],
       "spawns": [
         {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        },
+        {
+          "name": "Alolan Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
+        },
+        {
+          "name": "Hisuian Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm100.fHISUIAN.icon.png"
+        },
+        {
           "name": "Chinchou",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
         },
         {
+          "name": "Blitzle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png"
+        },
+        {
+          "name": "Emolga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png"
+        },
+        {
+          "name": "Tynamo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png"
+        },
+        {
           "name": "Helioptile",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Yamper",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.icon.png"
         },
         {
           "name": "Tadbulb",
