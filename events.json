@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
@@ -69,7 +69,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) Raid Hour",
@@ -302,7 +302,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Beldum during Max Monday",
