@@ -315,20 +315,35 @@
     "is_ongoing": false
   },
   {
-    "name": "Shadow Raid Day",
-    "url": "https://leekduck.com/events/shadow-raid-day-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Raid Day",
+    "name": "Raikou Shadow Raid Day",
+    "url": "https://leekduck.com/events/shadow-raikou-raid-day-january-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
+    "title": "Raikou Shadow Raid Day",
     "start_date": "Saturday, January 24, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, January 24, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Shadow Raid Day event will take place on January 24, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Raikou",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Raikou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
