@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Rock-type Pokémon PokéStop Showcases",
@@ -31,7 +31,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
