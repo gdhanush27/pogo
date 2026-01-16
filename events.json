@@ -338,7 +338,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
@@ -355,7 +355,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Precious Pals: Taken Over",
