@@ -262,6 +262,12 @@
     "is_ongoing": false
   },
   {
+    "name": null,
+    "url": "https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/"
+  },
+  {
     "name": "Shadow Raikou Raid Day",
     "url": "https://leekduck.com/events/shadow-raikou-raid-day-january-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
