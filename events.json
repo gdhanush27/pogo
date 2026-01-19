@@ -389,20 +389,49 @@
     "is_ongoing": false
   },
   {
-    "name": "February Community Day",
+    "name": "Vulpix Community Day",
     "url": "https://leekduck.com/events/february-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "February Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg",
+    "title": "Vulpix Community Day",
     "start_date": "Sunday, February 1, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Sunday, February 1, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00_shiny.png"
+        },
+        {
+          "name": "Ninetales",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_00_shiny.png"
+        },
+        {
+          "name": "Alolan Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61_shiny.png"
+        },
+        {
+          "name": "Alolan Ninetales",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_61_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png"
+        },
+        {
+          "name": "Alolan Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
