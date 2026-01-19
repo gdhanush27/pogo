@@ -2592,5 +2592,209 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
+  },
+  {
+    "name": "Season Event",
+    "url": "https://leekduck.com/events/season-event-march-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Season Event",
+    "start_date": "Saturday, March 7, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, March 9, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Season"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "March Community Day",
+    "url": "https://leekduck.com/events/march-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "March Community Day",
+    "start_date": "Saturday, March 14, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, March 14, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Research Day",
+    "url": "https://leekduck.com/events/research-day-march-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Research Day",
+    "start_date": "Saturday, March 21, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, March 21, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Research Day event will take place on March 21, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Research Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Max Battle Day",
+    "url": "https://leekduck.com/events/max-battle-day-march-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Max Battle Day",
+    "start_date": "Saturday, March 28, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, March 28, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Raid Day",
+    "url": "https://leekduck.com/events/raid-day-april-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Raid Day",
+    "start_date": "Saturday, April 4, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, April 4, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "April Community Day",
+    "url": "https://leekduck.com/events/april-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "April Community Day",
+    "start_date": "Saturday, April 11, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, April 11, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The April Community Day event will take place on April 11, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Hatch Day",
+    "url": "https://leekduck.com/events/hatch-day-april-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Hatch Day",
+    "start_date": "Saturday, April 18, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, April 18, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Max Battle Day",
+    "url": "https://leekduck.com/events/max-battle-day-april-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Max Battle Day",
+    "start_date": "Saturday, April 25, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, April 25, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Shadow Raid Day",
+    "url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Raid Day",
+    "start_date": "Saturday, May 2, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, May 2, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "May Community Day",
+    "url": "https://leekduck.com/events/may-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "May Community Day",
+    "start_date": "Saturday, May 9, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, May 9, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "May Community Day Classic",
+    "url": "https://leekduck.com/events/may-communitydayclassic2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "May Community Day Classic",
+    "start_date": "Saturday, May 16, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, May 16, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Raid Day",
+    "url": "https://leekduck.com/events/raid-day-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Raid Day",
+    "start_date": "Saturday, May 23, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, May 23, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   }
 ]
