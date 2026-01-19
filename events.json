@@ -449,16 +449,16 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
         },
         {
-          "name": "Espurr",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png"
-        },
-        {
           "name": "Wimpod",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
         },
         {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        },
+        {
+          "name": "Espurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png"
         }
       ]
     },
