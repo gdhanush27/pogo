@@ -1,43 +1,5 @@
 [
   {
-    "name": "Grookey Community Day",
-    "url": "https://leekduck.com/events/january-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
-    "title": "Grookey Community Day",
-    "start_date": "Sunday, January 18, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, January 18, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Grookey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.s.icon.png"
-        },
-        {
-          "name": "Thwackey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm811.s.icon.png"
-        },
-        {
-          "name": "Rillaboom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Grookey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "High Zaptitude",
     "url": "https://leekduck.com/events/high-zaptitude-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
@@ -397,6 +359,16 @@
       "Event"
     ],
     "pokemon_sections": {
+      "Shiny Debut": [
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.s.icon.png"
+        },
+        {
+          "name": "Dachsbun",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm927.s.icon.png"
+        }
+      ],
       "Eggs": [
         {
           "name": "Goldeen",
@@ -417,16 +389,6 @@
         {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
-        }
-      ],
-      "Shiny Debut": [
-        {
-          "name": "Fidough",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.s.icon.png"
-        },
-        {
-          "name": "Dachsbun",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm927.s.icon.png"
         }
       ],
       "Increased Shiny Chance": [
