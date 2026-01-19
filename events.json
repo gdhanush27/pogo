@@ -287,16 +287,40 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png"
         },
         {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png"
+        },
+        {
+          "name": "Swablu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+        },
+        {
+          "name": "Stufful",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png"
         },
         {
           "name": "Wimpod",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
         },
         {
+          "name": "Pawmi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm921.icon.png"
+        },
+        {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        },
+        {
+          "name": "Pancham",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png"
         },
         {
           "name": "Espurr",
