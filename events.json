@@ -1,147 +1,5 @@
 [
   {
-    "name": "High Zaptitude",
-    "url": "https://leekduck.com/events/high-zaptitude-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
-    "title": "High Zaptitude",
-    "start_date": "Tuesday, January 13, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 18, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Level 2 Rewards": [
-        {
-          "name": "Wattrel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png"
-        },
-        {
-          "name": "Kilowattrel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm941.icon.png"
-        }
-      ],
-      "Eggs": [
-        {
-          "name": "Pichu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png"
-        },
-        {
-          "name": "Elekid",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png"
-        },
-        {
-          "name": "Toxel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
-        },
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
-        }
-      ],
-      "Increased Shiny Chance": [
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.s.icon.png"
-        },
-        {
-          "name": "Bellibolt",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm939.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        },
-        {
-          "name": "Alolan Geodude",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
-        },
-        {
-          "name": "Hisuian Voltorb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm100.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Chinchou",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
-        },
-        {
-          "name": "Emolga",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png"
-        },
-        {
-          "name": "Tynamo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png"
-        },
-        {
-          "name": "Helioptile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
-        },
-        {
-          "name": "Dedenne",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
-        },
-        {
-          "name": "Yamper",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.icon.png"
-        },
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
-        },
-        {
-          "name": "Shinx",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
-        },
-        {
-          "name": "Wattrel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Tadbulb, Bellibolt, Wattrel, and Kilowattrel PokéStop Showcase",
-    "url": "https://leekduck.com/events/pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Tadbulb, Bellibolt, Wattrel, and Kilowattrel PokéStop Showcase",
-    "start_date": "Saturday, January 17, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 18, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be PokéStop Showcases featuring Tadbulb, Bellibolt, Wattrel, and Kilowattrel. Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
-        },
-        {
-          "name": "Bellibolt",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm939.icon.png"
-        },
-        {
-          "name": "Wattrel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png"
-        },
-        {
-          "name": "Kilowattrel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm941.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Beldum during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-01-19/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -224,10 +82,32 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Fidough and Dachsbun PokéStop Showcases",
     "url": "https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/"
+    "title": "Fidough and Dachsbun PokéStop Showcases",
+    "start_date": "Monday, January 19, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, January 21, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Fidough and Dachsbun. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        },
+        {
+          "name": "Dachsbun",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm927.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": true
   },
   {
     "name": "Shadow Raikou Raid Day",
