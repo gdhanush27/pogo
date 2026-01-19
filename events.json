@@ -35,7 +35,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "High Zaptitude",
@@ -141,7 +141,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Tadbulb, Bellibolt, Wattrel, and Kilowattrel PokéStop Showcase",
@@ -177,7 +177,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Beldum during Max Monday",
@@ -201,7 +201,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
