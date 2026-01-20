@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
@@ -62,7 +62,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Thundurus (Incarnate Forme) Raid Hour",
@@ -328,7 +328,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Roggenrola during Max Monday",
@@ -459,23 +459,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Weekend",
-    "url": "https://leekduck.com/events/dynamax-weekend-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Dynamax Weekend",
-    "start_date": "Saturday, January 31, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Dynamax Weekend event will take place from January 31, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Into the Depths",
     "url": "https://leekduck.com/events/into-the-depths-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
@@ -544,6 +527,36 @@
         {
           "name": "Yungoos",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Ho-Oh Max Battle Weekend",
+    "url": "https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
+    "title": "Dynamax Ho-Oh Max Battle Weekend",
+    "start_date": "Saturday, January 31, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Sunday, February 1, 2026,",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {
+      "Dynamax Debut!": [
+        {
+          "name": "Ho-Oh",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Ho-Oh",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png"
         }
       ]
     },
