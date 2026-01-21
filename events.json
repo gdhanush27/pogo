@@ -1,46 +1,5 @@
 [
   {
-    "name": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
-    "url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "Hatenna Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-01-20/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Hatenna Spotlight Hour",
-    "start_date": "Tuesday, January 20, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Tuesday, January 20, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January. January 20 : The featured Pokémon is Hatenna and the special bonus is 2× Transfer Candy .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Hatenna",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Thundurus (Incarnate Forme) Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260121/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
