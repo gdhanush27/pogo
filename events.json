@@ -110,7 +110,41 @@
           "name": "Froakie",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
         }
-      ]
+      ],
+      "raid_pokemon": {
+        "In 1-Star Shadow Raids": [
+          {
+            "name": "Dratini",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+          },
+          {
+            "name": "Gligar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png"
+          },
+          {
+            "name": "Cacnea",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png"
+          },
+          {
+            "name": "Joltik",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+          }
+        ],
+        "In 3-Star Shadow Raids": [
+          {
+            "name": "Alolan Marowak",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png"
+          },
+          {
+            "name": "Lapras",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+          },
+          {
+            "name": "Stantler",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+          }
+        ]
+      }
     },
     "is_ongoing": false
   },
@@ -578,6 +612,66 @@
       "Event"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Carnival of Flamigo",
+    "url": "https://leekduck.com/events/carnival-of-flamigo/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+    "title": "Carnival of Flamigo",
+    "start_date": "Tuesday, February 3, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, February 8, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut! The Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Lotad",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_270_00_shiny.png"
+        },
+        {
+          "name": "Spritzee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00_shiny.png"
+        },
+        {
+          "name": "Pikipek",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm731.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Lotad",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_270_00.png"
+        },
+        {
+          "name": "Buneary",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_427_00.png"
+        },
+        {
+          "name": "Pikipek",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm731.icon.png"
+        },
+        {
+          "name": "Spritzee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
