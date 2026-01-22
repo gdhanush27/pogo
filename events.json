@@ -111,6 +111,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
         }
       ],
+      "Team GO Rocket Leaders": [
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Mawile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png"
+        }
+      ],
       "raid_pokemon": {
         "In 1-Star Shadow Raids": [
           {
