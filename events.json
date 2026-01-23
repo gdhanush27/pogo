@@ -1218,14 +1218,7 @@
     "detail_types": [
       "Raid Battles"
     ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Solgaleo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.s.icon.png"
-        }
-      ]
-    },
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
@@ -3094,14 +3087,7 @@
     "detail_types": [
       "Raid Battles"
     ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Lunala",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.s.icon.png"
-        }
-      ]
-    },
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
