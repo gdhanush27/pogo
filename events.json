@@ -685,12 +685,19 @@
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Wednesday, February 4, 2026,",
     "end_time": "at 10:00 AM Local Time",
-    "description": "Tornadus (Incarnate Forme) will be in five-star raid battles from January 25, 2026 to February 4, 2026. There will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:",
+    "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026. There will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tornadus (Incarnate)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": true
   },
   {
