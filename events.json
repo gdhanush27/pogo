@@ -29,7 +29,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Sceptile in Mega Raids",
@@ -674,7 +674,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
@@ -691,7 +691,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Landorus (Incarnate Forme) Raid Hour",
