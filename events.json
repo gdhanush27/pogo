@@ -57,7 +57,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
@@ -74,7 +74,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Precious Pals: Taken Over",
@@ -160,7 +160,7 @@
         ]
       }
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Precious Pals",
@@ -266,7 +266,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra Buddy and Best Buddy PokéStop Showcases",
@@ -283,7 +283,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Roggenrola during Max Monday",
@@ -307,7 +307,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League and Ultra Premier | Precious Paths",
