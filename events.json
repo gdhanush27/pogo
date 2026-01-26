@@ -1,82 +1,5 @@
 [
   {
-    "name": "Shadow Raikou Raid Day",
-    "url": "https://leekduck.com/events/shadow-raikou-raid-day-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
-    "title": "Shadow Raikou Raid Day",
-    "start_date": "Saturday, January 24, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, January 24, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Raikou",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Raikou",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Sceptile in Mega Raids",
-    "url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Sceptile in Mega Raids",
-    "start_date": "Friday, January 16, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 25, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Sceptile return to Mega Raids on January 16, 2026, at 10 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Sceptile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00_shiny.png"
-        },
-        {
-          "name": "Mega Sceptile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
-    "start_date": "Friday, January 16, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, January 25, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Thundurus (Incarnate Forme) will be in five-star raid battles from January 16, 2026 to January 25, 2026. There will also be a Raid Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Precious Pals: Taken Over",
     "url": "https://leekduck.com/events/precious-pals-taken-over-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-23-precious-pals-taken-over-2026/precious-pals-taken-over.jpg",
@@ -366,6 +289,23 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
+  },
+  {
+    "name": "Normal-type PokéStop Showcases",
+    "url": "https://leekduck.com/events/pokemon-showcase-normal-type/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Normal-type PokéStop Showcases",
+    "start_date": "Monday, January 26, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, January 28, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Normal-type. Top the leaderboard to win rewards including Premium Items! Trainers will be able to enter any Normal-type Pokémon in to these Showcases. However, unlike previous type specific showcases, the score will be relative to their own species rather than each other. This means that any XXL-sized Normal-type Pokémon will be competitive.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": true
   },
   {
     "name": "Vulpix Community Day",
