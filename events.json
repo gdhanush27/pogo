@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Roggenrola during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-01-26/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Roggenrola during Max Monday",
-    "start_date": "Monday, January 26, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, January 26, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On January 26, 2026 , the featured Dynamax Pokémon is Roggenrola .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Roggenrola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League and Ultra Premier | Precious Paths",
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
@@ -448,20 +424,57 @@
     "is_ongoing": false
   },
   {
-    "name": "Catch Mastery Day",
-    "url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Catch Mastery Day",
+    "name": "Oricorio Catch Mastery",
+    "url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
+    "title": "Oricorio Catch Mastery",
     "start_date": "Saturday, February 7, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Saturday, February 7, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Master your throwing skills and catch Oricorio, the Dancing Pokémon, during this Catch Mastery event!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Increased Shiny Chance": [
+        {
+          "name": "Hoothoot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00_shiny.png"
+        },
+        {
+          "name": "Starly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00_shiny.png"
+        },
+        {
+          "name": "Oricorio (Baile Style)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm741.fBAILE.s.icon.png"
+        },
+        {
+          "name": "Oricorio (Pom-Pom Style)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm741.fPOMPOM.s.icon.png"
+        },
+        {
+          "name": "Oricorio (Pa'u Style)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm741.fPAU.s.icon.png"
+        },
+        {
+          "name": "Oricorio (Sensu Style)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm741.fSENSU.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Hoothoot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
+        },
+        {
+          "name": "Starly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
