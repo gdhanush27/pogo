@@ -265,36 +265,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Shadow Cresselia in Shadow Raids",
+    "name": null,
     "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Cresselia in Shadow Raids",
-    "start_date": "Friday, January 2, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Cresselia",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Cresselia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": true
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Dynamax Wailmer during Max Monday",
@@ -448,21 +422,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Catch Mastery Day",
+    "name": null,
     "url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Catch Mastery Day",
-    "start_date": "Saturday, February 7, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Saturday, February 7, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Carnival of Flamigo",
@@ -742,28 +705,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Machop during Max Monday",
+    "name": null,
     "url": "https://leekduck.com/events/max-mondays-2026-02-16/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Machop during Max Monday",
-    "start_date": "Monday, February 16, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, February 16, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On February 16, 2026 , the featured Dynamax Pokémon is Machop .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Machop",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Master League and 2026 Championship Series Cup | Precious Paths",
@@ -2905,21 +2850,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Raid Day",
+    "name": null,
     "url": "https://leekduck.com/events/raid-day-april-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Raid Day",
-    "start_date": "Saturday, April 4, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, April 4, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "April Community Day",
@@ -3024,20 +2958,9 @@
     "is_ongoing": false
   },
   {
-    "name": "Raid Day",
+    "name": null,
     "url": "https://leekduck.com/events/raid-day-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Raid Day",
-    "start_date": "Saturday, May 23, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, May 23, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   }
 ]
