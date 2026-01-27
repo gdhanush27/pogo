@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League and Ultra Premier | Precious Paths",
@@ -62,7 +62,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tornadus (Incarnate Forme) Raid Hour",
@@ -203,8 +203,24 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00.png"
         },
         {
+          "name": "Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_00.png"
+        },
+        {
           "name": "Dunsparce",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_206_00.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+        },
+        {
+          "name": "Makuhita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_296_00.png"
+        },
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
         },
         {
           "name": "Meditite",
@@ -216,7 +232,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Ho-Oh Max Battle Weekend",
