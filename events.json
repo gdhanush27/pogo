@@ -1,29 +1,5 @@
 [
   {
-    "name": "Foongus Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-01-27/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Foongus Spotlight Hour",
-    "start_date": "Tuesday, January 27, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Tuesday, January 27, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January. January 27 : The featured Pokémon is Foongus and the special bonus is 2× Catch Stardust .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Foongus",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Tornadus (Incarnate Forme) Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260128/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -122,6 +98,10 @@
         {
           "name": "Glimmet",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm969.icon.png"
+        },
+        {
+          "name": "Glimmora",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm970.icon.png"
         }
       ],
       "Eggs": [
