@@ -1,22 +1,5 @@
 [
   {
-    "name": "Great League and Ultra Premier | Precious Paths",
-    "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
-    "title": "Great League and Ultra Premier | Precious Paths",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Foongus Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-01-27/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
@@ -77,14 +60,14 @@
   {
     "name": "Vulpix Community Day",
     "url": "https://leekduck.com/events/february-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
     "title": "Vulpix Community Day",
     "start_date": "Sunday, February 1, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Sunday, February 1, 2026,",
     "end_time": "at 5:00 PM Local Time",
     "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
     "detail_types": [
       "Community Day"
     ],
