@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Tornadus (Incarnate Forme) Raid Hour",
@@ -55,7 +55,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Normal-type PokéStop Showcases",
