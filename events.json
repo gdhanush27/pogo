@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Normal-type PokéStop Showcases",
@@ -31,7 +31,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Vulpix Community Day",
