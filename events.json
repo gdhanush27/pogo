@@ -624,18 +624,109 @@
   {
     "name": "Valentine's Day 2026",
     "url": "https://leekduck.com/events/valentines-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
     "title": "Valentine's Day 2026",
     "start_date": "Tuesday, February 10, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, February 15, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Furfrou Heart Trim": [
+        {
+          "name": "Furfrou (Natural)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+        },
+        {
+          "name": "Furfrou (Heart)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fHEART.icon.png"
+        }
+      ],
+      "Eggs": [
+        {
+          "name": "Nidoran♀",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00.png"
+        },
+        {
+          "name": "Nidoran♂",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00.png"
+        },
+        {
+          "name": "Cleffa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png"
+        },
+        {
+          "name": "Igglybuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_174_00.png"
+        },
+        {
+          "name": "Cherubi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png"
+        },
+        {
+          "name": "Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Gardevoir",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00.png"
+          },
+          {
+            "name": "Gallade",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_475_00.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Nidoran♀",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00_shiny.png"
+        },
+        {
+          "name": "Nidoran♂",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00_shiny.png"
+        }
+      ],
+      "Featured Attack": [
+        {
+          "name": "Ralts",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
+        },
+        {
+          "name": "Kirlia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_281_00.png"
+        },
+        {
+          "name": "Gardevoir",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Nidoran♀",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00.png"
+        },
+        {
+          "name": "Nidoran♂",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00.png"
+        },
+        {
+          "name": "Furfrou (Natural)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+        },
+        {
+          "name": "Audino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
