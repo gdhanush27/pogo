@@ -194,38 +194,6 @@
     "is_ongoing": true
   },
   {
-    "name": "Shadow Cresselia in Shadow Raids",
-    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Cresselia in Shadow Raids",
-    "start_date": "Friday, January 2, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Cresselia",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Cresselia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Dynamax Wailmer during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-02-02/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
