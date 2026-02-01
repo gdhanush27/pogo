@@ -43,7 +43,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Into the Depths",
@@ -164,6 +164,30 @@
         {
           "name": "Ho-Oh",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
+    "name": "Ho-Oh PokéStop Showcase",
+    "url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Ho-Oh PokéStop Showcase",
+    "start_date": "Saturday, January 31, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Sunday, February 1, 2026,",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Ho-Oh",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
         }
       ]
     },
@@ -3091,7 +3115,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Season Event",
