@@ -1210,6 +1210,16 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_36.png"
         }
       ],
+      "Kalos Snapshots": [
+        {
+          "name": "Calem's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu Calem.png"
+        },
+        {
+          "name": "Serena's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu Serena.png"
+        }
+      ],
       "In 2 km Eggs": [
         {
           "name": "Larvitar",
@@ -1301,6 +1311,14 @@
           {
             "name": "Mega Lucario",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0448_001_mf_n_00000000_f_n.png"
+          },
+          {
+            "name": "Mega Victreebel",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Malamar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Malamar.png"
           }
         ]
       },
@@ -1647,6 +1665,16 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_36.png"
         }
       ],
+      "Kalos Snapshots": [
+        {
+          "name": "Calem's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu Calem.png"
+        },
+        {
+          "name": "Serena's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu Serena.png"
+        }
+      ],
       "In 2 km Eggs": [
         {
           "name": "Larvitar",
@@ -1738,6 +1766,14 @@
           {
             "name": "Mega Lucario",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0448_001_mf_n_00000000_f_n.png"
+          },
+          {
+            "name": "Mega Victreebel",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Malamar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Malamar.png"
           }
         ]
       },
@@ -2507,6 +2543,10 @@
         {
           "name": "Mega Latias",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png"
+        },
+        {
+          "name": "Mega Victreebel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
         }
       ],
       "Sunday, March 1": [
@@ -2549,6 +2589,10 @@
         {
           "name": "Mega Latios",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png"
+        },
+        {
+          "name": "Mega Malamar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Malamar.png"
         }
       ],
       "Take part in some trim-mendous Timed Research!": [
