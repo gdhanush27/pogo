@@ -1,9 +1,27 @@
 [
   {
-    "name": null,
+    "name": "Dynamax Wailmer during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-02-02/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Dynamax Wailmer during Max Monday",
+    "start_date": "Monday, February 2, 2026,",
+    "start_time": "at 6:00 PM Local Time",
+    "end_date": "Monday, February 2, 2026,",
+    "end_time": "at 7:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On February 2, 2026 , the featured Dynamax Pokémon is Wailmer .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Wailmer",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png"
+        }
+      ]
+    },
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: January",
@@ -23,10 +41,21 @@
     "is_ongoing": true
   },
   {
-    "name": null,
+    "name": "Great League, Ultra League, and Master League | Precious Paths",
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Great League, Ultra League, and Master League | Precious Paths",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Whismur Spotlight Hour",
@@ -3075,10 +3104,21 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "May Community Day",
     "url": "https://leekduck.com/events/may-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "May Community Day",
+    "start_date": "Saturday, May 9, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, May 9, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "May Community Day Classic",
