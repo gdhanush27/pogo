@@ -345,6 +345,38 @@
     "is_ongoing": false
   },
   {
+    "name": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
+    "url": "https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
+    "start_date": "Monday, February 2, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, February 4, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Ludicolo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_272_00.png"
+        },
+        {
+          "name": "Toucannon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm733.icon.png"
+        },
+        {
+          "name": "Quaquaval",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
     "name": "Oricorio Catch Mastery",
     "url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
