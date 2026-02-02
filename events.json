@@ -273,16 +273,32 @@
       ],
       "spawns": [
         {
+          "name": "Spinarak",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_167_00.png"
+        },
+        {
           "name": "Lotad",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_270_00.png"
+        },
+        {
+          "name": "Surskit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_283_00.png"
         },
         {
           "name": "Buneary",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_427_00.png"
         },
         {
+          "name": "Finneon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_456_00.png"
+        },
+        {
           "name": "Pikipek",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm731.icon.png"
+        },
+        {
+          "name": "Bounsweet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm761.icon.png"
         },
         {
           "name": "Spritzee",
