@@ -43,7 +43,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Into the Depths",
@@ -137,7 +137,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ho-Oh PokéStop Showcase",
@@ -161,7 +161,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Ho-Oh Max Battle Weekend",
@@ -191,7 +191,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Wailmer during Max Monday",
@@ -215,7 +215,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: January",
