@@ -1,221 +1,9 @@
 [
   {
-    "name": "Vulpix Community Day",
-    "url": "https://leekduck.com/events/february-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
-    "title": "Vulpix Community Day",
-    "start_date": "Sunday, February 1, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00_shiny.png"
-        },
-        {
-          "name": "Ninetales",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_00_shiny.png"
-        },
-        {
-          "name": "Alolan Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61_shiny.png"
-        },
-        {
-          "name": "Alolan Ninetales",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_61_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png"
-        },
-        {
-          "name": "Alolan Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Into the Depths",
-    "url": "https://leekduck.com/events/into-the-depths-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
-    "title": "Into the Depths",
-    "start_date": "Tuesday, January 27, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Glimmet",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm969.icon.png"
-        },
-        {
-          "name": "Glimmora",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm970.icon.png"
-        }
-      ],
-      "Eggs": [
-        {
-          "name": "Diglett",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00.png"
-        },
-        {
-          "name": "Larvitar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
-        },
-        {
-          "name": "Bagon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
-        },
-        {
-          "name": "Deino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
-        },
-        {
-          "name": "Yungoos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.icon.png"
-        }
-      ],
-      "Increased Shiny Chance": [
-        {
-          "name": "Diglett",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00_shiny.png"
-        },
-        {
-          "name": "Yungoos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Diglett",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00.png"
-        },
-        {
-          "name": "Geodude",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_00.png"
-        },
-        {
-          "name": "Dunsparce",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_206_00.png"
-        },
-        {
-          "name": "Slugma",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
-        },
-        {
-          "name": "Makuhita",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_296_00.png"
-        },
-        {
-          "name": "Sableye",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
-        },
-        {
-          "name": "Meditite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_307_00.png"
-        },
-        {
-          "name": "Yungoos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Ho-Oh PokéStop Showcase",
-    "url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Ho-Oh PokéStop Showcase",
-    "start_date": "Saturday, January 31, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Ho-Oh",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Ho-Oh Max Battle Weekend",
-    "url": "https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
-    "title": "Dynamax Ho-Oh Max Battle Weekend",
-    "start_date": "Saturday, January 31, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Sunday, February 1, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {
-      "Dynamax Debut!": [
-        {
-          "name": "Ho-Oh",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Ho-Oh",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Wailmer during Max Monday",
+    "name": null,
     "url": "https://leekduck.com/events/max-mondays-2026-02-02/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Wailmer during Max Monday",
-    "start_date": "Monday, February 2, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, February 2, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On February 2, 2026 , the featured Dynamax Pokémon is Wailmer .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Wailmer",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png"
-        }
-      ]
-    },
-    "is_ongoing": true
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "GO Pass: January",
@@ -235,21 +23,10 @@
     "is_ongoing": true
   },
   {
-    "name": "Great League, Ultra League, and Master League | Precious Paths",
+    "name": null,
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-    "title": "Great League, Ultra League, and Master League | Precious Paths",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Whismur Spotlight Hour",
@@ -755,7 +532,7 @@
   },
   {
     "name": "Dialga and Palkia in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
+    "url": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
     "title": "Dialga and Palkia in 5-star Raid Battles",
     "start_date": "Wednesday, February 4, 2026,",
@@ -2658,23 +2435,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Masterwork Research: A Precious Catch",
-    "url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
-    "title": "Masterwork Research: A Precious Catch",
-    "start_date": "Tuesday, December 2, 2025,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "None",
-    "end_time": null,
-    "description": "The times above are when the ticket can be purchased and the Masterwork Research can be obtained. Masterwork Research does not expire, you can complete it at your own pace. For US$7.99 (or the equivalent pricing tier in your local currency), Trainers will receive a Special Research granting a Master Ball as one of the rewards. Receiving a rare and powerful Master Ball is a special occasion—think wisely about how you’ll use it, and keep a lookout for future opportunities in Pokémon GO to acquire more! Tickets will be available for purchase in the in-game shop from Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, February 10, 2026, at 8:00 p.m. local time. Tickets cannot be purchased with PokéCoins. Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
-    "detail_types": [
-      "Research"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Precious Paths",
     "url": "https://leekduck.com/events/season-21-precious-paths/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-paths.jpg",
@@ -3315,21 +3075,10 @@
     "is_ongoing": false
   },
   {
-    "name": "May Community Day",
+    "name": null,
     "url": "https://leekduck.com/events/may-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "May Community Day",
-    "start_date": "Saturday, May 9, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, May 9, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "May Community Day Classic",
