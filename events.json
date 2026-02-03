@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: January",
@@ -79,7 +79,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Ampharos in Mega Raids",
@@ -293,12 +293,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_456_00.png"
         },
         {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
           "name": "Pikipek",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm731.icon.png"
         },
         {
           "name": "Bounsweet",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm761.icon.png"
+        },
+        {
+          "name": "Frillish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_00.png"
         },
         {
           "name": "Spritzee",
@@ -310,7 +318,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Growlithe during Max Monday",
@@ -2870,7 +2878,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
