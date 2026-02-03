@@ -784,18 +784,55 @@
   {
     "name": "Lunar New Year 2026",
     "url": "https://leekduck.com/events/lunar-new-year-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-17-lunar-new-year-2026/lunar-new-year-2026.jpg",
     "title": "Lunar New Year 2026",
     "start_date": "Tuesday, February 17, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Saturday, February 21, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Celebrate the Lunar New Year with Pokémon GO’s 2026 event! The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-17-lunar-new-year-2026/lunar-new-year-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Blitzle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00_shiny.png"
+        },
+        {
+          "name": "Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00_shiny.png"
+        },
+        {
+          "name": "Gimmighoul",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0999_001_uk_n_00000000_f_r.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
+        },
+        {
+          "name": "Galarian Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31.png"
+        },
+        {
+          "name": "Fuecoco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
+        },
+        {
+          "name": "Blitzle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png"
+        },
+        {
+          "name": "Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
