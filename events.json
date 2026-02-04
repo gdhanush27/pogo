@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Ampharos in Mega Raids",
@@ -107,7 +107,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
@@ -568,7 +568,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Pidgeot in Mega Raids",
@@ -596,7 +596,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Machop during Max Monday",
