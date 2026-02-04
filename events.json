@@ -17,10 +17,28 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Whismur Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-02-03/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Whismur Spotlight Hour",
+    "start_date": "Tuesday, February 3, 2026,",
+    "start_time": "at 6:00 PM Local Time",
+    "end_date": "Tuesday, February 3, 2026,",
+    "end_time": "at 7:00 PM Local Time",
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February. February 3 : The featured Pokémon is Whismur and the special bonus is 2× Catch Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Whismur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_293_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
   },
   {
     "name": "Mega Ampharos in Mega Raids",
@@ -525,10 +543,32 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Dialga and Palkia in 5-star Raid Battles",
     "url": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Dialga and Palkia in 5-star Raid Battles",
+    "start_date": "Wednesday, February 4, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, February 16, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Dialga and Palkia will be in five-star raid battles from February 4, 2026 to February 16, 2026. There will also be a Raid Hour featuring Dialga and Palkia from 6:00 pm to 7:00 pm local time on the following dates:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png"
+        },
+        {
+          "name": "Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": true
   },
   {
     "name": "Mega Pidgeot in Mega Raids",
@@ -1689,10 +1729,21 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Unannounced Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-02-23/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Unannounced Max Monday",
+    "start_date": "Monday, February 23, 2026,",
+    "start_time": "at 6:00 PM Local Time",
+    "end_date": "Monday, February 23, 2026,",
+    "end_time": "at 7:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! Note: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Great League and Love Cup: Great League Edition | Precious Paths",
@@ -1753,10 +1804,190 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Road to Kalos",
     "url": "https://leekduck.com/events/road-to-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Road to Kalos",
+    "start_date": "Monday, February 23, 2026,",
+    "start_time": "at 12:00 AM Local Time",
+    "end_date": "Friday, February 27, 2026,",
+    "end_time": "at 11:59 PM Local Time",
+    "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions! Plus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa? Trainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here !",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Red's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_A.icon.png"
+        },
+        {
+          "name": "Leaf's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_A_02.icon.png"
+        },
+        {
+          "name": "Ethan's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_B.icon.png"
+        },
+        {
+          "name": "Lyra's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_B_02.icon.png"
+        }
+      ],
+      "Monday, February 23: Kanto": [
+        {
+          "name": "Articuno",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
+        },
+        {
+          "name": "Zapdos",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+        },
+        {
+          "name": "Moltres",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
+        }
+      ],
+      "Tuesday, February 24: Johto": [
+        {
+          "name": "Chikorita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_152_00.png"
+        },
+        {
+          "name": "Cyndaquil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_155_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Teddiursa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_216_00.png"
+        }
+      ],
+      "Wednesday, February 25: Hoenn": [
+        {
+          "name": "Kyogre",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
+        },
+        {
+          "name": "Groudon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png"
+        }
+      ],
+      "Thursday, February 26: Sinnoh": [
+        {
+          "name": "Turtwig",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_387_00.png"
+        },
+        {
+          "name": "Chimchar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_390_00.png"
+        },
+        {
+          "name": "Piplup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
+        },
+        {
+          "name": "Bidoof",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        },
+        {
+          "name": "Snover",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png"
+        }
+      ],
+      "Friday, February 27: Unova": [
+        {
+          "name": "Reshiram",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00.png"
+        },
+        {
+          "name": "Zekrom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png"
+        },
+        {
+          "name": "Kyurem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
+        }
+      ],
+      "Eggs": [
+        {
+          "name": "Larvitar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Nate's Visor Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Nate.png"
+          },
+          {
+            "name": "Rosa's Visor Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Rosa.png"
+          }
+        ],
+        "Five-Star Raids": [
+          {
+            "name": "Zekrom",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png"
+          },
+          {
+            "name": "Kyurem (White)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12.png"
+          }
+        ],
+        "Five-Star Shadow Raids": [
+          {
+            "name": "Lugia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00.png"
+          },
+          {
+            "name": "Ho-Oh",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
+          }
+        ]
+      },
+      "Primal Raids": [
+        {
+          "name": "Primal Kyogre",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
+        },
+        {
+          "name": "Primal Groudon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Tour: Kalos - Global 2026",
@@ -2646,10 +2877,21 @@
     "is_ongoing": true
   },
   {
-    "name": null,
+    "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Lunala in 5-star Raid Battles",
@@ -2763,10 +3005,21 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Research Day",
     "url": "https://leekduck.com/events/research-day-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Research Day",
+    "start_date": "Saturday, March 21, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, March 21, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Research Day event will take place on March 21, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Research Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Max Battle Day",
