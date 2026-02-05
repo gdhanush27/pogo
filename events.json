@@ -280,6 +280,16 @@
         }
       ],
       "raid_pokemon": {
+        "In 1-Star Raids": [
+          {
+            "name": "Luvdisc",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
+          },
+          {
+            "name": "Furfrou (Natural)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+          }
+        ],
         "In 5-Star Raids": [
           {
             "name": "Enamorus (Therian Forme)",
