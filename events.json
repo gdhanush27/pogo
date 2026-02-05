@@ -25,7 +25,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
@@ -49,7 +49,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dialga and Palkia Raid Hour",
@@ -66,7 +66,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
@@ -98,7 +98,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Oricorio Catch Mastery",
