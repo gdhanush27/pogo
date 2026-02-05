@@ -1,106 +1,5 @@
 [
   {
-    "name": "Mega Ampharos in Mega Raids",
-    "url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Ampharos in Mega Raids",
-    "start_date": "Sunday, January 25, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, February 4, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Ampharos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_181_00_shiny.png"
-        },
-        {
-          "name": "Mega Ampharos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_181_51_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
-    "start_date": "Sunday, January 25, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, February 4, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026. There will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tornadus (Incarnate)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dialga and Palkia Raid Hour",
-    "url": "https://leekduck.com/events/raidhour20260204/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
-    "title": "Dialga and Palkia Raid Hour",
-    "start_date": "Wednesday, February 4, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Wednesday, February 4, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "A Raid Hour featuring Dialga and Palkia is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-    "detail_types": [
-      "Raid Hour"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
-    "url": "https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
-    "start_date": "Monday, February 2, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, February 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Ludicolo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_272_00.png"
-        },
-        {
-          "name": "Toucannon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm733.icon.png"
-        },
-        {
-          "name": "Quaquaval",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Oricorio Catch Mastery",
     "url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
@@ -360,20 +259,45 @@
     "is_ongoing": false
   },
   {
-    "name": "Raid Day",
-    "url": "https://leekduck.com/events/raid-day-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Raid Day",
+    "name": "Therian Forme Enamorus Raid Day",
+    "url": "https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
+    "title": "Therian Forme Enamorus Raid Day",
     "start_date": "Saturday, February 14, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, February 14, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Therian Forme Enamorus descends from the clouds for its Pokémon GO debut! The Therian Forme Enamorus Raid Day will take place on February 14, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Enamorus (Therian Forme)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "In 5-Star Raids": [
+          {
+            "name": "Enamorus (Therian Forme)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Luvdisc",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00_shiny.png"
+        },
+        {
+          "name": "Furfrou (Natural)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
