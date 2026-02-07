@@ -51,7 +51,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Carnival of Flamigo",
@@ -144,7 +144,7 @@
     "title": "Flamigo PokéStop Showcase",
     "start_date": "Saturday, February 7, 2026,",
     "start_time": "at 10:00 AM Local Time",
-    "end_date": "Saturday, February 7, 2026,",
+    "end_date": "Sunday, February 8, 2026,",
     "end_time": "at 8:00 PM Local Time",
     "description": "There will be PokéStop Showcases featuring Flamigo. Top the leaderboard to win rewards including Premium Items!",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
@@ -159,7 +159,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Growlithe during Max Monday",
