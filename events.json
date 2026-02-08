@@ -308,7 +308,9 @@
           {
             "name": "Luvdisc",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
-          },
+          }
+        ],
+        "In 3-Star Raids": [
           {
             "name": "Furfrou (Natural)",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
