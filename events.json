@@ -329,8 +329,48 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00.png"
         },
         {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Plusle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png"
+        },
+        {
+          "name": "Minun",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png"
+        },
+        {
+          "name": "Feebas",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png"
+        },
+        {
+          "name": "Luvdisc",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
+        },
+        {
+          "name": "Munna",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_517_00.png"
+        },
+        {
           "name": "Furfrou (Natural)",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+        },
+        {
+          "name": "Spritzee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00.png"
+        },
+        {
+          "name": "Swirlix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_684_00.png"
+        },
+        {
+          "name": "Fomantis",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png"
+        },
+        {
+          "name": "Chansey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
         },
         {
           "name": "Audino",
