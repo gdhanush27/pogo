@@ -286,6 +286,14 @@
       "raid_pokemon": {
         "Three-Star Raids": [
           {
+            "name": "Crown Nidoqueen",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm31.cROYAL_NOEVOLVE.icon.png"
+          },
+          {
+            "name": "Crown Nidoking",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm34.cROYAL_NOEVOLVE.icon.png"
+          },
+          {
             "name": "Gardevoir",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00.png"
           },
