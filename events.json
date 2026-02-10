@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra League and 2026 Championship Series Cup | Precious Paths",
@@ -101,7 +101,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dialga and Palkia Raid Hour",
@@ -386,7 +386,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dialga and Palkia in 5-star Raid Battles",
