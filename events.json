@@ -1471,6 +1471,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Lunala in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/lunala.jpg?v2",
+    "title": "Lunala in 5-star Raid Battles",
+    "start_date": "Saturday, February 21, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, February 22, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Lunala will be in five-star raid battles from February 21, 2026 to February 22, 2026.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Unannounced Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-02-23/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -2621,14 +2638,14 @@
   },
   {
     "name": "Lunala in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
+    "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/lunala.jpg?v2",
     "title": "Lunala in 5-star Raid Battles",
-    "start_date": "Saturday, February 21, 2026,",
+    "start_date": "Monday, March 2, 2026,",
     "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, March 4, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Lunala will be in five-star raid battles from February 21, 2026 to March 4, 2026. There will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:",
+    "end_date": "Tuesday, March 3, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Lunala will be in five-star raid battles from March 2, 2026 to March 3, 2026.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
     "detail_types": [
       "Raid Battles"
