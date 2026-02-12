@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Flying-type Pokémon PokéStop Showcase",
@@ -31,7 +31,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Therian Forme Enamorus Raid Day",
