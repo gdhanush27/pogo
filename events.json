@@ -71,23 +71,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Max Battle Day",
-    "url": "https://leekduck.com/events/max-battle-day-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Max Battle Day",
-    "start_date": "Sunday, February 15, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, February 15, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Gigantamax Meowth Max Battle Day",
     "url": "https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
