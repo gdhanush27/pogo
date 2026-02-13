@@ -251,6 +251,30 @@
     "is_ongoing": true
   },
   {
+    "name": "Enamorus (Therian Forme) PokéStop Showcase",
+    "url": "https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Enamorus (Therian Forme) PokéStop Showcase",
+    "start_date": "Saturday, February 14, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, February 15, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Enamorus (Therian Forme). Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Enamorus (Therian Forme)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Dialga and Palkia in 5-star Raid Battles",
     "url": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
