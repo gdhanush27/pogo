@@ -68,7 +68,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Gigantamax Meowth Max Battle Day",
@@ -272,7 +272,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dialga and Palkia in 5-star Raid Battles",
