@@ -1,22 +1,5 @@
 [
   {
-    "name": "Twitch Drops for 2026 Pokémon Europe International Championships",
-    "url": "https://leekduck.com/events/pokemon-europe-international-championships-2026-timed-research-twitch-drops/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-13-pokemon-europe-international-championships-2026-timed-research-twitch-drops/euic-2026.jpg",
-    "title": "Twitch Drops for 2026 Pokémon Europe International Championships",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Get codes for exclusive Timed Research during the 2026 Pokémon Europe International Championships Twitch broadcast. Pokémon GO Trainers are headed to London for the 2026 Pokémon Europe International Championships to have their skills tested as they battle on the road to crown the 2026 Pokémon World Champion! You’ll be able to watch exciting Pokémon battles live from London all weekend long, from February 13–15, 2026. Pokémon GO Trainers who tune in to the EUIC livestream on Twitch can also receive Timed Research via Twitch Drops, featuring 15 Seel Candy XL, 20 Fast TMs, 20 Charged TMs, and a Dewgong inspired by NiteTimeClasher’s LAIC-winning team. You can watch live and learn more about the 2026 Europe International Championships at: twitch.tv/pokemongo Find more information on the Timed Research from the Twitch Drops in the Research section .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-13-pokemon-europe-international-championships-2026-timed-research-twitch-drops/euic-2026.jpg",
-    "detail_types": [
-      "Research"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Therian Forme Enamorus Raid Day",
     "url": "https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
@@ -68,7 +51,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Gigantamax Meowth Max Battle Day",
@@ -92,7 +75,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Valentine's Day 2026",
