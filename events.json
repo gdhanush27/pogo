@@ -1,59 +1,5 @@
 [
   {
-    "name": "Therian Forme Enamorus Raid Day",
-    "url": "https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
-    "title": "Therian Forme Enamorus Raid Day",
-    "start_date": "Saturday, February 14, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, February 14, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Therian Forme Enamorus descends from the clouds for its Pokémon GO debut! The Therian Forme Enamorus Raid Day will take place on February 14, 2026 from 2 pm to 5 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Enamorus (Therian Forme)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "In 1-Star Raids": [
-          {
-            "name": "Luvdisc",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
-          }
-        ],
-        "In 3-Star Raids": [
-          {
-            "name": "Furfrou (Natural)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
-          }
-        ],
-        "In 5-Star Raids": [
-          {
-            "name": "Enamorus (Therian Forme)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Luvdisc",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00_shiny.png"
-        },
-        {
-          "name": "Furfrou (Natural)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Gigantamax Meowth Max Battle Day",
     "url": "https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
