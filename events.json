@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Valentine's Day 2026",
@@ -177,7 +177,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Enamorus (Therian Forme) PokéStop Showcase",
@@ -201,7 +201,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dialga and Palkia in 5-star Raid Battles",
@@ -281,7 +281,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Master League and 2026 Championship Series Cup | Precious Paths",
@@ -381,6 +381,34 @@
     "is_ongoing": false
   },
   {
+    "name": "Galarian Ponyta and Turtonator PokéStop Showcase",
+    "url": "https://leekduck.com/events/galarian-ponyta-turtonator-showcase-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Galarian Ponyta and Turtonator PokéStop Showcase",
+    "start_date": "Monday, February 16, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, February 18, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Galarian Ponyta and Turtonator. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Galarian Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
     "name": "Mega Sableye in Mega Raids",
     "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -406,7 +434,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Solgaleo in 5-star Raid Battles",
@@ -423,7 +451,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Lunar New Year 2026",
