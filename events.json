@@ -1,209 +1,5 @@
 [
   {
-    "name": "Gigantamax Meowth Max Battle Day",
-    "url": "https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
-    "title": "Gigantamax Meowth Max Battle Day",
-    "start_date": "Sunday, February 15, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, February 15, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Gigantamax Meowth Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {
-      "Gigantamax Debut!": [
-        {
-          "name": "Gigantamax Meowth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm52.fGIGANTAMAX.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Valentine's Day 2026",
-    "url": "https://leekduck.com/events/valentines-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
-    "title": "Valentine's Day 2026",
-    "start_date": "Tuesday, February 10, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, February 15, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Furfrou Heart Trim": [
-        {
-          "name": "Furfrou (Natural)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
-        },
-        {
-          "name": "Furfrou (Heart)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fHEART.icon.png"
-        }
-      ],
-      "Eggs": [
-        {
-          "name": "Nidoran♀",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00.png"
-        },
-        {
-          "name": "Nidoran♂",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00.png"
-        },
-        {
-          "name": "Cleffa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png"
-        },
-        {
-          "name": "Igglybuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_174_00.png"
-        },
-        {
-          "name": "Cherubi",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png"
-        },
-        {
-          "name": "Happiny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Three-Star Raids": [
-          {
-            "name": "Crown Nidoqueen",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm31.cROYAL_NOEVOLVE.icon.png"
-          },
-          {
-            "name": "Crown Nidoking",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm34.cROYAL_NOEVOLVE.icon.png"
-          },
-          {
-            "name": "Gardevoir",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00.png"
-          },
-          {
-            "name": "Gallade",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_475_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Nidoran♀",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00_shiny.png"
-        },
-        {
-          "name": "Nidoran♂",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00_shiny.png"
-        }
-      ],
-      "Featured Attack": [
-        {
-          "name": "Ralts",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
-        },
-        {
-          "name": "Kirlia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_281_00.png"
-        },
-        {
-          "name": "Gardevoir",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Nidoran♀",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_029_00.png"
-        },
-        {
-          "name": "Nidoran♂",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_032_00.png"
-        },
-        {
-          "name": "Jigglypuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
-        },
-        {
-          "name": "Plusle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png"
-        },
-        {
-          "name": "Minun",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png"
-        },
-        {
-          "name": "Feebas",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png"
-        },
-        {
-          "name": "Luvdisc",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
-        },
-        {
-          "name": "Munna",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_517_00.png"
-        },
-        {
-          "name": "Furfrou (Natural)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
-        },
-        {
-          "name": "Spritzee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00.png"
-        },
-        {
-          "name": "Swirlix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_684_00.png"
-        },
-        {
-          "name": "Fomantis",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png"
-        },
-        {
-          "name": "Chansey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
-        },
-        {
-          "name": "Audino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Enamorus (Therian Forme) PokéStop Showcase",
-    "url": "https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Enamorus (Therian Forme) PokéStop Showcase",
-    "start_date": "Saturday, February 14, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, February 15, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be PokéStop Showcases featuring Enamorus (Therian Forme). Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Enamorus (Therian Forme)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm905.fTHERIAN.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dialga and Palkia in 5-star Raid Battles",
     "url": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -490,6 +286,22 @@
         {
           "name": "Galarian Ponyta",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31.png"
+        },
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Shuckle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png"
+        },
+        {
+          "name": "Tepig",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_498_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
         },
         {
           "name": "Fuecoco",
