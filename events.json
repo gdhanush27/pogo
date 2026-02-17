@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Master League and 2026 Championship Series Cup | Precious Paths",
@@ -101,7 +101,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Solgaleo Raid Hour",
@@ -261,7 +261,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon GO Tour: Kalos - Tainan 2026",
