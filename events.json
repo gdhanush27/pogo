@@ -2597,5 +2597,11 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
+  },
+  {
+    "name": null,
+    "url": "https://leekduck.com/events/example_event/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/example_event/"
   }
 ]
