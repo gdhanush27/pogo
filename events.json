@@ -1,85 +1,5 @@
 [
   {
-    "name": "Dynamax Machop during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-02-16/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Machop during Max Monday",
-    "start_date": "Monday, February 16, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, February 16, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On February 16, 2026 , the featured Dynamax Pokémon is Machop .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Machop",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Master League and 2026 Championship Series Cup | Precious Paths",
-    "url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master League and 2026 Championship Series Cup | Precious Paths",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). The following Pokémon will not be allowed.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {
-      "2026 Championship Series Cup": [
-        {
-          "name": "Wigglytuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_040_00.png"
-        },
-        {
-          "name": "Chansey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
-        },
-        {
-          "name": "Crustle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_558_00.png"
-        },
-        {
-          "name": "Diggersby",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_660_00.png"
-        },
-        {
-          "name": "Ribombee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm743.icon.png"
-        },
-        {
-          "name": "Araquanid",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.icon.png"
-        },
-        {
-          "name": "Turtonator",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
-        },
-        {
-          "name": "Morgrem",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm860.icon.png"
-        },
-        {
-          "name": "Morpeko",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm877.fFULL_BELLY.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Horsea Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
@@ -1451,6 +1371,64 @@
       "Ticketed Event"
     ],
     "pokemon_sections": {
+      "Shining surprises await": [
+        {
+          "name": "Calem's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_shiny.png"
+        },
+        {
+          "name": "Serena's Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_shiny.png"
+        },
+        {
+          "name": "Kangaskhan",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_115_00_shiny.png"
+        },
+        {
+          "name": "Heracross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_214_00_shiny.png"
+        },
+        {
+          "name": "Larvitar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00_shiny.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00_shiny.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00_shiny.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00_shiny.png"
+        },
+        {
+          "name": "Chespin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00_shiny.png"
+        },
+        {
+          "name": "Fennekin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00_shiny.png"
+        },
+        {
+          "name": "Froakie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00_shiny.png"
+        },
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00_shiny.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00_shiny.png"
+        },
+        {
+          "name": "Klefki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00_shiny.png"
+        }
+      ],
       "Even More Shiny Pokémon Debuts? Très Bien!": [
         {
           "name": "Honedge",
