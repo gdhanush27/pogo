@@ -2388,20 +2388,47 @@
     "is_ongoing": false
   },
   {
-    "name": "March Community Day",
+    "name": "Scorbunny Community Day",
     "url": "https://leekduck.com/events/march-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "March Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placeholder.jpg",
+    "title": "Scorbunny Community Day",
     "start_date": "Saturday, March 14, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, March 14, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Scorbunny, the Rabbit Pokémon, will be featured during March Community Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placeholder.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Photobomb": [
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.s.icon.png"
+        },
+        {
+          "name": "Raboot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm814.s.icon.png"
+        },
+        {
+          "name": "Cinderace",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
