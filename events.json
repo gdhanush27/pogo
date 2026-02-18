@@ -101,7 +101,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Solgaleo Raid Hour",
@@ -118,7 +118,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Galarian Ponyta and Turtonator PokéStop Showcase",
