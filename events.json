@@ -433,7 +433,9 @@
           {
             "name": "Mega Lucario",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0448_001_mf_n_00000000_f_n.png"
-          },
+          }
+        ],
+        "Super Mega Raids": [
           {
             "name": "Mega Victreebel",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
@@ -563,6 +565,10 @@
           {
             "name": "Mega Garchomp",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0445_001_mf_n_00000000_f_n.png"
+          },
+          {
+            "name": "Mega Dragonite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
           }
         ]
       }
@@ -888,7 +894,9 @@
           {
             "name": "Mega Lucario",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0448_001_mf_n_00000000_f_n.png"
-          },
+          }
+        ],
+        "Super Mega Raids": [
           {
             "name": "Mega Victreebel",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
@@ -1018,6 +1026,10 @@
           {
             "name": "Mega Garchomp",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0445_001_mf_n_00000000_f_n.png"
+          },
+          {
+            "name": "Mega Dragonite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
           }
         ]
       }
