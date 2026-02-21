@@ -1051,7 +1051,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Meowth, Vulpix, and Alolan Vulpix PokéStop Showcase",
@@ -1083,7 +1083,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Unannounced Max Monday",
@@ -2352,7 +2352,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Shadow Regigigas in Shadow Raids",
