@@ -555,6 +555,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Pikachu PokéStop Showcase",
+    "url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Pikachu PokéStop Showcase",
+    "start_date": "Monday, February 23, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, February 23, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be a PokéStop Showcase featuring Pikachu on Monday, February 23 (local time). The Showcase starts and ends on Monday. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Great League and Love Cup: Great League Edition | Precious Paths",
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
