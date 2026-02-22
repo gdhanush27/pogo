@@ -25,7 +25,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Solgaleo in 5-star Raid Battles",
@@ -42,7 +42,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Lunar New Year 2026",
@@ -112,7 +112,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Tour: Kalos - Tainan 2026",
