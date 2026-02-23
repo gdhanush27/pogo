@@ -475,7 +475,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Absol in Mega Raids",
@@ -503,7 +503,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Meowth, Vulpix, and Alolan Vulpix PokéStop Showcase",
@@ -535,7 +535,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Unannounced Max Monday",
@@ -552,7 +552,7 @@
       "Max Mondays"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pikachu PokéStop Showcase",
@@ -576,7 +576,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League and Love Cup: Great League Edition | Precious Paths",
@@ -808,7 +808,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon GO Tour: Kalos - Global 2026",
@@ -1284,7 +1284,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "[Promo Code] GO Tour Fairy Type Timed Research",
