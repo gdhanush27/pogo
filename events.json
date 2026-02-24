@@ -14,7 +14,7 @@
       "Max Mondays"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pikachu PokéStop Showcase",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League and Love Cup: Great League Edition | Precious Paths",
@@ -79,7 +79,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Lunala Raid Hour",
