@@ -82,6 +82,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Pikachu PokéStop Showcase",
+    "url": "https://leekduck.com/events/pikachu-showcase-february-2026-wednesday/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Pikachu PokéStop Showcase",
+    "start_date": "Wednesday, February 25, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, February 25, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be a PokéStop Showcase featuring Pikachu on Wednesday, February 25 (local time). The Showcase starts and ends on Wednesday. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Road to Kalos",
     "url": "https://leekduck.com/events/road-to-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
@@ -1464,6 +1488,148 @@
       "Raid Day"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Memories in Motion",
+    "url": "https://leekduck.com/events/season-22-memories-in-motion/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
+    "title": "Memories in Motion",
+    "start_date": "Tuesday, March 3, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, June 2, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Welcome to Pokémon GO: Memories in Motion! In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
+    "detail_types": [
+      "Season"
+    ],
+    "pokemon_sections": {
+      "Research Breakthrough": [
+        {
+          "name": "Gyarados",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png"
+        },
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Dhelmise",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
+        },
+        {
+          "name": "Sinistea",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
+        },
+        {
+          "name": "Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        },
+        {
+          "name": "Dreepy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
+        }
+      ],
+      "In 2 km Eggs": [
+        {
+          "name": "Dunsparce",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_206_00.png"
+        },
+        {
+          "name": "Wimpod",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
+        },
+        {
+          "name": "Tadbulb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        },
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        }
+      ],
+      "In 5 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Toxel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Galarian Meowth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        },
+        {
+          "name": "Galarian Zigzagoon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        }
+      ],
+      "In 7 km Eggs From Route Rewards": [
+        {
+          "name": "Hisuian Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Galarian Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
+        },
+        {
+          "name": "Basculin (White Striped)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png"
+        }
+      ],
+      "In 10 km Eggs": [
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+        },
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Impidimp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png"
+        }
+      ],
+      "In 10 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Chingling",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png"
+        },
+        {
+          "name": "Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+        },
+        {
+          "name": "Audino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
