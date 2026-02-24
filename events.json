@@ -1,22 +1,5 @@
 [
   {
-    "name": "Kanto Starters Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-02-23/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Kanto Starters Max Monday",
-    "start_date": "Monday, February 23, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, February 23, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On February 23, 2026 , the featured Dynamax Pokémon are Bulbasaur , Squirtle , and Charmander . Note: Chansey will be available from February 23 to March 2, but Kanto Starters Max Monday on February 23 will feature Bulbasaur, Squirtle, and Charmander.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Pikachu PokéStop Showcase",
     "url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
@@ -679,7 +662,7 @@
       "Sunday, March 1": [
         {
           "name": "Mega Malamar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Malamar.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
         },
         {
           "name": "Mega Dragonite",
