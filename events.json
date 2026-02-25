@@ -1501,7 +1501,7 @@
       "Shiny": [
         {
           "name": "Zacian (Hero of Many Battles)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fHERO.s.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fHERO.s.icon.png"
         }
       ]
     },
@@ -1566,20 +1566,123 @@
     "is_ongoing": false
   },
   {
-    "name": "Bug Out",
+    "name": "Bug Out 2026",
     "url": "https://leekduck.com/events/bug-out-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Bug Out",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
+    "title": "Bug Out 2026",
     "start_date": "Tuesday, March 17, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, March 23, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Bug Out event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Blipbug",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0824_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Dottler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0825_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Orbeetle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0826_000_mf_n_00000000_f_n.png"
+        }
+      ],
+      "March 17 at 10:00 a.m. to March 19 at 10:00 a.m. local time": [
+        {
+          "name": "Paras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_046_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        }
+      ],
+      "March 19 at 10:00 a.m. to March 21 at 10:00 a.m. local time": [
+        {
+          "name": "Cutiefly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.icon.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        }
+      ],
+      "March 21 at 10:00 a.m. to March 23 at 8:00 p.m. local time": [
+        {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Blipbug",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0824_000_mf_n_00000000_f_n.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Pinsir",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00.png"
+          },
+          {
+            "name": "Scizor",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+          },
+          {
+            "name": "Kleavor",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm900.icon.png"
+          }
+        ]
+      },
+      "Increased Shiny Chance": [
+        {
+          "name": "Paras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_046_00_shiny.png"
+        },
+        {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00_shiny.png"
+        },
+        {
+          "name": "Cutiefly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Caterpie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png"
+        },
+        {
+          "name": "Scyther",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
+        },
+        {
+          "name": "Dwebble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Nymble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm919.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
