@@ -41,6 +41,36 @@
     "is_ongoing": true
   },
   {
+    "name": "Pikachu PokéStop Showcase",
+    "url": "https://leekduck.com/events/pikachu-showcase-february-2026-thursday/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Pikachu PokéStop Showcase",
+    "start_date": "Thursday, February 26, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Thursday, February 26, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "There will be a PokéStop Showcase featuring Pikachu on Thursday, February 26 (local time). The Showcase starts and ends on Thursday. Top the leaderboard to win rewards including Premium Items!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": null,
+    "url": "https://leekduck.com/events/pikachu-showcase-february-2026-friday/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_error": "404 Client Error: Not Found for url: https://leekduck.com/events/pikachu-showcase-february-2026-friday/"
+  },
+  {
     "name": "Road to Kalos",
     "url": "https://leekduck.com/events/road-to-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
@@ -1646,6 +1676,16 @@
           }
         ]
       },
+      "Shiny Debut": [
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.s.icon.png"
+        },
+        {
+          "name": "Centiskorch",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm851.s.icon.png"
+        }
+      ],
       "Increased Shiny Chance": [
         {
           "name": "Paras",
