@@ -1,0 +1,305 @@
+{% extends "base.html" %}
+
+{% block title %}PoGo Intel | Power-Up Protocol{% endblock %}
+{% block meta_description %}Calculate Stardust, Candy, and XL Candy requirements for Pokémon GO power-ups with tactical precision.{% endblock %}
+
+{% block content %}
+<section class="hero reveal" style="background-image: url('https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1600&q=80');">
+    <div class="hero-content">
+        <p class="eyebrow">[ RESOURCE CALCULATION ENGINE ]</p>
+        <h1 class="hero-line-a">Upgrade Signal beyond</h1>
+        <h2 class="hero-line-b">Guesswork.</h2>
+        <p class="hero-copy">
+            Calculate exact Stardust and Candy cost paths from current to target level, with modifier-aware outputs for Lucky, Purified, and Shadow Pokémon.
+        </p>
+        <a href="#powerup-calc" class="btn-magnetic nav-cta">
+            <span></span>
+            <em>Run Calculation</em>
+        </a>
+    </div>
+</section>
+
+<section id="powerup-calc" class="powerup-grid reveal">
+    <section class="page-block">
+        <div class="card-header">Configuration</div>
+
+        <div class="slider-group">
+            <div class="slider-label">
+                <span>Current Level</span>
+                <span id="currentLevelDisplay" class="slider-value">1</span>
+            </div>
+            <input type="range" id="currentLevel" min="1" max="49.5" step="0.5" value="1">
+        </div>
+
+        <div class="slider-group">
+            <div class="slider-label">
+                <span>Target Level</span>
+                <span id="targetLevelDisplay" class="slider-value">40</span>
+            </div>
+            <input type="range" id="targetLevel" min="1.5" max="50" step="0.5" value="40">
+        </div>
+
+        <div class="form-control">
+            <label for="pokemonType">Pokémon Form</label>
+            <select id="pokemonType">
+                <option value="normal">Normal</option>
+                <option value="lucky">Lucky (-50%)</option>
+                <option value="purified">Purified (-10%)</option>
+                <option value="shadow">Shadow (+20% Dust)</option>
+            </select>
+            <span id="typeDesc" class="hint-text">Standard costs apply.</span>
+        </div>
+    </section>
+
+    <section class="page-block">
+        <div class="card-header">Total Resources Needed</div>
+
+        <div class="result-box">
+            <div class="result-intro">
+                Upgrading from <strong id="fromLevelDisplay">1</strong> to <strong id="toLevelDisplay">40</strong>
+            </div>
+
+            <div class="result-row">
+                <div class="cost-item">
+                    <div class="cost-icon">⭐</div>
+                    <div class="cost-value" id="stardustCost">0</div>
+                    <div class="cost-label">Stardust</div>
+                </div>
+                <div class="cost-item" id="candyContainer">
+                    <div class="cost-icon">🍬</div>
+                    <div class="cost-value" id="candyCost">0</div>
+                    <div class="cost-label">Candy</div>
+                </div>
+                <div class="cost-item hidden" id="xlCandyContainer">
+                    <div class="cost-icon">🍬</div>
+                    <div class="cost-value" id="xlCandyCost">0</div>
+                    <div class="cost-label">XL Candy <span class="xl-badge">XL</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const RAW_DATA = [
+      {"level": 1, "stardust": 200, "candy": 1},
+      {"level": 1.5, "stardust": 200, "candy": 1},
+      {"level": 2, "stardust": 200, "candy": 1},
+      {"level": 2.5, "stardust": 200, "candy": 1},
+      {"level": 3, "stardust": 400, "candy": 1},
+      {"level": 3.5, "stardust": 400, "candy": 1},
+      {"level": 4, "stardust": 400, "candy": 1},
+      {"level": 4.5, "stardust": 400, "candy": 1},
+      {"level": 5, "stardust": 600, "candy": 1},
+      {"level": 5.5, "stardust": 600, "candy": 1},
+      {"level": 6, "stardust": 600, "candy": 1},
+      {"level": 6.5, "stardust": 600, "candy": 1},
+      {"level": 7, "stardust": 800, "candy": 1},
+      {"level": 7.5, "stardust": 800, "candy": 1},
+      {"level": 8, "stardust": 800, "candy": 1},
+      {"level": 8.5, "stardust": 800, "candy": 1},
+      {"level": 9, "stardust": 1000, "candy": 1},
+      {"level": 9.5, "stardust": 1000, "candy": 1},
+      {"level": 10, "stardust": 1000, "candy": 1},
+      {"level": 10.5, "stardust": 1000, "candy": 1},
+      {"level": 11, "stardust": 1300, "candy": 2},
+      {"level": 11.5, "stardust": 1300, "candy": 2},
+      {"level": 12, "stardust": 1300, "candy": 2},
+      {"level": 12.5, "stardust": 1300, "candy": 2},
+      {"level": 13, "stardust": 1600, "candy": 2},
+      {"level": 13.5, "stardust": 1600, "candy": 2},
+      {"level": 14, "stardust": 1600, "candy": 2},
+      {"level": 14.5, "stardust": 1600, "candy": 2},
+      {"level": 15, "stardust": 1900, "candy": 2},
+      {"level": 15.5, "stardust": 1900, "candy": 2},
+      {"level": 16, "stardust": 1900, "candy": 2},
+      {"level": 16.5, "stardust": 1900, "candy": 2},
+      {"level": 17, "stardust": 2200, "candy": 2},
+      {"level": 17.5, "stardust": 2200, "candy": 2},
+      {"level": 18, "stardust": 2200, "candy": 2},
+      {"level": 18.5, "stardust": 2200, "candy": 2},
+      {"level": 19, "stardust": 2500, "candy": 2},
+      {"level": 19.5, "stardust": 2500, "candy": 2},
+      {"level": 20, "stardust": 2500, "candy": 2},
+      {"level": 20.5, "stardust": 2500, "candy": 2},
+      {"level": 21, "stardust": 3000, "candy": 3},
+      {"level": 21.5, "stardust": 3000, "candy": 3},
+      {"level": 22, "stardust": 3000, "candy": 3},
+      {"level": 22.5, "stardust": 3000, "candy": 3},
+      {"level": 23, "stardust": 3500, "candy": 3},
+      {"level": 23.5, "stardust": 3500, "candy": 3},
+      {"level": 24, "stardust": 3500, "candy": 3},
+      {"level": 24.5, "stardust": 3500, "candy": 3},
+      {"level": 25, "stardust": 4000, "candy": 3},
+      {"level": 25.5, "stardust": 4000, "candy": 3},
+      {"level": 26, "stardust": 4000, "candy": 4},
+      {"level": 26.5, "stardust": 4000, "candy": 4},
+      {"level": 27, "stardust": 4500, "candy": 4},
+      {"level": 27.5, "stardust": 4500, "candy": 4},
+      {"level": 28, "stardust": 4500, "candy": 4},
+      {"level": 28.5, "stardust": 4500, "candy": 4},
+      {"level": 29, "stardust": 5000, "candy": 4},
+      {"level": 29.5, "stardust": 5000, "candy": 4},
+      {"level": 30, "stardust": 5000, "candy": 4},
+      {"level": 30.5, "stardust": 5000, "candy": 4},
+      {"level": 31, "stardust": 6000, "candy": 6},
+      {"level": 31.5, "stardust": 6000, "candy": 6},
+      {"level": 32, "stardust": 6000, "candy": 6},
+      {"level": 32.5, "stardust": 6000, "candy": 6},
+      {"level": 33, "stardust": 7000, "candy": 8},
+      {"level": 33.5, "stardust": 7000, "candy": 8},
+      {"level": 34, "stardust": 7000, "candy": 8},
+      {"level": 34.5, "stardust": 7000, "candy": 8},
+      {"level": 35, "stardust": 8000, "candy": 10},
+      {"level": 35.5, "stardust": 8000, "candy": 10},
+      {"level": 36, "stardust": 8000, "candy": 10},
+      {"level": 36.5, "stardust": 8000, "candy": 10},
+      {"level": 37, "stardust": 9000, "candy": 12},
+      {"level": 37.5, "stardust": 9000, "candy": 12},
+      {"level": 38, "stardust": 9000, "candy": 12},
+      {"level": 38.5, "stardust": 9000, "candy": 12},
+      {"level": 39, "stardust": 10000, "candy": 15},
+      {"level": 39.5, "stardust": 10000, "candy": 15},
+      {"level": 40, "stardust": 10000, "xlCandy": 10},
+      {"level": 40.5, "stardust": 10000, "xlCandy": 10},
+      {"level": 41, "stardust": 10000, "xlCandy": 10},
+      {"level": 41.5, "stardust": 10000, "xlCandy": 10},
+      {"level": 42, "stardust": 11000, "xlCandy": 10},
+      {"level": 42.5, "stardust": 11000, "xlCandy": 10},
+      {"level": 43, "stardust": 11000, "xlCandy": 12},
+      {"level": 43.5, "stardust": 11000, "xlCandy": 12},
+      {"level": 44, "stardust": 12000, "xlCandy": 12},
+      {"level": 44.5, "stardust": 12000, "xlCandy": 12},
+      {"level": 45, "stardust": 12000, "xlCandy": 15},
+      {"level": 45.5, "stardust": 12000, "xlCandy": 15},
+      {"level": 46, "stardust": 13000, "xlCandy": 15},
+      {"level": 46.5, "stardust": 13000, "xlCandy": 15},
+      {"level": 47, "stardust": 13000, "xlCandy": 17},
+      {"level": 47.5, "stardust": 13000, "xlCandy": 17},
+      {"level": 48, "stardust": 14000, "xlCandy": 17},
+      {"level": 48.5, "stardust": 14000, "xlCandy": 17},
+      {"level": 49, "stardust": 14000, "xlCandy": 20},
+      {"level": 49.5, "stardust": 14000, "xlCandy": 20},
+      {"level": 50, "stardust": 15000, "xlCandy": 20}
+    ];
+
+    const elCurrentLevel = document.getElementById("currentLevel");
+    const elCurrentDisplay = document.getElementById("currentLevelDisplay");
+    const elTargetLevel = document.getElementById("targetLevel");
+    const elTargetDisplay = document.getElementById("targetLevelDisplay");
+    const elPokemonType = document.getElementById("pokemonType");
+    const elTypeDesc = document.getElementById("typeDesc");
+
+    const elFromDisplay = document.getElementById("fromLevelDisplay");
+    const elToDisplay = document.getElementById("toLevelDisplay");
+    const elStardustCost = document.getElementById("stardustCost");
+    const elCandyCost = document.getElementById("candyCost");
+    const elCandyContainer = document.getElementById("candyContainer");
+    const elXlCandyCost = document.getElementById("xlCandyCost");
+    const elXlCandyContainer = document.getElementById("xlCandyContainer");
+
+    const state = {
+        current: 1,
+        target: 40,
+        type: "normal"
+    };
+
+    function formatNumber(num) {
+        return new Intl.NumberFormat().format(Math.floor(num));
+    }
+
+    function getModifiers(type) {
+        switch (type) {
+            case "lucky":
+                return { dustMult: 0.5, candyMult: 0.5, desc: "Lucky Pokémon: 50% less Stardust and Candy." };
+            case "purified":
+                return { dustMult: 0.9, candyMult: 0.9, desc: "Purified Pokémon: 10% less Stardust and Candy." };
+            case "shadow":
+                return { dustMult: 1.2, candyMult: 1.0, desc: "Shadow Pokémon: 20% more Stardust (Candy unchanged)." };
+            default:
+                return { dustMult: 1.0, candyMult: 1.0, desc: "Standard power-up costs." };
+        }
+    }
+
+    function calculate() {
+        state.current = parseFloat(elCurrentLevel.value);
+        state.target = parseFloat(elTargetLevel.value);
+        state.type = elPokemonType.value;
+
+        const modifiers = getModifiers(state.type);
+
+        elCurrentDisplay.textContent = state.current;
+        elTargetDisplay.textContent = state.target;
+        elTypeDesc.textContent = modifiers.desc;
+        elFromDisplay.textContent = state.current;
+        elToDisplay.textContent = state.target;
+
+        if (state.current >= state.target) {
+            elStardustCost.textContent = "---";
+            elCandyCost.textContent = "---";
+            elXlCandyCost.textContent = "---";
+            elCandyContainer.classList.add("hidden");
+            elXlCandyContainer.classList.add("hidden");
+            return;
+        }
+
+        let totalDust = 0;
+        let totalCandy = 0;
+        let totalXlCandy = 0;
+
+        let nextLvl = state.current + 0.5;
+        while (nextLvl <= state.target) {
+            const stepData = RAW_DATA.find((d) => d.level === nextLvl);
+            if (stepData) {
+                totalDust += stepData.stardust * modifiers.dustMult;
+
+                if (stepData.xlCandy) {
+                    totalXlCandy += stepData.xlCandy * modifiers.candyMult;
+                } else if (stepData.candy) {
+                    totalCandy += stepData.candy * modifiers.candyMult;
+                }
+            }
+            nextLvl = parseFloat((nextLvl + 0.5).toFixed(1));
+        }
+
+        elStardustCost.textContent = formatNumber(totalDust);
+
+        if (totalCandy > 0) {
+            elCandyContainer.classList.remove("hidden");
+            elCandyCost.textContent = formatNumber(totalCandy);
+        } else {
+            elCandyContainer.classList.add("hidden");
+        }
+
+        if (totalXlCandy > 0) {
+            elXlCandyContainer.classList.remove("hidden");
+            elXlCandyCost.textContent = formatNumber(totalXlCandy);
+        } else {
+            elXlCandyContainer.classList.add("hidden");
+        }
+    }
+
+    function syncSliders(source) {
+        const currentVal = parseFloat(elCurrentLevel.value);
+        const targetVal = parseFloat(elTargetLevel.value);
+
+        if (source === "current" && targetVal <= currentVal) {
+            elTargetLevel.value = currentVal + 0.5;
+        }
+
+        if (source === "target" && currentVal >= targetVal) {
+            elCurrentLevel.value = targetVal - 0.5;
+        }
+
+        calculate();
+    }
+
+    elCurrentLevel.addEventListener("input", () => syncSliders("current"));
+    elTargetLevel.addEventListener("input", () => syncSliders("target"));
+    elPokemonType.addEventListener("change", calculate);
+
+    calculate();
+</script>
+{% endblock %}

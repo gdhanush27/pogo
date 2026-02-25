@@ -182,6 +182,11 @@ def spawns():
     return render_template("spawns.html", events=spawn_events, last_fetch=last_fetch)
 
 
+@app.route("/powerup")
+def powerup():
+    """Render the power-up calculator page."""
+    return render_template("powerup.html")
+
 @app.route("/api/events")
 def api_events():
     """API endpoint to get events as JSON."""

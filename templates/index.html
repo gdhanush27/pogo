@@ -1,112 +1,124 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- PWA Meta Tags -->
-    <meta name="theme-color" content="#667eea">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Leek Duck">
-    <meta name="description" content="Stay updated with Pokémon GO events, raids, and spawns">
-    
-    <!-- Icons -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23ff1c1c' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='48' fill='none' stroke='%23000' stroke-width='4'/><rect x='0' y='46' width='100' height='8' fill='%23000'/><circle cx='50' cy='50' r='16' fill='%23fff' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='8' fill='%23000'/><path d='M50,2 A48,48 0 0,1 50,98' fill='%23fff' opacity='0.1'/></svg>" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-192x192.png') }}">
-    
-    <!-- PWA Manifest -->
-    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
-    
-    <!-- Styles -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-    
-    <title>Pokémon GO Events - Leek Duck</title>
-</head>
-<body>
-    <div class="container">
-        <nav>
-            <a href="/" class="active">🏠 Home</a>
-            <a href="/raids">⚔️ Raids</a>
-            <a href="/spawns">🌍 Spawns</a>
-        </nav>
+{% extends "base.html" %}
 
-        <header>
-            <h1>🦆 Pokémon GO Events</h1>
-            <p>{{ events|length }} upcoming events from Leek Duck</p>
-            {% if last_fetch %}
-            <p style="font-size: 0.85rem; opacity: 0.8; margin-top: 5px;">Last fetched: {{ last_fetch }}</p>
+{% block title %}PoGo Intel | Event Command Center{% endblock %}
+{% block meta_description %}Track ongoing and upcoming Pokémon GO events in a cinematic intelligence dashboard.{% endblock %}
+
+{% block content %}
+<section class="hero reveal" style="background-image: url('https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=1600&q=80');">
+    <div class="hero-content">
+        <p class="eyebrow">[ LIVE INTELLIGENCE STREAM ]</p>
+        <h1 class="hero-line-a">Event Signal beyond</h1>
+        <h2 class="hero-line-b">Boundaries.</h2>
+        <p class="hero-copy">
+            Precision monitoring for Pokémon GO global rotations. Surface active windows, verify event metadata, and deploy faster play decisions.
+        </p>
+        <a href="#event-grid" class="btn-magnetic nav-cta">
+            <span></span>
+            <em>Scan Events</em>
+        </a>
+        {% if last_fetch %}
+        <p class="last-fetch">Last fetch: {{ last_fetch }}</p>
+        {% endif %}
+    </div>
+</section>
+
+<section class="info-panel reveal">
+    <p><strong>{{ events|length }}</strong> events indexed. Ongoing entries are surfaced first for immediate tactical visibility.</p>
+</section>
+
+{% if events %}
+<section id="event-grid" class="event-grid">
+    {% for event in events %}
+    <article class="event-card reveal">
+        {% if event.hero_image %}
+        <img src="{{ event.hero_image }}" alt="{{ event.title or event.name }}" class="event-image">
+        {% endif %}
+
+        <div class="event-content">
+            {% if event.is_ongoing %}
+            <div class="ongoing-badge">
+                <span class="ongoing-dot"></span>
+                <span>ONGOING</span>
+            </div>
             {% endif %}
-        </header>
 
-        {% if events %}
-        <div class="event-grid">
-            {% for event in events %}
-            <div class="event-card">
-                {% if event.hero_image %}
-                <img src="{{ event.hero_image }}" alt="{{ event.title }}" class="event-image">
+            {% if event.detail_types %}
+            <div class="event-types">
+                {% for type in event.detail_types %}
+                <span class="event-type-badge {{ type|lower|replace(' ', '-') }}">{{ type }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            <h3 class="event-title">{{ event.title or event.name }}</h3>
+
+            {% if event.start_date and event.start_time %}
+            <div class="event-date">
+                📅 {{ event.start_date }} {{ event.start_time }}
+                {% if event.end_date and event.end_time %}
+                <br>to {{ event.end_date }} {{ event.end_time }}
                 {% endif %}
-                
-                <div class="event-content">
-                    {% if event.is_ongoing %}
-                    <div class="ongoing-badge">
-                        <span class="ongoing-dot"></span>
-                        <span>ONGOING</span>
-                    </div>
-                    {% endif %}
+            </div>
+            {% endif %}
 
-                    {% if event.detail_types %}
-                    <div class="event-types">
-                        {% for type in event.detail_types %}
-                        <span class="event-type-badge {{ type|lower|replace(' ', '-') }}">{{ type }}</span>
-                        {% endfor %}
-                    </div>
-                    {% endif %}
+            {% if event.description %}
+            <p class="event-description">{{ event.description }}</p>
+            {% endif %}
 
-                    <h2 class="event-title">{{ event.title or event.name }}</h2>
-
-                    {% if event.start_date and event.start_time %}
-                    <div class="event-date">
-                        📅 {{ event.start_date }} {{ event.start_time }}
-                        {% if event.end_date and event.end_time %}
-                        <br>to {{ event.end_date }} {{ event.end_time }}
-                        {% endif %}
-                    </div>
-                    {% endif %}
-
-                    {% if event.description %}
-                    <p class="event-description">{{ event.description }}</p>
-                    {% endif %}
-
-                    {% if event.raid_pokemon and event.raid_pokemon|length > 0 %}
-                    <div class="raid-section">
-                        <div class="raid-title" onclick="toggleSection(this)">⚔️ Raid Bosses</div>
-                        <div class="raid-content">
-                            {% for tier, pokemon_list in event.raid_pokemon.items() %}
-                            <div class="raid-tier">
-                                <div class="raid-tier-name">{{ tier }}</div>
-                                <div class="raid-pokemon-list">
-                                    {% for pokemon in pokemon_list %}
-                                    <div class="raid-pokemon">
-                                        {% if pokemon.image %}
-                                        <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
-                                        {% endif %}
-                                        <span>{{ pokemon.name }}</span>
-                                    </div>
-                                    {% endfor %}
-                                </div>
+            {% if event.raid_pokemon and event.raid_pokemon|length > 0 %}
+            <div class="section-toggle">
+                <div class="raid-title" onclick="toggleSection(this)">⚔️ Raid Bosses</div>
+                <div class="raid-content">
+                    {% for tier, pokemon_list in event.raid_pokemon.items() %}
+                    <div class="raid-tier">
+                        <div class="raid-tier-name">{{ tier }}</div>
+                        <div class="raid-pokemon-list">
+                            {% for pokemon in pokemon_list %}
+                            <div class="raid-pokemon">
+                                {% if pokemon.image %}
+                                <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                {% endif %}
+                                <span>{{ pokemon.name }}</span>
                             </div>
                             {% endfor %}
                         </div>
                     </div>
-                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
 
-                    {% if event.spawns and event.spawns|length > 0 %}
-                    <div class="raid-section">
-                        <div class="raid-title" onclick="toggleSection(this)">🌍 Spawns</div>
-                        <div class="raid-content">
+            {% if event.spawns and event.spawns|length > 0 %}
+            <div class="section-toggle">
+                <div class="raid-title" onclick="toggleSection(this)">🌍 Spawns</div>
+                <div class="raid-content">
+                    <div class="raid-pokemon-list">
+                        {% for pokemon in event.spawns %}
+                        <div class="raid-pokemon">
+                            {% if pokemon.image %}
+                            <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                            {% endif %}
+                            <span>{{ pokemon.name }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if event.additional_sections %}
+            {% for section in event.additional_sections %}
+            <div class="section-toggle">
+                <div class="raid-title" onclick="toggleSection(this)">{{ section.icon }} {{ section.display_title }}</div>
+                <div class="raid-content">
+                    {% if section.type == "grouped" %}
+                        {% for group in section.groups %}
+                        <div class="raid-tier">
+                            {% if group.title %}
+                            <div class="raid-tier-name">{{ group.title }}</div>
+                            {% endif %}
                             <div class="raid-pokemon-list">
-                                {% for pokemon in event.spawns %}
+                                {% for pokemon in group.items %}
                                 <div class="raid-pokemon">
                                     {% if pokemon.image %}
                                     <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
@@ -116,65 +128,36 @@
                                 {% endfor %}
                             </div>
                         </div>
-                    </div>
-                    {% endif %}
-
-                    {% if event.additional_sections %}
-                    {% for section in event.additional_sections %}
-                    <div class="raid-section">
-                        <div class="raid-title" onclick="toggleSection(this)">{{ section.icon }} {{ section.display_title }}</div>
-                        <div class="raid-content">
-                            {% if section.type == "grouped" %}
-                                {% for group in section.groups %}
-                                <div class="raid-tier">
-                                    {% if group.title %}
-                                    <div class="raid-tier-name">{{ group.title }}</div>
-                                    {% endif %}
-                                    <div class="raid-pokemon-list">
-                                        {% for pokemon in group.items %}
-                                        <div class="raid-pokemon">
-                                            {% if pokemon.image %}
-                                            <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
-                                            {% endif %}
-                                            <span>{{ pokemon.name }}</span>
-                                        </div>
-                                        {% endfor %}
-                                    </div>
-                                </div>
-                                {% endfor %}
-                            {% elif section.type == "list" %}
-                                <div class="raid-pokemon-list">
-                                    {% for pokemon in section["items"] %}
-                                    <div class="raid-pokemon">
-                                        {% if pokemon.image %}
-                                        <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
-                                        {% endif %}
-                                        <span>{{ pokemon.name }}</span>
-                                    </div>
-                                    {% endfor %}
-                                </div>
-                            {% elif section.type == "text" %}
-                                <p class="section-text">{{ section.content }}</p>
-                            {% endif %}
+                        {% endfor %}
+                    {% elif section.type == "list" %}
+                        <div class="raid-pokemon-list">
+                            {% for pokemon in section["items"] %}
+                            <div class="raid-pokemon">
+                                {% if pokemon.image %}
+                                <img src="{{ pokemon.image }}" alt="{{ pokemon.name }}">
+                                {% endif %}
+                                <span>{{ pokemon.name }}</span>
+                            </div>
+                            {% endfor %}
                         </div>
-                    </div>
-                    {% endfor %}
-                    {% endif %}
-
-                    {% if event.url %}
-                    <a href="{{ event.url }}" target="_blank" class="event-link">View on Leek Duck →</a>
+                    {% elif section.type == "text" %}
+                        <p class="section-text">{{ section.content }}</p>
                     {% endif %}
                 </div>
             </div>
             {% endfor %}
-        </div>
-        {% else %}
-        <div class="no-events">
-            <p>No events found. Run the scraper to fetch events!</p>
-        </div>
-        {% endif %}
-    </div>
+            {% endif %}
 
-    <script src="{{ url_for('static', filename='app.js') }}"></script>
-</body>
-</html>
+            {% if event.url %}
+            <a href="{{ event.url }}" target="_blank" rel="noopener noreferrer" class="event-link">View on Leek Duck →</a>
+            {% endif %}
+        </div>
+    </article>
+    {% endfor %}
+</section>
+{% else %}
+<div class="no-events reveal">
+    <p>No events found. Run scraper sync to hydrate event intelligence.</p>
+</div>
+{% endif %}
+{% endblock %}

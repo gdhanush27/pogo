@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0A0A14">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="PoGo Intel">
+    <meta name="description" content="{% block meta_description %}Cinematic Pokémon GO intelligence dashboard for events, raids, spawns, and power-up planning.{% endblock %}">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%237B61FF' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='48' fill='none' stroke='%23000' stroke-width='4'/><rect x='0' y='46' width='100' height='8' fill='%23000'/><circle cx='50' cy='50' r='16' fill='%23fff' stroke='%23000' stroke-width='4'/><circle cx='50' cy='50' r='8' fill='%23000'/><path d='M50,2 A48,48 0 0,1 50,98' fill='%23fff' opacity='0.1'/></svg>" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-192x192.png') }}">
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&family=Instrument+Serif:ital@0;1&family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        (function () {
+            try {
+                var saved = localStorage.getItem("pogo-theme");
+                var theme = saved === "light" ? "light" : "dark";
+                document.documentElement.setAttribute("data-theme", theme);
+            } catch (e) {
+                document.documentElement.setAttribute("data-theme", "dark");
+            }
+        })();
+    </script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>{% block title %}PoGo Intel{% endblock %}</title>
+    {% block extra_head %}{% endblock %}
+</head>
+<body data-theme="dark" data-route="{{ request.path }}">
+    <svg class="noise-svg" aria-hidden="true">
+        <filter id="noiseFilter">
+            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" />
+        </filter>
+    </svg>
+    <div class="noise-overlay"></div>
+
+    <header class="site-header">
+        <nav class="floating-nav" id="floatingNav">
+            <a class="brand-mark" href="/">PoGo Intel</a>
+
+            <div class="nav-panel" id="navPanel">
+                <div class="nav-links">
+                    <a href="/" class="{% if request.path == '/' %}active{% endif %}">Home</a>
+                    <a href="/raids" class="{% if request.path == '/raids' %}active{% endif %}">Raids</a>
+                    <a href="/spawns" class="{% if request.path == '/spawns' %}active{% endif %}">Spawns</a>
+                    <a href="/powerup" class="{% if request.path == '/powerup' %}active{% endif %}">Power-Up</a>
+                </div>
+            </div>
+
+            <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle light and dark theme">
+                <span class="theme-toggle-icon" aria-hidden="true">🌙</span>
+                <span class="theme-toggle-label">Dark</span>
+            </button>
+
+            <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navPanel" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </nav>
+    </header>
+
+    <main class="page-shell" id="heroRoot">
+        <div id="navSentinel" aria-hidden="true"></div>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-grid">
+            <section>
+                <h3>PoGo Intel</h3>
+                <p>Signal-grade Pokémon GO tracking for events, raids, spawns, and resource planning.</p>
+            </section>
+            <section>
+                <h4>Navigate</h4>
+                <a href="/">Overview</a>
+                <a href="/raids">Raids</a>
+                <a href="/spawns">Spawns</a>
+                <a href="/powerup">Power-Up</a>
+            </section>
+            <section>
+                <h4>Legal</h4>
+                <a href="https://leekduck.com" target="_blank" rel="noopener noreferrer">Data Source</a>
+                <a href="https://pokemongolive.com" target="_blank" rel="noopener noreferrer">Pokémon GO</a>
+            </section>
+            <section>
+                <h4>Status</h4>
+                <div class="system-status"><span></span><code>System Operational</code></div>
+            </section>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>
