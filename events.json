@@ -1463,6 +1463,96 @@
     "is_ongoing": false
   },
   {
+    "name": "Pokémon Pokopia Celebration Event",
+    "url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
+    "title": "Pokémon Pokopia Celebration Event",
+    "start_date": "Tuesday, March 10, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, March 16, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time. New costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Ditto wearing a hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00_shiny.png"
+        },
+        {
+          "name": "Ditto wearing a cap",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00_shiny.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Lapras",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+          },
+          {
+            "name": "Snorlax",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
+          },
+          {
+            "name": "Dragonite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png"
+          }
+        ]
+      },
+      "Costumed Ditto": [
+        {
+          "name": "Ditto wearing a hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00_shiny.png"
+        },
+        {
+          "name": "Ditto wearing a cap",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00_shiny.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Sudowoodo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00_shiny.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
+        },
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        },
+        {
+          "name": "Sudowoodo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Mega Steelix in Mega Raids",
     "url": "https://leekduck.com/events/mega-steelix-in-mega-raids-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
