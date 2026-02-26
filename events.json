@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pikachu PokéStop Showcase",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pikachu PokéStop Showcase",
@@ -62,7 +62,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": null,
@@ -1949,6 +1949,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "GO Pass: March",
+    "url": "https://leekduck.com/events/go-pass-march-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-03-go-pass-march-2026/go-pass-march-2026.jpg",
+    "title": "GO Pass: March",
+    "start_date": "Tuesday, March 3, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, April 7, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "From Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-go-pass-march-2026/go-pass-march-2026.jpg",
+    "detail_types": [
+      "GO Pass"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
