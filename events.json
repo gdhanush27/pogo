@@ -541,6 +541,38 @@
     "is_ongoing": false
   },
   {
+    "name": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
+    "url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
+    "start_date": "Saturday, February 28, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, March 1, 2026,",
+    "end_time": "at 6:00 PM Local Time",
+    "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items! These Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Furfrou (Natural)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+        },
+        {
+          "name": "Xerneas",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png"
+        },
+        {
+          "name": "Yveltal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "GO Pass: Road to Kalos",
     "url": "https://leekduck.com/events/go-pass-road-to-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
