@@ -263,6 +263,46 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00_shiny.png"
         }
       ],
+      "raid_pokemon": {
+        "Mega Victreebel, Mega Malamar, and Mega Dragonite in Super Mega Raids!": [
+          {
+            "name": "Mega Victreebel",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Malamar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Dragonite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
+          }
+        ],
+        "One-Star Raids": [
+          {
+            "name": "Honedge",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+          },
+          {
+            "name": "Calem's Hat Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_C.icon.png"
+          },
+          {
+            "name": "Serena's Hat Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_C_02.icon.png"
+          }
+        ],
+        "Five-Star Raids": [
+          {
+            "name": "Xerneas",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png"
+          },
+          {
+            "name": "Yveltal",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png"
+          }
+        ]
+      },
       "Get out and explore some Routes!": [
         {
           "name": "Red Flower Flabébé",
@@ -425,52 +465,6 @@
         {
           "name": "Klefki",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png"
-        }
-      ],
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Honedge",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-          },
-          {
-            "name": "Calem's Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_C.icon.png"
-          },
-          {
-            "name": "Serena's Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2026_C_02.icon.png"
-          }
-        ],
-        "Five-Star Raids": [
-          {
-            "name": "Xerneas",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png"
-          },
-          {
-            "name": "Yveltal",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png"
-          }
-        ]
-      },
-      "Saturday, February 28": [
-        {
-          "name": "Mega Victreebel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png"
-        },
-        {
-          "name": "Mega Dragonite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
-        }
-      ],
-      "Sunday, March 1": [
-        {
-          "name": "Mega Malamar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
-        },
-        {
-          "name": "Mega Dragonite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
         }
       ],
       "Take part in some trim-mendous Timed Research!": [
