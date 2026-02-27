@@ -509,6 +509,12 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00_shiny.png"
         }
       ],
+      "Featured Attacks": [
+        {
+          "name": "Latias",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png"
+        }
+      ],
       "spawns": [
         {
           "name": "Calem's Hat Pikachu",
