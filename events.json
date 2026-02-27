@@ -1247,6 +1247,18 @@
         {
           "name": "Dragonite",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png"
+        },
+        {
+          "name": "Articuno",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
+        },
+        {
+          "name": "Zapdos",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+        },
+        {
+          "name": "Moltres",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
         }
       ]
     },
