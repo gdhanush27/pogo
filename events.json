@@ -897,6 +897,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_00.png"
         }
       ],
+      "Dragonite": [
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Dragonair",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_148_00.png"
+        },
+        {
+          "name": "Dragonite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png"
+        }
+      ],
       "Absol": [
         {
           "name": "Absol",
@@ -1559,23 +1573,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Season Event",
-    "url": "https://leekduck.com/events/season-event-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Season Event",
-    "start_date": "Saturday, March 7, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, March 9, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Season"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Unannounced Event",
     "url": "https://leekduck.com/events/tbd-march-2026-week-1/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -2067,23 +2064,6 @@
         }
       ]
     },
-    "is_ongoing": false
-  },
-  {
-    "name": "Unannounced Event",
-    "url": "https://leekduck.com/events/tbd-march-2026-week-2/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Unannounced Event",
-    "start_date": "Tuesday, March 10, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, March 16, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Unannounced Event event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
