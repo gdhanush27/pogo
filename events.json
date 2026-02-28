@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Road to Kalos",
@@ -195,7 +195,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Tour: Kalos - Global 2026",
@@ -538,7 +538,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
@@ -570,7 +570,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: Road to Kalos",
