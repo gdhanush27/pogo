@@ -1,29 +1,5 @@
 [
   {
-    "name": "Pikachu PokéStop Showcase",
-    "url": "https://leekduck.com/events/pikachu-showcase-february-2026-friday/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Pikachu PokéStop Showcase",
-    "start_date": "Friday, February 27, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Friday, February 27, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "There will be a PokéStop Showcase featuring Pikachu on Friday, February 27 (local time). The Showcase starts and ends on Friday. Top the leaderboard to win rewards including Premium Items!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Road to Kalos",
     "url": "https://leekduck.com/events/road-to-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
@@ -965,6 +941,23 @@
     "is_ongoing": true
   },
   {
+    "name": "GO Pass: Road to Kalos",
+    "url": "https://leekduck.com/events/go-pass-road-to-kalos/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+    "title": "GO Pass: Road to Kalos",
+    "start_date": "Monday, February 23, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, March 1, 2026,",
+    "end_time": "at 6:00 PM Local Time",
+    "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+    "detail_types": [
+      "GO Pass"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": true
+  },
+  {
     "name": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
     "url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
@@ -972,7 +965,7 @@
     "start_date": "Saturday, February 28, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, March 1, 2026,",
-    "end_time": "at 6:00 PM Local Time",
+    "end_time": "at 8:00 PM Local Time",
     "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items! These Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
     "detail_types": [
@@ -994,23 +987,6 @@
         }
       ]
     },
-    "is_ongoing": true
-  },
-  {
-    "name": "GO Pass: Road to Kalos",
-    "url": "https://leekduck.com/events/go-pass-road-to-kalos/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
-    "title": "GO Pass: Road to Kalos",
-    "start_date": "Monday, February 23, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, March 1, 2026,",
-    "end_time": "at 6:00 PM Local Time",
-    "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
-    "detail_types": [
-      "GO Pass"
-    ],
-    "pokemon_sections": {},
     "is_ongoing": true
   },
   {
