@@ -278,6 +278,60 @@
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png"
           }
         ],
+        "5-Star and Primal Raids on Saturday": [
+          {
+            "name": "Articuno",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
+          },
+          {
+            "name": "Zapdos",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+          },
+          {
+            "name": "Moltres",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
+          },
+          {
+            "name": "Lugia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00.png"
+          },
+          {
+            "name": "Ho-Oh",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png"
+          },
+          {
+            "name": "Dialga",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
+          },
+          {
+            "name": "Palkia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+          },
+          {
+            "name": "Reshiram",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00.png"
+          },
+          {
+            "name": "Zekrom",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png"
+          },
+          {
+            "name": "Kyurem (Black)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13.png"
+          },
+          {
+            "name": "Kyurem (White)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_12.png"
+          },
+          {
+            "name": "Primal Kyogre",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
+          },
+          {
+            "name": "Primal Groudon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
+          }
+        ],
         "One-Star Raids": [
           {
             "name": "Honedge",
