@@ -267,6 +267,10 @@
       ],
       "In 2 km Eggs": [
         {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
           "name": "Larvitar",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
         },
