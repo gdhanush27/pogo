@@ -451,6 +451,23 @@
     "is_ongoing": true
   },
   {
+    "name": "Pokémon Showcase Tuesday",
+    "url": "https://leekduck.com/events/pokemon-showcase-tuesday/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Pokémon Showcase Tuesday",
+    "start_date": "Tuesday, March 3, 2026,",
+    "start_time": "at 12:00 AM Local Time",
+    "end_date": "Tuesday, March 3, 2026,",
+    "end_time": "at 11:59 AM Local Time",
+    "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off! These Showcases run on Tuesdays from 12:00 a.m. to 11:59 a.m. local time. The following categories may be featured:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
     "url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
@@ -1778,20 +1795,63 @@
     "is_ongoing": false
   },
   {
-    "name": "Research Day",
-    "url": "https://leekduck.com/events/research-day-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Research Day",
+    "name": "Replay: Water Research Day",
+    "url": "https://leekduck.com/events/replay-water-research-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-21-replay-water-research-day-2026/replay-water-research-day.jpg",
+    "title": "Replay: Water Research Day",
     "start_date": "Saturday, March 21, 2026,",
-    "start_time": "at 10:00 AM Local Time",
+    "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, March 21, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Research Day event will take place on March 21, 2026 from 10 am to 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-21-replay-water-research-day-2026/replay-water-research-day.jpg",
     "detail_types": [
       "Research Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Lotad",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_270_00.png"
+        },
+        {
+          "name": "Feebas",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png"
+        },
+        {
+          "name": "Clamperl",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Lotad",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_270_00_shiny.png"
+        },
+        {
+          "name": "Feebas",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00_shiny.png"
+        },
+        {
+          "name": "Clamperl",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Mareanie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
