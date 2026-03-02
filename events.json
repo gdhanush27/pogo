@@ -782,7 +782,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: Road to Kalos",
@@ -799,7 +799,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
@@ -831,7 +831,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "[Promo Code] GO Tour Fairy Type Timed Research",
@@ -872,7 +872,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Precious Paths",
@@ -1282,7 +1282,7 @@
       "Event"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
@@ -1316,7 +1316,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Absol in Mega Raids",
@@ -1344,7 +1344,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Articuno, Zapdos, and Moltres Raid Hour",
