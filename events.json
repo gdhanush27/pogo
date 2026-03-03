@@ -14,7 +14,7 @@
       "Research"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Rookidee during Max Monday",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Precious Paths",
@@ -465,7 +465,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
@@ -636,6 +636,26 @@
         }
       ],
       "A Ditto Changeup": [
+        {
+          "name": "Spearow",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_021_00.png"
+        },
+        {
+          "name": "Ekans",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_023_00.png"
+        },
+        {
+          "name": "Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png"
+        },
+        {
+          "name": "Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_00.png"
+        },
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
         {
           "name": "Ditto",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00.png"
@@ -1266,7 +1286,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon 30th Anniversary: All Out",
@@ -2251,7 +2271,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "April Community Day",
@@ -2512,7 +2532,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Example Event Template (Auto ToC Demo)",
