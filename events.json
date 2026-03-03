@@ -637,6 +637,10 @@
       ],
       "A Ditto Changeup": [
         {
+          "name": "Kakuna",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png"
+        },
+        {
           "name": "Spearow",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_021_00.png"
         },
@@ -645,8 +649,28 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_023_00.png"
         },
         {
+          "name": "Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_00.png"
+        },
+        {
+          "name": "Nidorino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00.png"
+        },
+        {
+          "name": "Gloom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00.png"
+        },
+        {
+          "name": "Mankey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png"
+        },
+        {
           "name": "Growlithe",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png"
+        },
+        {
+          "name": "Poliwag",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_060_00.png"
         },
         {
           "name": "Geodude",
@@ -655,6 +679,14 @@
         {
           "name": "Magnemite",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
+        },
+        {
+          "name": "Cubone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_104_00.png"
         },
         {
           "name": "Ditto",
@@ -2435,8 +2467,24 @@
       ],
       "In 2 km Eggs": [
         {
+          "name": "Cleffa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png"
+        },
+        {
+          "name": "Igglybuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_174_00.png"
+        },
+        {
           "name": "Dunsparce",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_206_00.png"
+        },
+        {
+          "name": "Smoochum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
         },
         {
           "name": "Wimpod",
@@ -2449,6 +2497,14 @@
       ],
       "In 5 km Eggs": [
         {
+          "name": "Munchlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
           "name": "Sizzlipede",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
         },
@@ -2457,28 +2513,52 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
         },
         {
+          "name": "Indeedee (Male)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2"
+        },
+        {
+          "name": "Indeedee (Female)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2"
+        },
+        {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
         }
       ],
       "In 5 km Eggs from Adventure Sync Rewards": [
         {
-          "name": "Goomy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
         },
         {
-          "name": "Turtonator",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+          "name": "Chingling",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png"
         },
         {
-          "name": "Toxel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+          "name": "Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+        },
+        {
+          "name": "Riolu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
+        },
+        {
+          "name": "Audino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
         }
       ],
       "In 7 km Eggs": [
         {
+          "name": "Alolan Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
+        },
+        {
           "name": "Galarian Meowth",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
+        },
+        {
+          "name": "Alolan Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
         },
         {
           "name": "Galarian Corsola",
@@ -2487,6 +2567,14 @@
         {
           "name": "Galarian Zigzagoon",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        },
+        {
+          "name": "Galarian Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
         }
       ],
       "In 7 km Eggs From Route Rewards": [
@@ -2499,8 +2587,12 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
         },
         {
-          "name": "Basculin (White Striped)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png"
+          "name": "Hisuian Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
         }
       ],
       "In 10 km Eggs": [
@@ -2509,26 +2601,50 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
         },
         {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
           "name": "Honedge",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
         },
         {
           "name": "Impidimp",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png"
+        },
+        {
+          "name": "Dreepy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
+        },
+        {
+          "name": "Charcadet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
+        },
+        {
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
         }
       ],
       "In 10 km Eggs from Adventure Sync Rewards": [
         {
-          "name": "Chingling",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png"
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
         },
         {
-          "name": "Happiny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
         },
         {
-          "name": "Audino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Toxel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+        },
+        {
+          "name": "Dreepy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
         }
       ]
     },
