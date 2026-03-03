@@ -637,6 +637,10 @@
       ],
       "A Ditto Changeup": [
         {
+          "name": "Ditto",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00.png"
+        },
+        {
           "name": "Kakuna",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png"
         },
@@ -687,10 +691,6 @@
         {
           "name": "Cubone",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_104_00.png"
-        },
-        {
-          "name": "Ditto",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_132_00.png"
         }
       ],
       "raid_pokemon": {
