@@ -31,7 +31,7 @@
       "PokéStop Showcase"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
@@ -65,7 +65,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Absol in Mega Raids",
@@ -93,7 +93,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Articuno, Zapdos, and Moltres Raid Hour",
@@ -110,7 +110,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Shadow Regigigas in Shadow Raids",
@@ -1138,7 +1138,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Pinsir in Mega Raids",
@@ -1166,7 +1166,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Zacian (Hero of Many Battles) Raid Hour",
@@ -1818,7 +1818,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Raid Day",
