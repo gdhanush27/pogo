@@ -111,30 +111,6 @@
     "is_ongoing": true
   },
   {
-    "name": "Dynamax Pikachu during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-03-09/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Pikachu during Max Monday",
-    "start_date": "Monday, March 9, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, March 9, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On March 9, 2026 , the featured Dynamax Pokémon is Pikachu .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Pokémon 30th Anniversary",
     "url": "https://leekduck.com/events/pokemon-30th-anniversary-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg",
@@ -1075,6 +1051,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Dynamax Pikachu during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-03-09/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Pikachu during Max Monday",
+    "start_date": "Monday, March 9, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Monday, March 9, 2026,",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On March 9, 2026 , the featured Dynamax Pokémon is Pikachu .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
     "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1196,30 +1196,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Falinks during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-03-16/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Falinks during Max Monday",
-    "start_date": "Monday, March 16, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, March 16, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On March 16, 2026 , the featured Dynamax Pokémon is Falinks .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Falinks",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Pokémon Pokopia Celebration Event",
     "url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
@@ -1304,6 +1280,30 @@
         {
           "name": "Zorua",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Falinks during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-03-16/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Falinks during Max Monday",
+    "start_date": "Monday, March 16, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Monday, March 16, 2026,",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On March 16, 2026 , the featured Dynamax Pokémon is Falinks .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png"
         }
       ]
     },
@@ -1433,30 +1433,6 @@
         {
           "name": "Mareanie",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Regice during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-03-23/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Regice during Max Monday",
-    "start_date": "Monday, March 23, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Monday, March 23, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On March 23, 2026 , the featured Dynamax Pokémon is Regice .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Regice",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png"
         }
       ]
     },
@@ -1593,6 +1569,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Dynamax Regice during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-03-23/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Regice during Max Monday",
+    "start_date": "Monday, March 23, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Monday, March 23, 2026,",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On March 23, 2026 , the featured Dynamax Pokémon is Regice .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Regice",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Mega Slowbro in Mega Raids",
     "url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -1684,10 +1684,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
     "title": "Dynamax Woobat during Max Monday",
     "start_date": "Monday, March 30, 2026,",
-    "start_time": "at 6:00 PM Local Time",
+    "start_time": "at 6:00 AM Local Time",
     "end_date": "Monday, March 30, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time! On March 30, 2026 , the featured Dynamax Pokémon is Woobat .",
+    "end_time": "at 9:00 PM Local Time",
+    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On March 30, 2026 , the featured Dynamax Pokémon is Woobat .",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
     "detail_types": [
       "Max Mondays"
