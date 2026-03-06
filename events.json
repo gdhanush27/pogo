@@ -737,18 +737,44 @@
   {
     "name": "Pokémon 30th Anniversary: All Out",
     "url": "https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-event.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/pokemon-30th-anniversary-all-out.jpg",
     "title": "Pokémon 30th Anniversary: All Out",
     "start_date": "Saturday, March 7, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, March 9, 2026,",
     "end_time": "at 8:00 PM Local Time",
     "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time. You may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-event.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/pokemon-30th-anniversary-all-out.jpg",
     "detail_types": [
       "Event"
     ],
     "pokemon_sections": {
+      "Incense Encounters": [
+        {
+          "name": "Raikou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
+        },
+        {
+          "name": "Latios",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png"
+        },
+        {
+          "name": "Kyurem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
+        },
+        {
+          "name": "Solgaleo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png"
+        },
+        {
+          "name": "Zacian",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fHERO.icon.png"
+        },
+        {
+          "name": "Regieleki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm894.icon.png"
+        }
+      ],
       "raid_pokemon": {
         "One-Star Raids": [
           {
