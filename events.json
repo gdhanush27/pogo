@@ -811,27 +811,27 @@
           },
           {
             "name": "Rei's Cap Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fREI-CAP-temp.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2024_B.icon.png"
           },
           {
             "name": "Akari's Kerchief Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fAKARI-KERCHIEF-temp.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2024_B_02.icon.png"
           },
           {
             "name": "Hilbert's Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Hilbert.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2025_A.icon.png"
           },
           {
             "name": "Hilda's Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Hilda.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2025_A_02.icon.png"
           },
           {
             "name": "Nate's Visor Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Nate.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2025_B.icon.png"
           },
           {
             "name": "Rosa's Visor Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Pikachu_Rosa.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOTOUR_2025_B_02.icon.png"
           },
           {
             "name": "Calem's Hat Pikachu",
@@ -977,6 +977,168 @@
         {
           "name": "Toxel",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Spinda",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_327_00.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        },
+        {
+          "name": "Cherubi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png"
+        },
+        {
+          "name": "Lucario",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png"
+        },
+        {
+          "name": "Rotom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm479.icon.png"
+        },
+        {
+          "name": "Timburr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_532_00.png"
+        },
+        {
+          "name": "Sandile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
+        },
+        {
+          "name": "Klink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+        },
+        {
+          "name": "Druddigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png"
+        },
+        {
+          "name": "Pawniard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
+        },
+        {
+          "name": "Vullaby",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_629_00.png"
+        },
+        {
+          "name": "Skiddo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm672.icon.png"
+        },
+        {
+          "name": "Espurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png"
+        },
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Rockruff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png"
+        },
+        {
+          "name": "Salandit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm757.icon.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Impidimp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png"
+        },
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        },
+        {
+          "name": "Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        },
+        {
+          "name": "Wyrdeer",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm899.icon.png"
+        },
+        {
+          "name": "Tandemaus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm924.icon.png"
+        },
+        {
+          "name": "Charcadet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
+        },
+        {
+          "name": "Armarouge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm936.icon.png"
+        },
+        {
+          "name": "Ceruledge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm937.icon.png"
+        },
+        {
+          "name": "Shroodle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.icon.png"
+        },
+        {
+          "name": "Klawf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm950.icon.png"
+        },
+        {
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
+        },
+        {
+          "name": "Wiglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Wugtrio",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0961_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Bombirdier",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm962.icon.png"
+        },
+        {
+          "name": "Varoom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
+        },
+        {
+          "name": "Glimmet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm969.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        },
+        {
+          "name": "Dondozo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png"
+        },
+        {
+          "name": "Annihilape",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm979.icon.png"
+        },
+        {
+          "name": "Kingambit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.icon.png"
+        },
+        {
+          "name": "Dipplin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1011.icon.png"
+        },
+        {
+          "name": "Hydrapple",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1019.icon.png"
         }
       ]
     },
