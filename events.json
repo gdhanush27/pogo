@@ -1028,8 +1028,16 @@
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
           },
           {
+            "name": "Deoxys (Normal)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_11.png"
+          },
+          {
             "name": "Darkrai",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00.png"
+          },
+          {
+            "name": "Genesect (Normal)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_11.png"
           },
           {
             "name": "Nihilego",
@@ -1295,6 +1303,18 @@
         {
           "name": "Dondozo",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png"
+        },
+        {
+          "name": "Tatsugiri (Curly)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fCURLY.icon.png"
+        },
+        {
+          "name": "Tatsugiri (Droopy)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fDROOPY.icon.png"
+        },
+        {
+          "name": "Tatsugiri (Stretchy)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fSTRETCHY.icon.png"
         },
         {
           "name": "Annihilape",
