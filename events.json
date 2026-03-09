@@ -2732,10 +2732,139 @@
     "is_ongoing": true
   },
   {
-    "name": null,
+    "name": "Pokémon GO Fest 2026: Chicago",
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-chicago/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-05-pokemon-go-fest-2026-chicago/pokemon-go-fest-chicago.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Pokémon GO Fest 2026: Chicago",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "Location: Grant Park, Chicago, Illinois, United States Dates: June 5–7, 2026 Time: 10:00 a.m. – 8:00 p.m. CDT (Park and citywide event hours vary by ticket) Trainers can look forward to exceptional coaching by Team Instinct’s leader, Spark, during an exciting park session in Grant Park that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Chicago, developing their skills and earning a unique in-game Pokémon GO Expert medal. All event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Grant Park during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-05-pokemon-go-fest-2026-chicago/pokemon-go-fest-chicago.jpg",
+    "detail_types": [
+      "Pokémon GO Fest",
+      "Location-specific"
+    ],
+    "pokemon_sections": {
+      "Grant Park encounters": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_14.png"
+        },
+        {
+          "name": "Alolan Raichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_61.png"
+        },
+        {
+          "name": "Electabuzz",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png"
+        },
+        {
+          "name": "Jolteon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_135_00.png"
+        },
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Unown",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_16.png"
+        },
+        {
+          "name": "Houndour",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
+        },
+        {
+          "name": "Lileep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_345_00.png"
+        },
+        {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Comfey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
+        },
+        {
+          "name": "Dhelmise",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
+        },
+        {
+          "name": "Varoom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Paldean Tauros (Blaze)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.icon.png"
+          }
+        ],
+        "Five-Star Raids": [
+          {
+            "name": "Zapdos",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+          },
+          {
+            "name": "Mewtwo",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
+          },
+          {
+            "name": "Raikou",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
+          }
+        ],
+        "Five-Star Shadow Raids": [
+          {
+            "name": "Zapdos",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+          },
+          {
+            "name": "Raikou",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
+          },
+          {
+            "name": "Kyogre",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
+          },
+          {
+            "name": "Groudon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png"
+          }
+        ]
+      },
+      "Primal Raids": [
+        {
+          "name": "Primal Kyogre",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
+        },
+        {
+          "name": "Primal Groudon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
+        }
+      ],
+      "Shiny Wash Rotom debut": [
+        {
+          "name": "Wash Rotom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13_shiny.png"
+        }
+      ],
+      "Shiny Paldean Tauros (Blaze Breed)": [
+        {
+          "name": "Paldean Tauros (Blaze)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Fest 2026: Copenhagen",
