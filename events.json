@@ -1491,11 +1491,53 @@
       "Pokémon Debuts": [
         {
           "name": "Ditto wearing a hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.icon.png"
         },
         {
           "name": "Ditto wearing a cap",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.icon.png"
+        }
+      ],
+      "Ditto Changeup": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
+        },
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        },
+        {
+          "name": "Hitmonchan",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png"
+        },
+        {
+          "name": "Scyther",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
         }
       ],
       "raid_pokemon": {
@@ -1517,11 +1559,11 @@
       "Costumed Ditto": [
         {
           "name": "Ditto wearing a hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.s.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.s.icon.png"
         },
         {
           "name": "Ditto wearing a cap",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.s.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.s.icon.png"
         }
       ],
       "Increased Shiny Chance": [
@@ -1552,12 +1594,40 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
         },
         {
+          "name": "Hitmonchan",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png"
+        },
+        {
+          "name": "Scyther",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
           "name": "Sudowoodo",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00.png"
         },
         {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
+          "name": "Timburr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_532_00.png"
+        },
+        {
           "name": "Zorua",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
         }
       ]
     },
@@ -2089,20 +2159,83 @@
     "is_ongoing": false
   },
   {
-    "name": "Unannounced Event",
-    "url": "https://leekduck.com/events/tbd-march-2026-week-3/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Unannounced Event",
+    "name": "A Shockingly Good Time",
+    "url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
+    "title": "A Shockingly Good Time",
     "start_date": "Tuesday, March 31, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, April 6, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Unannounced Event event will take place from March 31, 2026 at 10 am to April 6, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Spotlight Hours": [
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        },
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Pawmi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm921.icon.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Joltik",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_shiny.png"
+        },
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00_shiny.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        },
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Pawmi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm921.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -2599,139 +2732,10 @@
     "is_ongoing": true
   },
   {
-    "name": "Pokémon GO Fest 2026: Chicago",
+    "name": null,
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-chicago/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-05-pokemon-go-fest-2026-chicago/pokemon-go-fest-chicago.jpg",
-    "title": "Pokémon GO Fest 2026: Chicago",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Location: Grant Park, Chicago, Illinois, United States Dates: June 5–7, 2026 Time: 10:00 a.m. – 8:00 p.m. CDT (Park and citywide event hours vary by ticket) Trainers can look forward to exceptional coaching by Team Instinct’s leader, Spark, during an exciting park session in Grant Park that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Chicago, developing their skills and earning a unique in-game Pokémon GO Expert medal. All event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Grant Park during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-05-pokemon-go-fest-2026-chicago/pokemon-go-fest-chicago.jpg",
-    "detail_types": [
-      "Pokémon GO Fest",
-      "Location-specific"
-    ],
-    "pokemon_sections": {
-      "Grant Park encounters": [
-        {
-          "name": "Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_14.png"
-        },
-        {
-          "name": "Alolan Raichu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_61.png"
-        },
-        {
-          "name": "Electabuzz",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png"
-        },
-        {
-          "name": "Jolteon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_135_00.png"
-        },
-        {
-          "name": "Dratini",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
-        },
-        {
-          "name": "Unown",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_16.png"
-        },
-        {
-          "name": "Houndour",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
-        },
-        {
-          "name": "Lileep",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_345_00.png"
-        },
-        {
-          "name": "Combee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
-        },
-        {
-          "name": "Mudbray",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
-        },
-        {
-          "name": "Comfey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
-        },
-        {
-          "name": "Dhelmise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
-        },
-        {
-          "name": "Varoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Three-Star Raids": [
-          {
-            "name": "Paldean Tauros (Blaze)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.icon.png"
-          }
-        ],
-        "Five-Star Raids": [
-          {
-            "name": "Zapdos",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
-          },
-          {
-            "name": "Mewtwo",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
-          },
-          {
-            "name": "Raikou",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
-          }
-        ],
-        "Five-Star Shadow Raids": [
-          {
-            "name": "Zapdos",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
-          },
-          {
-            "name": "Raikou",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png"
-          },
-          {
-            "name": "Kyogre",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
-          },
-          {
-            "name": "Groudon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png"
-          }
-        ]
-      },
-      "Primal Raids": [
-        {
-          "name": "Primal Kyogre",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
-        },
-        {
-          "name": "Primal Groudon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
-        }
-      ],
-      "Shiny Wash Rotom debut": [
-        {
-          "name": "Wash Rotom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13_shiny.png"
-        }
-      ],
-      "Shiny Paldean Tauros (Blaze Breed)": [
-        {
-          "name": "Paldean Tauros (Blaze)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Pokémon GO Fest 2026: Copenhagen",
