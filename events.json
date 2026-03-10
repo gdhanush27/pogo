@@ -1353,6 +1353,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Great League and Kanto Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_kanto-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League and Kanto Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League and Kanto Cup: Great League Edition will run from March 3, 2026, at 1:00 p.m. to March 10, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
     "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1528,6 +1545,10 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
         },
         {
+          "name": "Sudowoodo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00.png"
+        },
+        {
           "name": "Combee",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
         },
@@ -1656,6 +1677,38 @@
         {
           "name": "Falinks",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Ultra League and Spring Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_spring-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League and Spring Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Ultra League and Spring Cup: Great League Edition will run from March 10, 2026, at 1:00 p.m. to March 17, 2026, at 1:00 p.m. PT. The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "Spring Cup: Great League Edition": [
+        {
+          "name": "Jumpluff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_189_00.png"
+        },
+        {
+          "name": "Roserade",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_407_00.png"
+        },
+        {
+          "name": "Toxapex",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm748.icon.png"
         }
       ]
     },
@@ -1945,6 +1998,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Master League and Jungle Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_jungle-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League and Jungle Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Master League and Jungle Cup: Great League Edition will run from March 17, 2026, at 1:00 p.m. to March 24, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Mega Slowbro in Mega Raids",
     "url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -2059,6 +2129,23 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League, Ultra League, and Master League | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-1/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "title": "Great League, Ultra League, and Master League | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League will run from March 24, 2026, at 1:00 p.m. to March 31, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
@@ -2260,6 +2347,42 @@
     "is_ongoing": true
   },
   {
+    "name": "Great League and Electric Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_electric-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League and Electric Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League and Electric Cup: Great League Edition will run from March 31, 2026, at 1:00 p.m. to April 7, 2026, at 1:00 p.m. PT. The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "Electric Cup: Great League Edition": [
+        {
+          "name": "Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_00.png"
+        },
+        {
+          "name": "Heliolisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm695.icon.png"
+        },
+        {
+          "name": "Charjabug",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm737.icon.png"
+        },
+        {
+          "name": "Vikavolt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm738.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "April Community Day",
     "url": "https://leekduck.com/events/april-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
@@ -2272,6 +2395,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
     "detail_types": [
       "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Ultra League and Fantasy Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League and Fantasy Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Ultra League and Fantasy Cup: Great League Edition will run from April 7, 2026, at 1:00 p.m. to April 14, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -2294,6 +2434,38 @@
     "is_ongoing": false
   },
   {
+    "name": "Master League and Spring Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_spring-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League and Spring Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Master League and Spring Cup: Great League Edition will run from April 14, 2026, at 1:00 p.m. to April 21, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "Spring Cup: Great League Edition": [
+        {
+          "name": "Jumpluff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_189_00.png"
+        },
+        {
+          "name": "Roserade",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_407_00.png"
+        },
+        {
+          "name": "Toxapex",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm748.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Max Battle Day",
     "url": "https://leekduck.com/events/max-battle-day-april-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -2306,6 +2478,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League, Ultra League, and Master League | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-2/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "title": "Great League, Ultra League, and Master League | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League will run from April 21, 2026, at 1:00 p.m. to April 28, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -2328,6 +2517,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League and Fantasy Cup: Great League Edition will run from April 28, 2026, at 1:00 p.m. to May 5, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "May Community Day",
     "url": "https://leekduck.com/events/may-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
@@ -2340,6 +2546,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
     "detail_types": [
       "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -2362,6 +2585,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Raid Day",
     "url": "https://leekduck.com/events/raid-day-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -2374,6 +2614,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League, Ultra League, and Master League | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "title": "Great League, Ultra League, and Master League | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -2734,6 +2991,23 @@
       ]
     },
     "is_ongoing": true
+  },
+  {
+    "name": "Great League, Ultra League, and Master League | Memories in Motion",
+    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "title": "Great League, Ultra League, and Master League | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Fest 2026: Chicago",
