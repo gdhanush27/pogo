@@ -732,7 +732,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pokémon 30th Anniversary: All Out",
@@ -1326,7 +1326,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Pikachu during Max Monday",
@@ -1350,7 +1350,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
@@ -1536,6 +1536,10 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
         },
         {
+          "name": "Timburr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_532_00.png"
+        },
+        {
           "name": "Goomy",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
         }
@@ -1631,7 +1635,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Falinks during Max Monday",
