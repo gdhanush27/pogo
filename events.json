@@ -17,83 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
-    "start_date": "Wednesday, March 4, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, March 10, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Articuno, Zapdos, and Moltres will be in five-star raid battles from March 4, 2026 to March 10, 2026. There will also be a Raid Hour featuring Articuno, Zapdos, and Moltres from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Articuno",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00_shiny.png"
-        },
-        {
-          "name": "Zapdos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00_shiny.png"
-        },
-        {
-          "name": "Moltres",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Pinsir in Mega Raids",
-    "url": "https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Pinsir in Mega Raids",
-    "start_date": "Wednesday, March 4, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, March 10, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Mega Pinsir return to Mega Raids on March 4, 2026, at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Pinsir",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00_shiny.png"
-        },
-        {
-          "name": "Mega Pinsir",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Pokémon Showcase Tuesday",
-    "url": "https://leekduck.com/events/pokemon-showcase-tuesday/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
-    "title": "Pokémon Showcase Tuesday",
-    "start_date": "Tuesday, March 10, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, March 10, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off! These Showcases run on Tuesday, March 10 from 10:00 a.m. to 8:00 p.m. local time. The following categories may be featured:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-    "detail_types": [
-      "PokéStop Showcase"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Zacian (Hero of Many Battles) Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260311/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -409,14 +332,14 @@
   {
     "name": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
     "url": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/zacian-and-zamazenta-2.jpg",
     "title": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
     "start_date": "Wednesday, March 11, 2026,",
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, March 17, 2026,",
     "end_time": "at 8:00 PM Local Time",
     "description": "Zacian (Hero of Many Battles) will be in five-star raid battles from March 11, 2026 to March 17, 2026. There will also be a Raid Hour featuring Zacian (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
     "detail_types": [
       "Raid Battles"
     ],
@@ -709,14 +632,14 @@
   {
     "name": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
     "url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/zacian-and-zamazenta-2.jpg",
     "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
     "start_date": "Wednesday, March 18, 2026,",
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, March 24, 2026,",
     "end_time": "at 8:00 PM Local Time",
     "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from March 18, 2026 to March 24, 2026. There will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
     "detail_types": [
       "Raid Battles"
     ],
