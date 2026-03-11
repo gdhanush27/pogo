@@ -17,23 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Great League and Kanto Cup: Great League Edition | Memories in Motion",
-    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_kanto-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
-    "title": "Great League and Kanto Cup: Great League Edition | Memories in Motion",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Great League and Kanto Cup: Great League Edition will run from March 3, 2026, at 1:00 p.m. to March 10, 2026, at 1:00 p.m. PT.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
     "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -91,6 +74,23 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Pokémon Showcase Tuesday",
+    "url": "https://leekduck.com/events/pokemon-showcase-tuesday/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Pokémon Showcase Tuesday",
+    "start_date": "Tuesday, March 10, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, March 10, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off! These Showcases run on Tuesday, March 10 from 10:00 a.m. to 8:00 p.m. local time. The following categories may be featured:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
