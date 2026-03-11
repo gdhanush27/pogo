@@ -837,6 +837,120 @@
     "is_ongoing": false
   },
   {
+    "name": "Fashion Raid Day",
+    "url": "https://leekduck.com/events/fashion-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
+    "title": "Fashion Raid Day",
+    "start_date": "Saturday, April 4, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, April 4, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "Strike your best pose during Fashion Raid Day, featuring costumed Pokémon! The Fashion Raid Day will take place on April 4, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 1-Star Raids": [
+          {
+            "name": "Fashionable Diglett",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm50.cFALL_2022.icon.png"
+          },
+          {
+            "name": "Fashionable Wooper",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm194.cFALL_2023.icon.png"
+          },
+          {
+            "name": "Fashionable Sneasel",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.cFASHION_2021_NOEVOLVE.icon.png"
+          },
+          {
+            "name": "Fashionable Shinx",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_01_16.png"
+          },
+          {
+            "name": "Fashionable Croagunk",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm453.cFALL_2020_NOEVOLVE.icon.png"
+          },
+          {
+            "name": "Fashionable Blitzle",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm522.cFASHION_2021_NOEVOLVE.icon.png"
+          },
+          {
+            "name": "Fashionable Minccino",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm572.cFASHION_2025.icon.png"
+          }
+        ],
+        "In 3-Star Raids": [
+          {
+            "name": "Fashionable Butterfree",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm12.cFASHION_2021_NOEVOLVE.icon.png"
+          },
+          {
+            "name": "Fashionable Dragonite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.cFALL_2023.icon.png"
+          },
+          {
+            "name": "Fashionable Kirlia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_281_00_16.png"
+          },
+          {
+            "name": "Fashionable Absol",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.cFALL_2022_NOEVOLVE.icon.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Fashionable Butterfree",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm12.cFASHION_2021_NOEVOLVE.s.icon.png"
+        },
+        {
+          "name": "Fashionable Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm50.cFALL_2022.s.icon.png"
+        },
+        {
+          "name": "Fashionable Dragonite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.cFALL_2023.s.icon.png"
+        },
+        {
+          "name": "Fashionable Wooper",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm194.cFALL_2023.s.icon.png"
+        },
+        {
+          "name": "Fashionable Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.cFASHION_2021_NOEVOLVE.s.icon.png"
+        },
+        {
+          "name": "Fashionable Kirlia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_281_00_16_shiny.png"
+        },
+        {
+          "name": "Fashionable Absol",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.cFALL_2022_NOEVOLVE.s.icon.png"
+        },
+        {
+          "name": "Fashionable Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_01_16_shiny.png"
+        },
+        {
+          "name": "Fashionable Croagunk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm453.cFALL_2020_NOEVOLVE.s.icon.png"
+        },
+        {
+          "name": "Fashionable Blitzle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm522.cFASHION_2021_NOEVOLVE.s.icon.png"
+        },
+        {
+          "name": "Fashionable Minccino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm572.cFASHION_2025.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "A Shockingly Good Time",
     "url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
