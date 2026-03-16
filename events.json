@@ -480,12 +480,36 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png"
         },
         {
-          "name": "Scyther",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
+          "name": "Weedle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
+        },
+        {
+          "name": "Pineco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_204_00.png"
+        },
+        {
+          "name": "Wurmple",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png"
+        },
+        {
+          "name": "Kricketot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_401_00.png"
+        },
+        {
+          "name": "Skorupi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_451_00.png"
+        },
+        {
+          "name": "Sewaddle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_540_00.png"
         },
         {
           "name": "Dwebble",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png"
+        },
+        {
+          "name": "Joltik",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
         },
         {
           "name": "Sizzlipede",
@@ -494,6 +518,10 @@
         {
           "name": "Nymble",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm919.icon.png"
+        },
+        {
+          "name": "Scyther",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
         }
       ]
     },
