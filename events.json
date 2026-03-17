@@ -182,7 +182,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Falinks during Max Monday",
@@ -206,7 +206,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra League and Spring Cup: Great League Edition | Memories in Motion",
@@ -525,7 +525,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Regice during Max Monday",
