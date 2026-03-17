@@ -17,198 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Pokémon Pokopia Celebration Event",
-    "url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
-    "title": "Pokémon Pokopia Celebration Event",
-    "start_date": "Tuesday, March 10, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, March 16, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time. New costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debuts": [
-        {
-          "name": "Ditto wearing a hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.icon.png"
-        },
-        {
-          "name": "Ditto wearing a cap",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.icon.png"
-        }
-      ],
-      "Ditto Changeup": [
-        {
-          "name": "Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
-        },
-        {
-          "name": "Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
-        },
-        {
-          "name": "Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
-        },
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        },
-        {
-          "name": "Hitmonchan",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png"
-        },
-        {
-          "name": "Scyther",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
-        },
-        {
-          "name": "Marill",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
-        },
-        {
-          "name": "Sudowoodo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00.png"
-        },
-        {
-          "name": "Combee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
-        },
-        {
-          "name": "Drilbur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
-        },
-        {
-          "name": "Timburr",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_532_00.png"
-        },
-        {
-          "name": "Goomy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Three-Star Raids": [
-          {
-            "name": "Lapras",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
-          },
-          {
-            "name": "Snorlax",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
-          },
-          {
-            "name": "Dragonite",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png"
-          }
-        ]
-      },
-      "Costumed Ditto": [
-        {
-          "name": "Ditto wearing a hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_B.s.icon.png"
-        },
-        {
-          "name": "Ditto wearing a cap",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm132.fSPRING_2026_A.s.icon.png"
-        }
-      ],
-      "Increased Shiny Chance": [
-        {
-          "name": "Sudowoodo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00_shiny.png"
-        },
-        {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
-        },
-        {
-          "name": "Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
-        },
-        {
-          "name": "Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
-        },
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        },
-        {
-          "name": "Hitmonchan",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png"
-        },
-        {
-          "name": "Scyther",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
-        },
-        {
-          "name": "Marill",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
-        },
-        {
-          "name": "Sudowoodo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_185_00.png"
-        },
-        {
-          "name": "Combee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
-        },
-        {
-          "name": "Drilbur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
-        },
-        {
-          "name": "Timburr",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_532_00.png"
-        },
-        {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
-        },
-        {
-          "name": "Goomy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Falinks during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-03-16/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Falinks during Max Monday",
-    "start_date": "Monday, March 16, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, March 16, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On March 16, 2026 , the featured Dynamax Pokémon is Falinks .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Falinks",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Ultra League and Spring Cup: Great League Edition | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_spring-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
@@ -290,6 +98,23 @@
         }
       ]
     },
+    "is_ongoing": true
+  },
+  {
+    "name": "Showcase Tuesday PokéStop Showcases – March 17",
+    "url": "https://leekduck.com/events/pokemon-showcase-showcase-tuesday-march-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokestop-showcases-default.jpg",
+    "title": "Showcase Tuesday PokéStop Showcases – March 17",
+    "start_date": "Tuesday, March 17, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, March 17, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off! These Showcases run on Tuesday, March 17 from 10:00 a.m. to 8:00 p.m. local time. The following categories may be featured:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+    "detail_types": [
+      "PokéStop Showcase"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": true
   },
   {
