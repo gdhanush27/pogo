@@ -804,10 +804,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
     "title": "Mega Manectric in Mega Raids",
     "start_date": "Wednesday, April 1, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 8, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Manectric will be in Mega Raids from April 1, 2026 at 10 am to April 8, 2026 at 10 am local time.",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 7, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Mega Manectric will be in Mega Raids from April 1, 2026 at 6 am to April 7, 2026 at 10 pm local time.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
     "detail_types": [
       "Raid Battles"
@@ -832,10 +832,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
     "title": "Regidrago in 5-star Raid Battles",
     "start_date": "Wednesday, April 1, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 8, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 8, 2026. There will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 7, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 7, 2026. There will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
@@ -958,10 +958,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
     "title": "Kyogre in 5-star Raid Battles",
     "start_date": "Wednesday, April 8, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 15, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Kyogre will be in five-star raid battles from April 8, 2026 to April 15, 2026. There will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 14, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Kyogre will be in five-star raid battles from April 8, 2026 to April 14, 2026. There will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
@@ -982,10 +982,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
     "title": "Mega Aerodactyl in Mega Raids",
     "start_date": "Wednesday, April 8, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 15, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 10 am to April 15, 2026 at 10 am local time.",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 14, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 6 am to April 14, 2026 at 10 pm local time.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
     "detail_types": [
       "Raid Battles"
@@ -1117,9 +1117,9 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
     "title": "Groudon in 5-star Raid Battles",
     "start_date": "Wednesday, April 15, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 22, 2026,",
-    "end_time": "at 10:00 AM Local Time",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 21, 2026,",
+    "end_time": "at 10:00 PM Local Time",
     "description": "There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
@@ -1141,10 +1141,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
     "title": "Mega Alakazam in Mega Raids",
     "start_date": "Wednesday, April 15, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 22, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 10 am to April 22, 2026 at 10 am local time.",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 21, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 6 am to April 21, 2026 at 10 pm local time.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
     "detail_types": [
       "Raid Battles"
@@ -1244,10 +1244,10 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
     "title": "Mega Sharpedo in Mega Raids",
     "start_date": "Wednesday, April 22, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 29, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Sharpedo will be in Mega Raids from April 22, 2026 at 10 am to April 29, 2026 at 10 am local time.",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 28, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Mega Sharpedo will be in Mega Raids from April 22, 2026 at 6 am to April 28, 2026 at 10 pm local time.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
     "detail_types": [
       "Raid Battles"
@@ -1272,9 +1272,9 @@
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
     "title": "Tapu Koko in 5-star Raid Battles",
     "start_date": "Wednesday, April 22, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, April 29, 2026,",
-    "end_time": "at 10:00 AM Local Time",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, April 28, 2026,",
+    "end_time": "at 10:00 PM Local Time",
     "description": "There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
@@ -1342,58 +1342,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Mega Banette in Mega Raids",
-    "url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Banette in Mega Raids",
-    "start_date": "Wednesday, April 29, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, May 5, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 10 am to May 5, 2026 at 10 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Banette",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
-        },
-        {
-          "name": "Mega Banette",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Tapu Lele in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Lele in 5-star Raid Battles",
-    "start_date": "Wednesday, April 29, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, May 5, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Lele",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm786.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
@@ -1437,6 +1385,58 @@
         {
           "name": "Latios",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Banette in Mega Raids",
+    "url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Banette in Mega Raids",
+    "start_date": "Wednesday, April 29, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, May 5, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Banette",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
+        },
+        {
+          "name": "Mega Banette",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Tapu Lele in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tapu Lele in 5-star Raid Battles",
+    "start_date": "Wednesday, April 29, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, May 5, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tapu Lele",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm786.s.icon.png"
         }
       ]
     },
