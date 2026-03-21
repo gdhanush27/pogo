@@ -61,12 +61,24 @@
       ],
       "spawns": [
         {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Goldeen",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png"
+        },
+        {
           "name": "Magikarp",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
         },
         {
           "name": "Chinchou",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Remoraid",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_223_00.png"
         },
         {
           "name": "Mareanie",
