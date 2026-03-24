@@ -799,18 +799,113 @@
   {
     "name": "Sustainability Week 2026",
     "url": "https://leekduck.com/events/sustainability-week-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
     "title": "Sustainability Week 2026",
     "start_date": "Tuesday, April 14, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, April 20, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Get out and explore Routes during Pokémon GO’s Sustainability Week event! The Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Silicobra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0843_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Sandaconda",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0844_000_mf_n_00000000_f_n.png"
+        }
+      ],
+      "Costumed Debuts": [
+        {
+          "name": "Galarian Corsola wearing pink sunglasses",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        }
+      ],
+      "Route Encounters": [
+        {
+          "name": "Togetic",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
+        },
+        {
+          "name": "Galarian Corsola wearing pink sunglasses",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Togepi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png"
+        },
+        {
+          "name": "Castform",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00.png"
+        },
+        {
+          "name": "Trubbish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png"
+        }
+      ],
+      "Shiny Pokémon Debut": [
+        {
+          "name": "Toedscool",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm948.s.icon.png"
+        },
+        {
+          "name": "Toedscruel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm949.s.icon.png"
+        }
+      ],
+      "Increased Shiny chance": [
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00_shiny.png"
+        },
+        {
+          "name": "Togetic",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00_shiny.png"
+        },
+        {
+          "name": "Castform",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00_shiny.png"
+        },
+        {
+          "name": "Trubbish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Seedot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png"
+        },
+        {
+          "name": "Castform",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00.png"
+        },
+        {
+          "name": "Silicobra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0843_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Toedscool",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm948.icon.png"
+        },
+        {
+          "name": "Wiglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1095,6 +1190,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Steeled Resolve: Taken Over",
+    "url": "https://leekduck.com/events/steeled-resolve-taken-over-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Steeled Resolve: Taken Over",
+    "start_date": "Thursday, April 30, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, May 4, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Steeled Resolve: Taken Over event will take place from April 30, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Team GO Rocket"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
