@@ -711,20 +711,37 @@
     "is_ongoing": false
   },
   {
-    "name": "Hatch Day",
-    "url": "https://leekduck.com/events/hatch-day-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Hatch Day",
+    "name": "Replay: Riolu Hatch Day",
+    "url": "https://leekduck.com/events/replay-riolu-hatch-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg",
+    "title": "Replay: Riolu Hatch Day",
     "start_date": "Saturday, April 18, 2026,",
-    "start_time": "at 2:00 PM Local Time",
+    "start_time": "at 11:00 AM Local Time",
     "end_date": "Saturday, April 18, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Aura you ready for Replay: Riolu Hatch Day ? Riolu will hatch much more frequently from 2 km Eggs, and you’ll have an increased chance of hatching Shiny Riolu! The Replay: Riolu Hatch Day event will take place on April 18, 2026 from 11 am to 5 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Riolu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Riolu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00_shiny.png"
+        },
+        {
+          "name": "Lucario",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
