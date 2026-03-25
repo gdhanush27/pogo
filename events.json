@@ -59,7 +59,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
@@ -83,7 +83,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regieleki Raid Hour",
@@ -100,7 +100,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Gigantamax Pikachu Max Battle Day",
@@ -193,7 +193,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Regieleki in 5-star Raid Battles",
@@ -217,7 +217,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Shadow Latias in Shadow Raids",
