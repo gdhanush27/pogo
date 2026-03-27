@@ -183,23 +183,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Raid Day",
-    "url": "https://leekduck.com/events/raid-day-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Raid Day",
-    "start_date": "Saturday, April 4, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, April 4, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Fashion Raid Day",
     "url": "https://leekduck.com/events/fashion-raid-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
@@ -745,17 +728,17 @@
       "Pokémon Debuts": [
         {
           "name": "Silicobra",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0843_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm843.icon.png"
         },
         {
           "name": "Sandaconda",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0844_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm844.icon.png"
         }
       ],
       "Costumed Debuts": [
         {
           "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
         }
       ],
       "Route Encounters": [
@@ -765,7 +748,7 @@
         },
         {
           "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
         }
       ],
       "In 7 km Eggs": [
@@ -779,7 +762,7 @@
         },
         {
           "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
         },
         {
           "name": "Castform",
@@ -821,7 +804,7 @@
       "7 km Eggs": [
         {
           "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.s.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.s.icon.png"
         },
         {
           "name": "Castform",
