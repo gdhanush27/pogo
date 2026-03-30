@@ -343,8 +343,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
         },
         {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
           "name": "Chinchou",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Joltik",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
         },
         {
           "name": "Dedenne",
