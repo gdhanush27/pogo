@@ -59,7 +59,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regieleki in 5-star Raid Battles",
@@ -83,7 +83,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Shadow Latias in Shadow Raids",
@@ -115,7 +115,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regidrago Raid Hour",
@@ -132,7 +132,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Fashion Raid Day",
@@ -449,7 +449,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Regidrago in 5-star Raid Battles",
@@ -473,7 +473,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Kyogre Raid Hour",
@@ -1151,7 +1151,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Banette in Mega Raids",
