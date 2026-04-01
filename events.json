@@ -996,28 +996,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Tapu Koko in 5-star Raid Battles",
+    "name": null,
     "url": "https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-april-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Koko in 5-star Raid Battles",
-    "start_date": "Wednesday, April 22, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, April 28, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Koko",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm785.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Tapu Lele Raid Hour",
