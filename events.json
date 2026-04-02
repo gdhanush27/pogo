@@ -940,21 +940,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Steeled Resolve",
+    "name": null,
     "url": "https://leekduck.com/events/steeled-resolve-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Steeled Resolve",
-    "start_date": "Tuesday, April 28, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, May 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Steeled Resolve: Taken Over",
