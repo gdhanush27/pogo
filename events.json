@@ -162,7 +162,7 @@
       "Event"
     ],
     "pokemon_sections": {
-      "Rumor Has it…": [
+      "Pokémon Debut": [
         {
           "name": "Mimikyu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm778.fDISGUISED.icon.png"
@@ -236,6 +236,10 @@
         {
           "name": "Dedenne",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Mimikyu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm778.fDISGUISED.icon.png"
         },
         {
           "name": "Pawmi",
