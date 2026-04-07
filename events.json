@@ -116,7 +116,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Trapinch during Max Monday",
@@ -140,7 +140,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: March",
@@ -927,7 +927,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
