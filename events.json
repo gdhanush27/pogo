@@ -755,35 +755,160 @@
   {
     "name": "Steeled Resolve",
     "url": "https://leekduck.com/events/steeled-resolve-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
     "title": "Steeled Resolve",
     "start_date": "Tuesday, April 28, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, May 4, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more! The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokemon Debut": [
+        {
+          "name": "Orthworm",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Beldum",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+          },
+          {
+            "name": "Shieldon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
+          },
+          {
+            "name": "Honedge",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Orthworm",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
+          }
+        ]
+      },
+      "Shiny Meltan and Melmetal": [
+        {
+          "name": "Meltan",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_808_00_shiny.png"
+        },
+        {
+          "name": "Melmetal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_809_00_shiny.png"
+        }
+      ],
+      "Shiny Orthworm": [
+        {
+          "name": "Orthworm",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_r.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Aron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+        },
+        {
+          "name": "Ferroseed",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
+        },
+        {
+          "name": "Pawniard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
     "name": "Steeled Resolve: Taken Over",
     "url": "https://leekduck.com/events/steeled-resolve-taken-over-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-2026.jpg",
     "title": "Steeled Resolve: Taken Over",
     "start_date": "Thursday, April 30, 2026,",
-    "start_time": "at 10:00 AM Local Time",
+    "start_time": "at 12:00 AM Local Time",
     "end_date": "Monday, May 4, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Steeled Resolve: Taken Over event will take place from April 30, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Rescue Shadow Incarnate Forme Landorus and more during Steeled Resolve: Taken Over!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-2026.jpg",
     "detail_types": [
+      "Event",
       "Team GO Rocket"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Save Shadow Incarnate Forme Landorus!": [
+        {
+          "name": "Landorus (Incarnate)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png"
+        }
+      ],
+      "New Shadow Pokémon": [
+        {
+          "name": "Helioptile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
+        },
+        {
+          "name": "Dewpider",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.icon.png"
+        },
+        {
+          "name": "Morelull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png"
+        },
+        {
+          "name": "Stufful",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png"
+        }
+      ],
+      "In 12 km Eggs": [
+        {
+          "name": "Sandile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
+        },
+        {
+          "name": "Vullaby",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_629_00.png"
+        },
+        {
+          "name": "Pancham",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png"
+        },
+        {
+          "name": "Salandit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm757.icon.png"
+        },
+        {
+          "name": "Shroodle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.icon.png"
+        },
+        {
+          "name": "Varoom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Varoom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.s.icon.png"
+        },
+        {
+          "name": "Revavroom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm966.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
