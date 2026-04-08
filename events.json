@@ -31,7 +31,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League and Electric Cup: Great League Edition | Memories in Motion",
@@ -95,7 +95,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regidrago in 5-star Raid Battles",
@@ -119,7 +119,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Kyogre Raid Hour",
@@ -136,7 +136,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tinkatink Community Day",
@@ -245,7 +245,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Aerodactyl in Mega Raids",
@@ -273,7 +273,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Groudon Raid Hour",
