@@ -923,20 +923,47 @@
     "is_ongoing": false
   },
   {
-    "name": "May Community Day",
+    "name": "Lechonk Community Day",
     "url": "https://leekduck.com/events/may-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "May Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
+    "title": "Lechonk Community Day",
     "start_date": "Saturday, May 9, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, May 9, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Photobomb": [
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.s.icon.png"
+        },
+        {
+          "name": "Oinkologne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.s.icon.png"
+        },
+        {
+          "name": "Oinkologne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.fFEMALE.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
