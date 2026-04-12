@@ -17,50 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Tinkatink Community Day",
-    "url": "https://leekduck.com/events/april-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg",
-    "title": "Tinkatink Community Day",
-    "start_date": "Saturday, April 11, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, April 11, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Tinkatink, the Metal Hammer Pokémon, will be featured during April Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Tinkatink",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Tinkatink",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.s.icon.png"
-        },
-        {
-          "name": "Tinkatuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm958.s.icon.png"
-        },
-        {
-          "name": "Tinkaton",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Tinkatink",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Drilbur during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-04-13/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
