@@ -17,30 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Drilbur during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-04-13/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Drilbur during Max Monday",
-    "start_date": "Monday, April 13, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, April 13, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On April 13, 2026 , the featured Dynamax Pokémon is Drilbur .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Drilbur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Ultra League and Fantasy Cup: Great League Edition | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
@@ -329,7 +305,7 @@
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, April 21, 2026,",
     "end_time": "at 10:00 PM Local Time",
-    "description": "There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:",
+    "description": "Groudon will be in five-star raid battles from April 15, 2026 to April 21, 2026. There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/groudon.jpg",
     "detail_types": [
       "Raid Battles"
@@ -537,7 +513,7 @@
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, April 28, 2026,",
     "end_time": "at 10:00 PM Local Time",
-    "description": "There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:",
+    "description": "Tapu Koko will be in five-star raid battles from April 22, 2026 to April 28, 2026. There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
@@ -863,7 +839,7 @@
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, May 5, 2026,",
     "end_time": "at 10:00 PM Local Time",
-    "description": "There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:",
+    "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026. There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
