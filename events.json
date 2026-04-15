@@ -803,32 +803,10 @@
     "is_ongoing": true
   },
   {
-    "name": "Mega Banette in Mega Raids",
+    "name": null,
     "url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Banette in Mega Raids",
-    "start_date": "Wednesday, April 29, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, May 5, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Banette",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
-        },
-        {
-          "name": "Mega Banette",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Tapu Lele in 5-star Raid Battles",
