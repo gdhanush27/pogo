@@ -265,10 +265,36 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Master League and Spring Cup: Great League Edition | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_spring-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Master League and Spring Cup: Great League Edition | Memories in Motion",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Master League and Spring Cup: Great League Edition will run from April 14, 2026, at 1:00 p.m. to April 21, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "Spring Cup: Great League Edition": [
+        {
+          "name": "Jumpluff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_189_00.png"
+        },
+        {
+          "name": "Roserade",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_407_00.png"
+        },
+        {
+          "name": "Toxapex",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm748.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
   },
   {
     "name": "Groudon in 5-star Raid Battles",
