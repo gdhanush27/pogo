@@ -17,134 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Sustainability Week 2026",
-    "url": "https://leekduck.com/events/sustainability-week-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
-    "title": "Sustainability Week 2026",
-    "start_date": "Tuesday, April 14, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, April 20, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Get out and explore Routes during Pokémon GO’s Sustainability Week event! The Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debuts": [
-        {
-          "name": "Silicobra",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm843.icon.png"
-        },
-        {
-          "name": "Sandaconda",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm844.icon.png"
-        }
-      ],
-      "Costumed Debuts": [
-        {
-          "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
-        }
-      ],
-      "Route Encounters": [
-        {
-          "name": "Togetic",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
-        },
-        {
-          "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
-        }
-      ],
-      "In 7 km Eggs": [
-        {
-          "name": "Lapras",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
-        },
-        {
-          "name": "Togepi",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png"
-        },
-        {
-          "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.icon.png"
-        },
-        {
-          "name": "Castform",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00.png"
-        },
-        {
-          "name": "Trubbish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png"
-        }
-      ],
-      "Shiny Pokémon Debut": [
-        {
-          "name": "Toedscool",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm948.s.icon.png"
-        },
-        {
-          "name": "Toedscruel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm949.s.icon.png"
-        }
-      ],
-      "Wild Encounters": [
-        {
-          "name": "Lapras",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00_shiny.png"
-        },
-        {
-          "name": "Togetic",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00_shiny.png"
-        },
-        {
-          "name": "Castform",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00_shiny.png"
-        },
-        {
-          "name": "Trubbish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00_shiny.png"
-        }
-      ],
-      "7 km Eggs": [
-        {
-          "name": "Galarian Corsola wearing pink sunglasses",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fSPRING_2026.s.icon.png"
-        },
-        {
-          "name": "Castform",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_351_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Regirock during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-04-20/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Regirock during Max Monday",
-    "start_date": "Monday, April 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, April 20, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On April 20, 2026 , the featured Dynamax Pokémon is Regirock .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Regirock",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Master League and Spring Cup: Great League Edition | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_spring-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
@@ -947,20 +819,55 @@
     "is_ongoing": false
   },
   {
-    "name": "Spring Marathon",
+    "name": "Spring Marathon 2026",
     "url": "https://leekduck.com/events/spring-marathon-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Spring Marathon",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
+    "title": "Spring Marathon 2026",
     "start_date": "Tuesday, May 12, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, May 18, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Spring Marathon event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Lace up your walking shoes and prepare for a Spring Marathon in Pokémon GO! The Spring Marathon 2026 event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Flittle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0955_000_mf_n_00000000_f_n.png"
+        },
+        {
+          "name": "Espathra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0956_000_mf_n_00000000_f_n.png"
+        }
+      ],
+      "Costumed Debuts": [
+        {
+          "name": "Marathon Vision Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Flower Crown Pichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00_07.png"
+        },
+        {
+          "name": "Flower Crown Togepi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00_12.png"
+        },
+        {
+          "name": "Flower Crown Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00_07.png"
+        },
+        {
+          "name": "Flittle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0955_000_mf_n_00000000_f_n.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
