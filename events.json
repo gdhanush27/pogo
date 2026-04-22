@@ -17,58 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Groudon in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/groudon.jpg",
-    "title": "Groudon in 5-star Raid Battles",
-    "start_date": "Wednesday, April 15, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, April 21, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Groudon will be in five-star raid battles from April 15, 2026 to April 21, 2026. There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/groudon.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Groudon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Alakazam in Mega Raids",
-    "url": "https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Alakazam in Mega Raids",
-    "start_date": "Wednesday, April 15, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, April 21, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 6 am to April 21, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Alakazam",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_065_00_shiny.png"
-        },
-        {
-          "name": "Mega Alakazam",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_065_51_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Tapu Koko Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260422/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -298,84 +246,10 @@
     "is_ongoing": false
   },
   {
-    "name": "Steeled Resolve",
+    "name": null,
     "url": "https://leekduck.com/events/steeled-resolve-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
-    "title": "Steeled Resolve",
-    "start_date": "Tuesday, April 28, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, May 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more! The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokemon Debut": [
-        {
-          "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
-        }
-      ],
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Beldum",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-          },
-          {
-            "name": "Shieldon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
-          },
-          {
-            "name": "Honedge",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-          }
-        ],
-        "Three-Star Raids": [
-          {
-            "name": "Orthworm",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
-          }
-        ]
-      },
-      "Shiny Meltan and Melmetal": [
-        {
-          "name": "Meltan",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_808_00_shiny.png"
-        },
-        {
-          "name": "Melmetal",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_809_00_shiny.png"
-        }
-      ],
-      "Shiny Orthworm": [
-        {
-          "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_r.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Magnemite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
-        },
-        {
-          "name": "Aron",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
-        },
-        {
-          "name": "Ferroseed",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
-        },
-        {
-          "name": "Pawniard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Steeled Resolve: Taken Over",
@@ -1441,21 +1315,10 @@
     "is_ongoing": true
   },
   {
-    "name": "Great League, Ultra League, and Master League | Memories in Motion",
+    "name": null,
     "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-    "title": "Great League, Ultra League, and Master League | Memories in Motion",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
+    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
   },
   {
     "name": "Shadow Cresselia in Shadow Raids",
