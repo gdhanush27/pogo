@@ -70,7 +70,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Alakazam in Mega Raids",
@@ -98,7 +98,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Tapu Koko Raid Hour",
@@ -115,7 +115,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Replay: GO Bigger",
@@ -254,7 +254,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tapu Koko in 5-star Raid Battles",
@@ -278,7 +278,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tapu Lele Raid Hour",
@@ -845,7 +845,7 @@
       ],
       "Costumed Debuts": [
         {
-          "name": "Marathon Vision Pikachu",
+          "name": "Marathon Visor Pikachu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
         }
       ],
@@ -1841,6 +1841,23 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Pokémon GO Fest 2026: Global",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg",
+    "title": "Pokémon GO Fest 2026: Global",
+    "start_date": "Saturday, July 11, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, July 12, 2026,",
+    "end_time": "at 6:00 PM Local Time",
+    "description": "The Pokémon GO Fest 2026: Global event will take place from July 11, 2026 at 10 am to July 12, 2026 at 6 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg",
+    "detail_types": [
+      "Pokémon GO Fest"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
