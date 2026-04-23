@@ -701,20 +701,41 @@
     "is_ongoing": false
   },
   {
-    "name": "May Community Day Classic",
+    "name": "Deino Community Day Classic",
     "url": "https://leekduck.com/events/may-communitydayclassic2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "May Community Day Classic",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg",
+    "title": "Deino Community Day Classic",
     "start_date": "Saturday, May 16, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, May 16, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png"
+        },
+        {
+          "name": "Zweilous",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_634_00_shiny.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1743,6 +1764,57 @@
     "is_ongoing": false
   },
   {
+    "name": "June Community Day",
+    "url": "https://leekduck.com/events/june-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "June Community Day",
+    "start_date": "Saturday, June 20, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, June 20, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Raid Day",
+    "url": "https://leekduck.com/events/raid-day-june-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Raid Day",
+    "start_date": "Saturday, June 27, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, June 27, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "July Community Day",
+    "url": "https://leekduck.com/events/july-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "July Community Day",
+    "start_date": "Saturday, July 4, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, July 4, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Pokémon GO Fest 2026: Global",
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg",
@@ -1755,6 +1827,74 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg",
     "detail_types": [
       "Pokémon GO Fest"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Weekend Event",
+    "url": "https://leekduck.com/events/weekend-event-july-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Weekend Event",
+    "start_date": "Saturday, July 18, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Saturday, July 18, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Hatch Day",
+    "url": "https://leekduck.com/events/hatch-day-august-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Hatch Day",
+    "start_date": "Saturday, August 8, 2026,",
+    "start_time": "at 11:00 AM Local Time",
+    "end_date": "Saturday, August 8, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "August Community Day",
+    "url": "https://leekduck.com/events/august-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "August Community Day",
+    "start_date": "Saturday, August 15, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, August 15, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Raid Day",
+    "url": "https://leekduck.com/events/raid-day-august-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Raid Day",
+    "start_date": "Saturday, August 22, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, August 22, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
