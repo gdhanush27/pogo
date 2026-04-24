@@ -1393,6 +1393,23 @@
     "is_ongoing": true
   },
   {
+    "name": "GO Pass: May",
+    "url": "https://leekduck.com/events/go-pass-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
+    "title": "GO Pass: May",
+    "start_date": "Tuesday, May 5, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, June 2, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more! From Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
+    "detail_types": [
+      "GO Pass"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Great League, Ultra League, and Master League | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
