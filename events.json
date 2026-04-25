@@ -246,7 +246,7 @@
       "Pokemon Debut": [
         {
           "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
         }
       ],
       "raid_pokemon": {
@@ -267,7 +267,7 @@
         "Three-Star Raids": [
           {
             "name": "Orthworm",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_n.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
           }
         ]
       },
@@ -284,7 +284,7 @@
       "Shiny Orthworm": [
         {
           "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0968_000_mf_n_00000000_f_r.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.s.icon.png"
         }
       ],
       "spawns": [
