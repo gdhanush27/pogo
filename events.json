@@ -223,8 +223,24 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
         },
         {
+          "name": "Pineco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_204_00.png"
+        },
+        {
+          "name": "Nosepass",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
+        },
+        {
           "name": "Aron",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+        },
+        {
+          "name": "Bronzor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
         },
         {
           "name": "Ferroseed",
