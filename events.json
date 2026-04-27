@@ -17,76 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Replay: GO Bigger",
-    "url": "https://leekduck.com/events/replay-go-bigger-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg",
-    "title": "Replay: GO Bigger",
-    "start_date": "Saturday, April 25, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, April 25, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Giants of the Kanto region return to Max Battles during Replay: GO Bigger!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {
-      "Featured Pokémon": [
-        {
-          "name": "Gigantamax Venusaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm3.fGIGANTAMAX.icon.png"
-        },
-        {
-          "name": "Gigantamax Charizard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm6.fGIGANTAMAX.icon.png"
-        },
-        {
-          "name": "Gigantamax Blastoise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm9.fGIGANTAMAX.icon.png"
-        },
-        {
-          "name": "Gigantamax Gengar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fGIGANTAMAX.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Gigantamax Venusaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm3.fGIGANTAMAX.s.icon.png"
-        },
-        {
-          "name": "Venusaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00_shiny.png"
-        },
-        {
-          "name": "Gigantamax Charizard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm6.fGIGANTAMAX.s.icon.png"
-        },
-        {
-          "name": "Charizard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png"
-        },
-        {
-          "name": "Gigantamax Blastoise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm9.fGIGANTAMAX.s.icon.png"
-        },
-        {
-          "name": "Blastoise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00_shiny.png"
-        },
-        {
-          "name": "Gigantamax Gengar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fGIGANTAMAX.s.icon.png"
-        },
-        {
-          "name": "Gengar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Shuckle during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-04-27/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -909,20 +839,39 @@
     "is_ongoing": false
   },
   {
-    "name": "Raid Day",
-    "url": "https://leekduck.com/events/raid-day-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Raid Day",
+    "name": "Falinks Super Mega Raid Day",
+    "url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
+    "title": "Falinks Super Mega Raid Day",
     "start_date": "Saturday, May 23, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, May 23, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Mega-Evolved Pokémon Debut": [
+        {
+          "name": "Mega Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Falinks.png"
+        }
+      ],
+      "Featured Pokémon": [
+        {
+          "name": "Mega Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Falinks.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
