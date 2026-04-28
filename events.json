@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League, Ultra League, and Master League | Memories in Motion",
@@ -252,7 +252,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Steeled Resolve: Taken Over",
