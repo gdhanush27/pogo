@@ -17,30 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Shuckle during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-04-27/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Shuckle during Max Monday",
-    "start_date": "Monday, April 27, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, April 27, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On April 27, 2026 , the featured Dynamax Pokémon is Shuckle .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Shuckle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League, Ultra League, and Master League | Memories in Motion",
     "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-2/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
