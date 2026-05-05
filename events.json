@@ -17,205 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Steeled Resolve 2026",
-    "url": "https://leekduck.com/events/steeled-resolve-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
-    "title": "Steeled Resolve 2026",
-    "start_date": "Tuesday, April 28, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, May 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more! The Steeled Resolve 2026 event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokemon Debut": [
-        {
-          "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Beldum",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-          },
-          {
-            "name": "Shieldon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
-          },
-          {
-            "name": "Honedge",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-          }
-        ],
-        "Three-Star Raids": [
-          {
-            "name": "Orthworm",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
-          }
-        ]
-      },
-      "Shiny Meltan and Melmetal": [
-        {
-          "name": "Meltan",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_808_00_shiny.png"
-        },
-        {
-          "name": "Melmetal",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_809_00_shiny.png"
-        }
-      ],
-      "Shiny Orthworm": [
-        {
-          "name": "Orthworm",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Magnemite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
-        },
-        {
-          "name": "Pineco",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_204_00.png"
-        },
-        {
-          "name": "Nosepass",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
-        },
-        {
-          "name": "Aron",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
-        },
-        {
-          "name": "Bronzor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png"
-        },
-        {
-          "name": "Drilbur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
-        },
-        {
-          "name": "Ferroseed",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
-        },
-        {
-          "name": "Pawniard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Steeled Resolve: Taken Over",
-    "url": "https://leekduck.com/events/steeled-resolve-taken-over-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-2026.jpg",
-    "title": "Steeled Resolve: Taken Over",
-    "start_date": "Thursday, April 30, 2026,",
-    "start_time": "at 12:00 AM Local Time",
-    "end_date": "Monday, May 4, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Rescue Shadow Incarnate Forme Landorus and more during Steeled Resolve: Taken Over!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-2026.jpg",
-    "detail_types": [
-      "Event",
-      "Team GO Rocket"
-    ],
-    "pokemon_sections": {
-      "Save Shadow Incarnate Forme Landorus!": [
-        {
-          "name": "Landorus (Incarnate)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png"
-        }
-      ],
-      "New Shadow Pokémon": [
-        {
-          "name": "Helioptile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
-        },
-        {
-          "name": "Dewpider",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.icon.png"
-        },
-        {
-          "name": "Morelull",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png"
-        },
-        {
-          "name": "Stufful",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png"
-        }
-      ],
-      "In 12 km Eggs": [
-        {
-          "name": "Sandile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
-        },
-        {
-          "name": "Vullaby",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_629_00.png"
-        },
-        {
-          "name": "Pancham",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png"
-        },
-        {
-          "name": "Salandit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm757.icon.png"
-        },
-        {
-          "name": "Shroodle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.icon.png"
-        },
-        {
-          "name": "Varoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Varoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.s.icon.png"
-        },
-        {
-          "name": "Revavroom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm966.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Cottonee during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-05-04/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Cottonee during Max Monday",
-    "start_date": "Monday, May 4, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, May 4, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On May 4, 2026 , the featured Dynamax Pokemon is Cottonee .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Cottonee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_546_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "GO Pass: April",
     "url": "https://leekduck.com/events/go-pass-april-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-04-07-go-pass-april-2026/go-pass-april-2026.jpg",
@@ -453,6 +254,30 @@
     "is_ongoing": true
   },
   {
+    "name": "Nihilego in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/nihilego-raid-boss.jpg",
+    "title": "Nihilego in 5-star Raid Battles",
+    "start_date": "Wednesday, May 6, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, May 12, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 12, 2026. There will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/nihilego-raid-boss.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Nihilego",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm793.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Mega Camerupt in Mega Raids",
     "url": "https://leekduck.com/events/mega-camerupt-in-mega-raids-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -475,30 +300,6 @@
         {
           "name": "Mega Camerupt",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm323.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Nihilego in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Nihilego in 5-star Raid Battles",
-    "start_date": "Wednesday, May 6, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, May 13, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 13, 2026. There will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Nihilego",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm793.s.icon.png"
         }
       ]
     },
@@ -659,9 +460,9 @@
     "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
     "start_date": "Wednesday, May 13, 2026,",
     "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, May 20, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 20, 2026. There will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date: These Pokemon will remain in their respective regions.",
+    "end_date": "Tuesday, May 19, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026. There will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date: These Pokemon will remain in their respective regions.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
@@ -807,6 +608,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Tapu Bulu in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tapu Bulu in 5-star Raid Battles",
+    "start_date": "Wednesday, May 20, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, May 26, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tapu Bulu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Mega Altaria in Mega Raids",
     "url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -829,30 +654,6 @@
         {
           "name": "Mega Altaria",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_334_51_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Tapu Bulu in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Bulu in 5-star Raid Battles",
-    "start_date": "Wednesday, May 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, May 27, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 27, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Bulu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
         }
       ]
     },
@@ -1271,6 +1072,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Tapu Fini in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tapu Fini in 5-star Raid Battles",
+    "start_date": "Wednesday, May 27, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, June 2, 2026,",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026. There will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tapu Fini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm788.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Shadow Cresselia in Shadow Raids",
     "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1325,30 +1150,6 @@
         {
           "name": "Mega Medicham",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Tapu Fini in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Fini in 5-star Raid Battles",
-    "start_date": "Wednesday, May 27, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, June 3, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 3, 2026. There will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Fini",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm788.s.icon.png"
         }
       ]
     },
