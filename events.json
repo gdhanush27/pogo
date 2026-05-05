@@ -110,7 +110,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Steeled Resolve: Taken Over",
@@ -189,7 +189,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Cottonee during Max Monday",
@@ -213,7 +213,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: April",
@@ -450,7 +450,7 @@
       "Timed Research"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Camerupt in Mega Raids",
@@ -1251,7 +1251,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League | Memories in Motion",
