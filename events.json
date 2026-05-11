@@ -17,50 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Lechonk Community Day",
-    "url": "https://leekduck.com/events/may-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
-    "title": "Lechonk Community Day",
-    "start_date": "Saturday, May 9, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, May 9, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Lechonk",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Lechonk",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.s.icon.png"
-        },
-        {
-          "name": "Oinkologne",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.s.icon.png"
-        },
-        {
-          "name": "Oinkologne",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.fFEMALE.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Lechonk",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Growlithe during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-05-11/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -243,17 +199,17 @@
       "Pokémon Debuts": [
         {
           "name": "Flittle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0955_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png"
         },
         {
           "name": "Espathra",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0956_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm956.icon.png"
         }
       ],
       "Costumed Debuts": [
         {
           "name": "Marathon Visor Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fVISOR_2026.icon.png"
         }
       ],
       "In 5 km Eggs": [
@@ -271,7 +227,7 @@
         },
         {
           "name": "Flittle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0955_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png"
         }
       ]
     },
@@ -413,13 +369,13 @@
       "Mega-Evolved Pokémon Debut": [
         {
           "name": "Mega Falinks",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Falinks.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png"
         }
       ],
       "Featured Pokémon": [
         {
           "name": "Mega Falinks",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Falinks.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png"
         }
       ],
       "Shiny": [
