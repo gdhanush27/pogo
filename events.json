@@ -48,7 +48,7 @@
       "Timed Research"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Nihilego in 5-star Raid Battles",
@@ -72,7 +72,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Camerupt in Mega Raids",
@@ -117,7 +117,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Deino Community Day Classic",
@@ -280,7 +280,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Glalie in Mega Raids",
@@ -308,7 +308,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Tapu Bulu Raid Hour",
