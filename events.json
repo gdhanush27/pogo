@@ -66,7 +66,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Buzzwole, Pheromosa, and Xurkitree Raid Hour",
@@ -83,7 +83,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Deino Community Day Classic",
