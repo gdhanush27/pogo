@@ -17,44 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Deino Community Day Classic",
-    "url": "https://leekduck.com/events/may-communitydayclassic2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
-    "title": "Deino Community Day Classic",
-    "start_date": "Saturday, May 16, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, May 16, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Deino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png"
-        },
-        {
-          "name": "Zweilous",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_634_00_shiny.png"
-        },
-        {
-          "name": "Hydreigon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Deino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Spring Marathon 2026",
     "url": "https://leekduck.com/events/spring-marathon-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
@@ -500,6 +462,92 @@
         {
           "name": "Paldean Tauros (Aqua)",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_AQUA.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Blanche's Quest for Knowledge",
+    "url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
+    "title": "Blanche's Quest for Knowledge",
+    "start_date": "Tuesday, May 26, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, June 1, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Blanche’s Quest for Knowledge event will take place from May 26, 2026 at 10 am to June 1, 2026 at 8 pm. Join Blanche for a research-focused adventure featuring Field Research tasks and Incense encounters.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Incense Encounters": [
+        {
+          "name": "Cubone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_104_00.png"
+        },
+        {
+          "name": "Horsea",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png"
+        },
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Vaporeon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_134_00.png"
+        },
+        {
+          "name": "Larvitar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
+        },
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+        },
+        {
+          "name": "Clamperl",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png"
+        },
+        {
+          "name": "Cubchoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_613_00.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
+        },
+        {
+          "name": "Alolan Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png"
+        },
+        {
+          "name": "Krabby",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_098_00.png"
+        },
+        {
+          "name": "Staryu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00.png"
+        },
+        {
+          "name": "Galarian Zigzagoon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        },
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Vaporeon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_134_00.png"
+        },
+        {
+          "name": "Larvitar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
         }
       ]
     },
@@ -989,6 +1037,84 @@
     "is_ongoing": false
   },
   {
+    "name": "Spark's Caretaking Quest",
+    "url": "https://leekduck.com/events/sparks-caretaking-quest/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
+    "title": "Spark's Caretaking Quest",
+    "start_date": "Tuesday, June 2, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, June 8, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm. Team up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Eggs": [
+        {
+          "name": "Pichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png"
+        },
+        {
+          "name": "Hisuian Qwilfish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm211.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        },
+        {
+          "name": "Elekid",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        },
+        {
+          "name": "Varoom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm965.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
+        },
+        {
+          "name": "Alolan Raichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_61.png"
+        },
+        {
+          "name": "Drowzee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_096_00.png"
+        },
+        {
+          "name": "Jolteon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_135_00.png"
+        },
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Houndour",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
+        },
+        {
+          "name": "Lileep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_345_00.png"
+        },
+        {
+          "name": "Combee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Pokémon GO Fest 2026: Copenhagen",
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-copenhagen/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-12-pokemon-go-fest-2026-copenhagen/pokemon-go-fest-copenhagen.jpg",
@@ -1122,6 +1248,62 @@
         {
           "name": "Paldean Tauros (Combat)",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_COMBAT.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Candela's Quest for Victory",
+    "url": "https://leekduck.com/events/candelas-quest-for-victory/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+    "title": "Candela's Quest for Victory",
+    "start_date": "Tuesday, June 9, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, June 15, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm. Step into battle alongside Candela in an event focused on raids and battling.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Mankey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png"
+        },
+        {
+          "name": "Hisuian Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Machop",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
+        },
+        {
+          "name": "Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
+        },
+        {
+          "name": "Scyther",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
+        },
+        {
+          "name": "Flareon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_136_00.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+        },
+        {
+          "name": "Fletchling",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png"
         }
       ]
     },
