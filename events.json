@@ -17,38 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
-    "start_date": "Wednesday, May 13, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, May 19, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026. There will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date: These Pokemon will remain in their respective regions.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Buzzwole",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png"
-        },
-        {
-          "name": "Pheromosa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.s.icon.png"
-        },
-        {
-          "name": "Xurkitree",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Mega Glalie in Mega Raids",
     "url": "https://leekduck.com/events/mega-glalie-in-mega-raids-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -130,27 +98,20 @@
     "is_ongoing": false
   },
   {
-    "name": "Tapu Bulu in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Bulu in 5-star Raid Battles",
-    "start_date": "Wednesday, May 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
+    "name": "Choose Your Path Timed Research (May 19, 2026)",
+    "url": "https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path-evergreen-2026-05-19.jpg",
+    "title": "Choose Your Path Timed Research (May 19, 2026)",
+    "start_date": "Tuesday, May 19, 2026,",
+    "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, May 24, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 24, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus. This Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling. Choose wisely! You can select only one path and remain on that path until the end of the Timed Research. Each path grants a different event bonus and includes different tasks and rewards.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path-evergreen-2026-05-19.jpg",
     "detail_types": [
-      "Raid Battles"
+      "Timed Research"
     ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Bulu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
-        }
-      ]
-    },
+    "pokemon_sections": {},
     "is_ongoing": true
   },
   {
@@ -195,20 +156,27 @@
     "is_ongoing": false
   },
   {
-    "name": "Choose Your Path Timed Research (May 19, 2026)",
-    "url": "https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path-evergreen-2026-05-19.jpg",
-    "title": "Choose Your Path Timed Research (May 19, 2026)",
-    "start_date": "Tuesday, May 19, 2026,",
-    "start_time": "at 10:00 AM Local Time",
+    "name": "Tapu Bulu in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tapu Bulu in 5-star Raid Battles",
+    "start_date": "Wednesday, May 20, 2026,",
+    "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, May 26, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus. This Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling. Choose wisely! You can select only one path and remain on that path until the end of the Timed Research. Each path grants a different event bonus and includes different tasks and rewards.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path-evergreen-2026-05-19.jpg",
+    "end_time": "at 10:00 PM Local Time",
+    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
-      "Timed Research"
+      "Raid Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tapu Bulu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": true
   },
   {
