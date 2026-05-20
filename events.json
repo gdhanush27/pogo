@@ -17,23 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
-    "url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
     "url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -147,6 +130,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Tapu Bulu in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tapu Bulu in 5-star Raid Battles",
+    "start_date": "Wednesday, May 20, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Sunday, May 24, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 24, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tapu Bulu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
     "name": "Dynamax Combee during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-05-25/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -202,30 +209,6 @@
       "Timed Research"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
-  },
-  {
-    "name": "Tapu Bulu in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Bulu in 5-star Raid Battles",
-    "start_date": "Wednesday, May 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, May 26, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Bulu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
-        }
-      ]
-    },
     "is_ongoing": true
   },
   {
