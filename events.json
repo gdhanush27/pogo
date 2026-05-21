@@ -17,34 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Mega Glalie in Mega Raids",
-    "url": "https://leekduck.com/events/mega-glalie-in-mega-raids-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Glalie in Mega Raids",
-    "start_date": "Wednesday, May 13, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, May 20, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Glalie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_362_00_shiny.png"
-        },
-        {
-          "name": "Mega Glalie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Tapu Bulu Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260520/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -59,7 +31,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Falinks Super Mega Raid Day",
