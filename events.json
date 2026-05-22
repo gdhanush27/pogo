@@ -1801,7 +1801,17 @@
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm142.fMEGA.icon.png"
           }
         ]
-      }
+      },
+      "spawns": [
+        {
+          "name": "Omanyte",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_138_00.png"
+        },
+        {
+          "name": "Kabuto",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_140_00.png"
+        }
+      ]
     },
     "is_ongoing": true
   }
