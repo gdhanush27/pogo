@@ -31,7 +31,7 @@
       "Timed Research"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Combee during Max Monday",
@@ -55,7 +55,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League | Memories in Motion",
@@ -207,6 +207,58 @@
         {
           "name": "Dhelmise",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
+        },
+        {
+          "name": "Sinistea",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_14.png"
+        },
+        {
+          "name": "Caterpie wearing a Poké Ball hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm10.icon.png"
+        },
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Anorith",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_347_00.png"
+        },
+        {
+          "name": "Wash Rotom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        }
+      ],
+      "In 10 km Eggs": [
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Sandile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Comfey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
         },
         {
           "name": "Sinistea",
