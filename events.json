@@ -17,30 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Tapu Bulu in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Bulu in 5-star Raid Battles",
-    "start_date": "Wednesday, May 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, May 26, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026. There will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Bulu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Mega Altaria in Mega Raids",
     "url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -1731,6 +1707,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
     "detail_types": [
       "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "GO Pass: June",
+    "url": "https://leekduck.com/events/go-pass-june-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-02-go-pass-june-2026/go-pass-june-2026.jpg",
+    "title": "GO Pass: June",
+    "start_date": "Tuesday, June 2, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, July 7, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Lugia and the Timed Incubator return for GO Pass: June! From Tuesday, June 2, at 10:00 a.m. to Tuesday, July 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for June will be available in Pokémon GO!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-go-pass-june-2026/go-pass-june-2026.jpg",
+    "detail_types": [
+      "GO Pass"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
