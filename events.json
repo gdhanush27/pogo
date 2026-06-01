@@ -17,269 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Community Day Vote for August",
-    "url": "https://leekduck.com/events/community-day-voting-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-30-community-day-voting-august-2026/august-community-day-vote-2026.jpg",
-    "title": "Community Day Vote for August",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "We’re bringing back Community Day voting for the final Community Day of the Season! From Saturday, May 30, at 6:00 p.m. PDT to Sunday, May 31, at 6:00 p.m. PDT, you’ll be able to vote for the August Community Day featured Pokémon via the official Pokémon GO YouTube channel . The Pokémon that receives the most votes will be featured on August Community Day on August 16, 2026, at 2:00 p.m. local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-30-community-day-voting-august-2026/august-community-day-vote-2026.jpg",
-    "detail_types": [
-      "Update"
-    ],
-    "pokemon_sections": {
-      "August Community Day Candidates": [
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
-        },
-        {
-          "name": "Yamper",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.icon.png"
-        },
-        {
-          "name": "Fidough",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
-        },
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
-        }
-      ],
-      "Nickit Family": [
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.s.icon.png"
-        },
-        {
-          "name": "Thievul",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm828.s.icon.png"
-        }
-      ],
-      "Yamper Family": [
-        {
-          "name": "Yamper",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.s.icon.png"
-        },
-        {
-          "name": "Boltund",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm836.s.icon.png"
-        }
-      ],
-      "Fidough Family": [
-        {
-          "name": "Fidough",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.s.icon.png"
-        },
-        {
-          "name": "Dachsbun",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm927.s.icon.png"
-        }
-      ],
-      "Tadbulb Family": [
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.s.icon.png"
-        },
-        {
-          "name": "Bellibolt",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm939.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Pokémon GO Fest 2026: Tokyo",
-    "url": "https://leekduck.com/events/pokemon-go-fest-2026-tokyo/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-29-pokemon-go-fest-2026-tokyo/pokemon-go-fest-tokyo.jpg",
-    "title": "Pokémon GO Fest 2026: Tokyo",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Location: Tokyo Waterfront City, Tokyo, Japan Dates: May 29–June 1, 2026 Time: 10:00 a.m. – 8:00 p.m. JST (Park and citywide event hours vary by ticket) Trainers can look forward to exceptional coaching by Team Mystic’s leader, Blanche, during an exciting park session in Tokyo Waterfront City that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Tokyo, developing their skills and earning a unique in-game Pokémon GO Expert medal. All event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Tokyo Waterfront City during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-29-pokemon-go-fest-2026-tokyo/pokemon-go-fest-tokyo.jpg",
-    "detail_types": [
-      "Pokémon GO Fest",
-      "Location-specific"
-    ],
-    "pokemon_sections": {
-      "Tokyo Waterfront City encounters": [
-        {
-          "name": "Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_14.png"
-        },
-        {
-          "name": "Caterpie wearing a Poké Ball hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm10.icon.png"
-        },
-        {
-          "name": "Staryu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00.png"
-        },
-        {
-          "name": "Lapras",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
-        },
-        {
-          "name": "Vaporeon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_134_00.png"
-        },
-        {
-          "name": "Unown",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_16.png"
-        },
-        {
-          "name": "Larvitar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
-        },
-        {
-          "name": "Anorith",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_347_00.png"
-        },
-        {
-          "name": "Beldum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-        },
-        {
-          "name": "Mudbray",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
-        },
-        {
-          "name": "Comfey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
-        },
-        {
-          "name": "Dhelmise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
-        },
-        {
-          "name": "Sinistea",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
-        }
-      ],
-      "In 5 km Eggs": [
-        {
-          "name": "Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_14.png"
-        },
-        {
-          "name": "Caterpie wearing a Poké Ball hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm10.icon.png"
-        },
-        {
-          "name": "Lapras",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
-        },
-        {
-          "name": "Anorith",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_347_00.png"
-        },
-        {
-          "name": "Wash Rotom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        }
-      ],
-      "In 10 km Eggs": [
-        {
-          "name": "Beldum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-        },
-        {
-          "name": "Sandile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Mudbray",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
-        },
-        {
-          "name": "Comfey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
-        },
-        {
-          "name": "Sinistea",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Three-Star Raids": [
-          {
-            "name": "Paldean Tauros (Aqua)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_AQUA.icon.png"
-          }
-        ],
-        "Five-Star Raids": [
-          {
-            "name": "Articuno",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
-          },
-          {
-            "name": "Mewtwo",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
-          },
-          {
-            "name": "Suicune",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_245_00.png"
-          }
-        ],
-        "Five-Star Shadow Raids": [
-          {
-            "name": "Articuno",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
-          },
-          {
-            "name": "Suicune",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_245_00.png"
-          },
-          {
-            "name": "Kyogre",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
-          },
-          {
-            "name": "Groudon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png"
-          }
-        ]
-      },
-      "Primal Raids": [
-        {
-          "name": "Primal Kyogre",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
-        },
-        {
-          "name": "Primal Groudon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
-        }
-      ],
-      "Shiny Wash Rotom debut": [
-        {
-          "name": "Wash Rotom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13_shiny.png"
-        }
-      ],
-      "Shiny Paldean Tauros (Aqua Breed)": [
-        {
-          "name": "Paldean Tauros (Aqua)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_AQUA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Blanche's Quest for Knowledge",
     "url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
@@ -384,6 +121,38 @@
         {
           "name": "Inkay",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
+    "name": "Shadow Cresselia in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Cresselia in Shadow Raids",
+    "start_date": "Wednesday, May 6, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, June 2, 2026,",
+    "end_time": "at 6:00 AM Local Time",
+    "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Cresselia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Cresselia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
         }
       ]
     },
@@ -668,38 +437,6 @@
         {
           "name": "Tapu Fini",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm788.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
-    "name": "Shadow Cresselia in Shadow Raids",
-    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Cresselia in Shadow Raids",
-    "start_date": "Wednesday, May 6, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, June 3, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Cresselia",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Cresselia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
         }
       ]
     },
