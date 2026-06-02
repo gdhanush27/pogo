@@ -127,6 +127,38 @@
     "is_ongoing": false
   },
   {
+    "name": "Shadow Cresselia in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Cresselia in Shadow Raids",
+    "start_date": "Wednesday, May 6, 2026,",
+    "start_time": "at 6:00 AM Local Time",
+    "end_date": "Tuesday, June 2, 2026,",
+    "end_time": "at 6:00 AM Local Time",
+    "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Cresselia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Cresselia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
     "name": "Memories in Motion",
     "url": "https://leekduck.com/events/season-22-memories-in-motion/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
@@ -385,38 +417,6 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
-  },
-  {
-    "name": "Shadow Cresselia in Shadow Raids",
-    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Cresselia in Shadow Raids",
-    "start_date": "Wednesday, May 6, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, June 2, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Cresselia",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Cresselia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": true
   },
   {
     "name": "Tapu Fini in 5-star Raid Battles",
@@ -2160,10 +2160,6 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png"
         },
         {
-          "name": "Frillish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_00.png"
-        },
-        {
           "name": "Larvesta",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
         },
@@ -2178,6 +2174,10 @@
         {
           "name": "Indeedee (Female)",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2"
+        },
+        {
+          "name": "Flittle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png"
         }
       ],
       "In 5 km Eggs from Adventure Sync Rewards": [
@@ -2196,24 +2196,32 @@
       ],
       "In 7 km Eggs": [
         {
-          "name": "Hisuian Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
+          "name": "Alolan Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
         },
         {
-          "name": "Galarian Slowpoke",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
+          "name": "Galarian Meowth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
         },
         {
-          "name": "Hisuian Sneasel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
+          "name": "Alolan Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
         },
         {
           "name": "Galarian Corsola",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
         },
         {
-          "name": "Basculin (White Striped)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png"
+          "name": "Galarian Zigzagoon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        },
+        {
+          "name": "Galarian Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
         }
       ],
       "In 7 km Eggs From Route Rewards": [
