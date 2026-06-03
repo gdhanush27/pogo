@@ -17,298 +17,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Shadow Cresselia in Shadow Raids",
-    "url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Cresselia in Shadow Raids",
-    "start_date": "Wednesday, May 6, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, June 2, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Cresselia",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Cresselia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
-    "name": "Memories in Motion",
-    "url": "https://leekduck.com/events/season-22-memories-in-motion/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
-    "title": "Memories in Motion",
-    "start_date": "Tuesday, March 3, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, June 2, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Welcome to Pokémon GO: Memories in Motion! In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
-    "detail_types": [
-      "Season"
-    ],
-    "pokemon_sections": {
-      "Research Breakthrough": [
-        {
-          "name": "Gyarados",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png"
-        },
-        {
-          "name": "Honedge",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-        },
-        {
-          "name": "Dhelmise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
-        },
-        {
-          "name": "Sinistea",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
-        },
-        {
-          "name": "Duraludon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
-        },
-        {
-          "name": "Dreepy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
-        }
-      ],
-      "In 2 km Eggs": [
-        {
-          "name": "Cleffa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png"
-        },
-        {
-          "name": "Igglybuff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_174_00.png"
-        },
-        {
-          "name": "Dunsparce",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_206_00.png"
-        },
-        {
-          "name": "Smoochum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Wimpod",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
-        },
-        {
-          "name": "Tadbulb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm938.icon.png"
-        }
-      ],
-      "In 5 km Eggs": [
-        {
-          "name": "Munchlax",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Sizzlipede",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
-        },
-        {
-          "name": "Snom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
-        },
-        {
-          "name": "Indeedee (Male)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2"
-        },
-        {
-          "name": "Indeedee (Female)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2"
-        },
-        {
-          "name": "Fidough",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
-        }
-      ],
-      "In 5 km Eggs from Adventure Sync Rewards": [
-        {
-          "name": "Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
-        },
-        {
-          "name": "Chingling",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png"
-        },
-        {
-          "name": "Happiny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
-        },
-        {
-          "name": "Riolu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
-        },
-        {
-          "name": "Audino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
-        }
-      ],
-      "In 7 km Eggs": [
-        {
-          "name": "Alolan Diglett",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
-        },
-        {
-          "name": "Galarian Meowth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
-        },
-        {
-          "name": "Alolan Geodude",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
-        },
-        {
-          "name": "Galarian Corsola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
-        },
-        {
-          "name": "Galarian Zigzagoon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
-        },
-        {
-          "name": "Galarian Darumaka",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
-        },
-        {
-          "name": "Galarian Stunfisk",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
-        }
-      ],
-      "In 7 km Eggs From Route Rewards": [
-        {
-          "name": "Hisuian Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Galarian Slowpoke",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
-        },
-        {
-          "name": "Hisuian Sneasel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Galarian Corsola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
-        }
-      ],
-      "In 10 km Eggs": [
-        {
-          "name": "Deino",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Honedge",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-        },
-        {
-          "name": "Impidimp",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png"
-        },
-        {
-          "name": "Dreepy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
-        },
-        {
-          "name": "Charcadet",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
-        },
-        {
-          "name": "Tinkatink",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
-        }
-      ],
-      "In 10 km Eggs from Adventure Sync Rewards": [
-        {
-          "name": "Gible",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
-        },
-        {
-          "name": "Goomy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
-        },
-        {
-          "name": "Turtonator",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
-        },
-        {
-          "name": "Toxel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
-        },
-        {
-          "name": "Dreepy",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
-    "name": "GO Pass: May",
-    "url": "https://leekduck.com/events/go-pass-may-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
-    "title": "GO Pass: May",
-    "start_date": "Tuesday, May 5, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, June 2, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more! From Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
-    "detail_types": [
-      "GO Pass"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": true
-  },
-  {
-    "name": "Great League, Ultra League, and Master League | Memories in Motion",
-    "url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-    "title": "Great League, Ultra League, and Master League | Memories in Motion",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Tapu Fini in 5-star Raid Battles",
     "url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -330,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Medicham in Mega Raids",
@@ -375,7 +83,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon GO Fest 2026: Chicago",
@@ -760,7 +468,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Audino in Mega Raids",
@@ -788,7 +496,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Zekrom Raid Hour",
