@@ -1,74 +1,5 @@
 [
   {
-    "name": "[Promo Code] GO Tour Fairy Type Timed Research",
-    "url": "https://leekduck.com/events/go-tour-fairy-type-timed-research/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jpg",
-    "title": "[Promo Code] GO Tour Fairy Type Timed Research",
-    "start_date": "Thursday, February 19, 2026,",
-    "start_time": "at 7:00 PM Local Time",
-    "end_date": "Monday, March 2, 2026,",
-    "end_time": "at 12:00 AM Local Time",
-    "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events. Code: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH It is not clear when this promo code will expire. The dates shown on this page are for the Timed Research.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jpg",
-    "detail_types": [
-      "Research"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "Tapu Fini in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Tapu Fini in 5-star Raid Battles",
-    "start_date": "Wednesday, May 27, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, June 2, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026. There will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Tapu Fini",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm788.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Medicham in Mega Raids",
-    "url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Medicham in Mega Raids",
-    "start_date": "Wednesday, May 27, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, June 3, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Medicham",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_308_00_shiny.png"
-        },
-        {
-          "name": "Mega Medicham",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Reshiram Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260603/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -222,6 +153,24 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Twitch Drops for Pokémon GO Fest 2026: Chicago",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-chicago-twitch-drops/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-chicago.jpg",
+    "title": "Twitch Drops for Pokémon GO Fest 2026: Chicago",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": null,
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-chicago.jpg",
+    "detail_types": [
+      "Twitch Drops",
+      "Pokémon GO Fest"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
@@ -1932,54 +1881,5 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
-  },
-  {
-    "name": "Pokemon Fossil Museum - Chicago",
-    "url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-05-22-pokemon-fossil-museum-chicago-2026/pokemon-fossil-museum-chicago-2026.jpg",
-    "title": "Pokemon Fossil Museum - Chicago",
-    "start_date": "Friday, May 22, 2026,",
-    "start_time": "at 9:00 AM Local Time",
-    "end_date": "Sunday, April 11, 2027,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Pokemon Fossil Museum - Chicago event will take place from May 22, 2026 at 9 am to April 11, 2027 at 5 pm. The Pokemon Fossil Museum exhibition is making its North American debut at the Field Museum in Chicago, and Pokemon GO is joining the fun with collaboration-themed gameplay during museum hours.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-22-pokemon-fossil-museum-chicago-2026/pokemon-fossil-museum-chicago-2026.jpg",
-    "detail_types": [
-      "Event",
-      "Location-specific"
-    ],
-    "pokemon_sections": {
-      "Pokemon Debut": [
-        {
-          "name": "Excavator Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fFOSSIL_2026.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Excavator Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fFOSSIL_2026.icon.png"
-          }
-        ],
-        "Mega Raids": [
-          {
-            "name": "Mega Aerodactyl",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm142.fMEGA.icon.png"
-          }
-        ]
-      },
-      "spawns": [
-        {
-          "name": "Omanyte",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_138_00.png"
-        },
-        {
-          "name": "Kabuto",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_140_00.png"
-        }
-      ]
-    },
-    "is_ongoing": true
   }
 ]
