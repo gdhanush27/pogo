@@ -1085,20 +1085,39 @@
     "is_ongoing": false
   },
   {
-    "name": "Mega Raid Day",
-    "url": "https://leekduck.com/events/raid-day-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Mega Raid Day",
+    "name": "Skarmory Super Mega Raid Day",
+    "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
+    "title": "Skarmory Super Mega Raid Day",
     "start_date": "Saturday, June 27, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, June 27, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Mega Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Stay sharp for Skarmory Super Mega Raid Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Mega-Evolved Pokémon Debut": [
+        {
+          "name": "Mega Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png"
+        }
+      ],
+      "Featured Pokémon": [
+        {
+          "name": "Mega Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
