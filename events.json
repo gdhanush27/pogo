@@ -1115,6 +1115,10 @@
         {
           "name": "Skarmory",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00_shiny.png"
+        },
+        {
+          "name": "Mega Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png"
         }
       ]
     },
