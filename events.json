@@ -15,6 +15,12 @@
       "Location-specific"
     ],
     "pokemon_sections": {
+      "GO Snapshots": [
+        {
+          "name": "Fan Rotom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_15.png"
+        }
+      ],
       "Grant Park encounters": [
         {
           "name": "Bulbasaur",
