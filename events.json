@@ -1917,12 +1917,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
         },
         {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
           "name": "Druddigon",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png"
         },
         {
           "name": "Drampa",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Toxel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
         }
       ]
     },
