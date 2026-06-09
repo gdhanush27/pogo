@@ -848,23 +848,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Flying Taxi 2026",
-    "url": "https://leekduck.com/events/flying-taxi-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Flying Taxi 2026",
-    "start_date": "Tuesday, June 23, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, June 29, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Flying Taxi: Taken Over",
     "url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -880,6 +863,86 @@
       "Team GO Rocket"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Flying Taxi",
+    "url": "https://leekduck.com/events/flying-taxi-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
+    "title": "Flying Taxi",
+    "start_date": "Tuesday, June 23, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, June 29, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Take flight as Squawkabilly makes its Pokémon GO debut! The Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Squawkabilly (Yellow)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Yellow Plumage Squawkabilly.png"
+        },
+        {
+          "name": "Squawkabilly (White)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/White Plumage Squawkabilly.png"
+        },
+        {
+          "name": "Squawkabilly (Green)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Green Plumage Squawkabilly.png"
+        },
+        {
+          "name": "Squawkabilly (Blue)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Blue Plumage Squawkabilly.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Swablu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+          },
+          {
+            "name": "Starly",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png"
+          },
+          {
+            "name": "Vullaby",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_629_00.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Hisuian Braviary",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm628.fHISUIAN.icon.png"
+          },
+          {
+            "name": "Corvisquire",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm822.icon.png"
+          },
+          {
+            "name": "Bombirdier",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm962.icon.png"
+          }
+        ]
+      },
+      "spawns": [
+        {
+          "name": "Hoothoot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Squawkabilly (White)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/White Plumage Squawkabilly.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
