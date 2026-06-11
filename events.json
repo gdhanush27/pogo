@@ -270,10 +270,132 @@
     "is_ongoing": false
   },
   {
-    "name": null,
+    "name": "Ultra League and Pokémon North America International Championships 2026 Cup: Great League Edition | Forever Forward",
     "url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_pokemon-north-america-international-championships-2026-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-    "detail_error": "HTTPSConnectionPool(host='leekduck.com', port=443): Read timed out. (read timeout=15)"
+    "title": "Ultra League and Pokémon North America International Championships 2026 Cup: Great League Edition | Forever Forward",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "The Ultra League and Pokémon North America International Championships 2026 Cup: Great League Edition will run from June 9, 2026, at 1:00 p.m. to June 16, 2026, at 1:00 p.m. PT. The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "Pokémon North America International Championships 2026 Cup: Great League Edition": [
+        {
+          "name": "Clefable",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_036_00.png"
+        },
+        {
+          "name": "Wigglytuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_040_00.png"
+        },
+        {
+          "name": "Poliwrath",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_062_00.png"
+        },
+        {
+          "name": "Farfetch'd",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_083_00.png"
+        },
+        {
+          "name": "Lickitung",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_108_00.png"
+        },
+        {
+          "name": "Chansey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
+        },
+        {
+          "name": "Furret",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_162_00.png"
+        },
+        {
+          "name": "Chinchou",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_170_00.png"
+        },
+        {
+          "name": "Lanturn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_171_00.png"
+        },
+        {
+          "name": "Lugia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00.png"
+        },
+        {
+          "name": "Medicham",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_308_00.png"
+        },
+        {
+          "name": "Claydol",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_344_00.png"
+        },
+        {
+          "name": "Gastrodon (West Sea)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm423.fWEST_SEA.icon.png"
+        },
+        {
+          "name": "Gastrodon (East Sea)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm423.fEAST_SEA.icon.png"
+        },
+        {
+          "name": "Lickilicky",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_463_00.png"
+        },
+        {
+          "name": "Wash Rotom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13.png"
+        },
+        {
+          "name": "Cresselia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
+        },
+        {
+          "name": "Jellicent",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_593_00.png"
+        },
+        {
+          "name": "Jellicent",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_593_01.png"
+        },
+        {
+          "name": "Diggersby",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_660_00.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Carbink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm703.icon.png"
+        },
+        {
+          "name": "Toxapex",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm748.icon.png"
+        },
+        {
+          "name": "Araquanid",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Golisopod",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm768.icon.png"
+        },
+        {
+          "name": "Greedent",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm820.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
   },
   {
     "name": "Zekrom in 5-star Raid Battles",
