@@ -1,144 +1,5 @@
 [
   {
-    "name": "Pokémon GO Fest 2026: Copenhagen",
-    "url": "https://leekduck.com/events/pokemon-go-fest-2026-copenhagen/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-12-pokemon-go-fest-2026-copenhagen/pokemon-go-fest-copenhagen.jpg",
-    "title": "Pokémon GO Fest 2026: Copenhagen",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Location: Fælledparken, Copenhagen, Denmark Dates: June 12–14, 2026 Time: 9:00 a.m. – 6:00 p.m. CEST (Park and citywide event hours vary by ticket) Trainers can look forward to exceptional coaching by Team Valor’s leader, Candela, during an exciting park session in Fælledparken that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Copenhagen, developing their skills and earning a unique in-game Pokémon GO Expert medal. All event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Fælledparken during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-12-pokemon-go-fest-2026-copenhagen/pokemon-go-fest-copenhagen.jpg",
-    "detail_types": [
-      "Pokémon GO Fest",
-      "Location-specific"
-    ],
-    "pokemon_sections": {
-      "Fælledparken encounters": [
-        {
-          "name": "Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_14.png"
-        },
-        {
-          "name": "Caterpie wearing a Poké Ball hat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm10.icon.png"
-        },
-        {
-          "name": "Alolan Meowth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_61.png"
-        },
-        {
-          "name": "Ponyta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
-        },
-        {
-          "name": "Alolan Marowak",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png"
-        },
-        {
-          "name": "Scyther",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png"
-        },
-        {
-          "name": "Flareon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_136_00.png"
-        },
-        {
-          "name": "Unown",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_16.png"
-        },
-        {
-          "name": "Nosepass",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
-        },
-        {
-          "name": "Bagon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
-        },
-        {
-          "name": "Mudbray",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
-        },
-        {
-          "name": "Comfey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm764.icon.png"
-        },
-        {
-          "name": "Dhelmise",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm781.icon.png?v2"
-        },
-        {
-          "name": "Charcadet",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Three-Star Raids": [
-          {
-            "name": "Paldean Tauros (Combat)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_COMBAT.icon.png"
-          }
-        ],
-        "Five-Star Raids": [
-          {
-            "name": "Moltres",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
-          },
-          {
-            "name": "Mewtwo",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
-          },
-          {
-            "name": "Entei",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_244_00.png"
-          }
-        ],
-        "Five-Star Shadow Raids": [
-          {
-            "name": "Moltres",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
-          },
-          {
-            "name": "Entei",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_244_00.png"
-          },
-          {
-            "name": "Kyogre",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
-          },
-          {
-            "name": "Groudon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png"
-          }
-        ]
-      },
-      "Primal Raids": [
-        {
-          "name": "Primal Kyogre",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
-        },
-        {
-          "name": "Primal Groudon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
-        }
-      ],
-      "Shiny Wash Rotom debut": [
-        {
-          "name": "Wash Rotom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_479_13_shiny.png"
-        }
-      ],
-      "Shiny Paldean Tauros (Combat Breed)": [
-        {
-          "name": "Paldean Tauros (Combat)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_COMBAT.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Twitch Drops for 2026 Pokémon North American International Championships",
     "url": "https://leekduck.com/events/naic-2026-timed-research-twitch-drops/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-12-naic-2026-timed-research-twitch-drops/2026-naic-go-drops.png",
@@ -1303,6 +1164,50 @@
       "Pokémon Spotlight Hour"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Raichu Super Mega Raid Day",
+    "url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
+    "title": "Raichu Super Mega Raid Day",
+    "start_date": "Saturday, July 18, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, July 18, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "Sparks fly for Raichu Super Mega Raid Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {
+      "Mega-Evolved Pokémon Debut": [
+        {
+          "name": "Mega Raichu X",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png"
+        },
+        {
+          "name": "Mega Raichu Y",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png"
+        }
+      ],
+      "Featured Pokémon": [
+        {
+          "name": "Mega Raichu X",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png"
+        },
+        {
+          "name": "Mega Raichu Y",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Raichu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
