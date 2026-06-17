@@ -149,7 +149,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Lopunny in Mega Raids",
@@ -194,7 +194,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Swinub Spotlight Hour",
@@ -272,7 +272,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Hoothoot during Max Monday",
@@ -344,7 +344,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Scizor in Mega Raids",
@@ -372,7 +372,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Celesteela and Kartana Raid Hour",
