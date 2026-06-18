@@ -25,7 +25,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Necrozma Raid Hour",
@@ -42,7 +42,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Swinub Spotlight Hour",
@@ -59,7 +59,7 @@
       "Pokémon Spotlight Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Frigibax Community Day",
