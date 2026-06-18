@@ -703,6 +703,206 @@
     "is_ongoing": false
   },
   {
+    "name": "Road of Legends",
+    "url": "https://leekduck.com/events/road-of-legends-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
+    "title": "Road of Legends",
+    "start_date": "Monday, July 6, 2026,",
+    "start_time": "at 12:01 AM Local Time",
+    "end_date": "Friday, July 10, 2026,",
+    "end_time": "at 11:59 PM Local Time",
+    "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "2 km Eggs": [
+        {
+          "name": "Weedle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
+        },
+        {
+          "name": "Pidgey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Gastly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+        },
+        {
+          "name": "Pinsir",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00.png"
+        },
+        {
+          "name": "Aerodactyl",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_142_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Larvitar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png"
+        },
+        {
+          "name": "Treecko",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_252_00.png"
+        },
+        {
+          "name": "Torchic",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_255_00.png"
+        },
+        {
+          "name": "Mudkip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_258_00.png"
+        },
+        {
+          "name": "Ralts",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Riolu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
+        },
+        {
+          "name": "Snover",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png"
+        },
+        {
+          "name": "Audino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        }
+      ],
+      "5 km Eggs": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_14.png"
+        },
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_14.png"
+        },
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_14.png"
+        },
+        {
+          "name": "Heracross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_214_00.png"
+        },
+        {
+          "name": "Mime Jr.",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_439_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        }
+      ],
+      "10 km Eggs": [
+        {
+          "name": "Tropius",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_357_00.png"
+        },
+        {
+          "name": "Axew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
+        },
+        {
+          "name": "Bouffalant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_626_00.png"
+        },
+        {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Jangmo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
+        },
+        {
+          "name": "Toxel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
+        },
+        {
+          "name": "Frigibax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Five-Star Raids": [
+          {
+            "name": "Origin Forme Dialga",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.fORIGIN.icon.png"
+          },
+          {
+            "name": "Origin Forme Palkia",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.fORIGIN.icon.png"
+          }
+        ],
+        "Mega Raids": [
+          {
+            "name": "Mega Gengar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png"
+          }
+        ]
+      },
+      "Primal Raids": [
+        {
+          "name": "Primal Kyogre",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
+        },
+        {
+          "name": "Primal Groudon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
+        }
+      ],
+      "Monday, July 6": [
+        {
+          "name": "Kyurem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
+        }
+      ],
+      "Friday, July 10": [
+        {
+          "name": "Origin Forme Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.fORIGIN.icon.png"
+        },
+        {
+          "name": "Origin Forme Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.fORIGIN.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Pokémon GO Fest 2026: Global",
     "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg?v2",
