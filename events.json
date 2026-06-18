@@ -1,33 +1,5 @@
 [
   {
-    "name": "Mega Lopunny in Mega Raids",
-    "url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Lopunny in Mega Raids",
-    "start_date": "Wednesday, June 10, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, June 17, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Lopunny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_428_00_shiny.png"
-        },
-        {
-          "name": "Mega Lopunny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_428_51_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Necrozma Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260617/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -1112,11 +1084,11 @@
     "url": "https://leekduck.com/events/august-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
     "title": "August Community Day",
-    "start_date": "Saturday, August 15, 2026,",
+    "start_date": "Sunday, August 16, 2026,",
     "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, August 15, 2026,",
+    "end_date": "Sunday, August 16, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
     "detail_types": [
       "Community Day"
