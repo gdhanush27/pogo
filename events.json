@@ -198,19 +198,19 @@
       "Pokémon Debut": [
         {
           "name": "Squawkabilly (Yellow)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Yellow Plumage Squawkabilly.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fYELLOW.icon.png"
         },
         {
           "name": "Squawkabilly (White)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/White Plumage Squawkabilly.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fWHITE.icon.png"
         },
         {
           "name": "Squawkabilly (Green)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Green Plumage Squawkabilly.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fGREEN.icon.png"
         },
         {
           "name": "Squawkabilly (Blue)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Blue Plumage Squawkabilly.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fBLUE.icon.png"
         }
       ],
       "raid_pokemon": {
@@ -254,7 +254,7 @@
         },
         {
           "name": "Squawkabilly (White)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/White Plumage Squawkabilly.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fWHITE.icon.png"
         }
       ]
     },
