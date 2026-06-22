@@ -58,7 +58,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Hoothoot during Max Monday",
@@ -82,7 +82,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
