@@ -21,7 +21,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
@@ -245,12 +245,44 @@
       },
       "spawns": [
         {
+          "name": "Pidgey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png"
+        },
+        {
+          "name": "Spearow",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_021_00.png"
+        },
+        {
           "name": "Hoothoot",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
         },
         {
+          "name": "Pidove",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_519_00.png"
+        },
+        {
+          "name": "Pikipek",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm731.icon.png"
+        },
+        {
           "name": "Rookidee",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Squawkabilly (Yellow)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fYELLOW.icon.png"
+        },
+        {
+          "name": "Squawkabilly (Green)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fGREEN.icon.png"
+        },
+        {
+          "name": "Squawkabilly (Blue)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm931.fBLUE.icon.png"
+        },
+        {
+          "name": "Wattrel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png"
         },
         {
           "name": "Squawkabilly (White)",
@@ -258,7 +290,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Flying Taxi: Taken Over",
