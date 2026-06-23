@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Hoothoot during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-06-22/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Hoothoot during Max Monday",
-    "start_date": "Monday, June 22, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, June 22, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On June 22, 2026 , the featured Dynamax Pokemon is Hoothoot .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Hoothoot",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
     "url": "https://leekduck.com/events/gbl-forever-forward_master-league-mega-edition_sunshine-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
@@ -525,14 +501,14 @@
   {
     "name": "Sobble Community Day",
     "url": "https://leekduck.com/events/july-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
     "title": "Sobble Community Day",
     "start_date": "Saturday, July 4, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, July 4, 2026,",
     "end_time": "at 5:00 PM Local Time",
     "description": "Sobble, the Water Lizard Pokémon, will be featured during July Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
     "detail_types": [
       "Community Day"
     ],
