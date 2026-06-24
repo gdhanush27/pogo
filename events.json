@@ -45,7 +45,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Scizor in Mega Raids",
@@ -90,7 +90,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Wingull Spotlight Hour",
@@ -410,7 +410,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Pidgeot in Mega Raids",
@@ -438,7 +438,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Articuno, Zapdos, and Moltres Raid Hour",
