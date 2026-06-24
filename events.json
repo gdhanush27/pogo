@@ -1,53 +1,5 @@
 [
   {
-    "name": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
-    "url": "https://leekduck.com/events/gbl-forever-forward_master-league-mega-edition_sunshine-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Master League: Mega Edition and Sunshine Cup: Great League Edition will run from June 16, 2026, at 1:00 p.m. to June 23, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). The following Pokémon will not be allowed.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {
-      "Sunshine Cup: Great League Edition": [
-        {
-          "name": "Charizard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Necrozma in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Necrozma in 5-star Raid Battles",
-    "start_date": "Wednesday, June 17, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, June 23, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026. There will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Necrozma",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0800_000_uk_n_00000000_f_r.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Mega Scizor in Mega Raids",
     "url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
@@ -306,6 +258,20 @@
         {
           "name": "Rookidee",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        }
+      ],
+      "Team GO Rocket Leaders": [
+        {
+          "name": "Tyrunt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png"
+        },
+        {
+          "name": "Axew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
+        },
+        {
+          "name": "Amaura",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png"
         }
       ]
     },
