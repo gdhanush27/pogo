@@ -1,33 +1,5 @@
 [
   {
-    "name": "Mega Scizor in Mega Raids",
-    "url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Scizor in Mega Raids",
-    "start_date": "Wednesday, June 17, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, June 24, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Scizor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00_shiny.png"
-        },
-        {
-          "name": "Mega Scizor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm212.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Celesteela and Kartana Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260624/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
