@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Wingull Spotlight Hour",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Skarmory Super Mega Raid Day",
@@ -247,7 +247,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Pidove during Max Monday",
