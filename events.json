@@ -1169,20 +1169,75 @@
     "is_ongoing": false
   },
   {
-    "name": "July Event",
-    "url": "https://leekduck.com/events/july-event-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "July Event",
+    "name": "Special Anniversary Pikachu Celebration",
+    "url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
+    "title": "Special Anniversary Pikachu Celebration",
     "start_date": "Monday, July 13, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Monday, July 20, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The July Event event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Keep the festivities going with three celebrations of different costumed Pikachu! The Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Dapper Pikachu with red accents",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
+          },
+          {
+            "name": "Dapper Pikachu with yellow accents",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
+          },
+          {
+            "name": "Dapper Pikachu with blue accents",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
+          },
+          {
+            "name": "Safari Hat Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_13.png"
+          },
+          {
+            "name": "Pikachu wearing a varsity jacket",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2025.icon.png"
+          },
+          {
+            "name": "Amethyst Crown Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_E.icon.png"
+          },
+          {
+            "name": "World Championships 2022 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2022.icon.png"
+          },
+          {
+            "name": "World Championships 2023 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2023.icon.png"
+          },
+          {
+            "name": "World Championships 2024 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png"
+          }
+        ]
+      },
+      "spawns": [
+        {
+          "name": "Pikachu wearing a Tricks & Treats costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Winter Carnival Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png"
+        },
+        {
+          "name": "Summer Style Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
