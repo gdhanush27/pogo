@@ -1,29 +1,5 @@
 [
   {
-    "name": "Wingull Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-06-25/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Wingull Spotlight Hour",
-    "start_date": "Thursday, June 25, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Thursday, June 25, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday. June 25 : The featured Pokémon is Wingull and the special bonus is 2× Catch Stardust .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Wingull",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Skarmory Super Mega Raid Day",
     "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
@@ -1152,23 +1128,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Weekend Event",
-    "url": "https://leekduck.com/events/weekend-event-july-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Weekend Event",
-    "start_date": "Saturday, July 18, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Saturday, July 18, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Special Anniversary Pikachu Celebration",
     "url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
@@ -1282,6 +1241,44 @@
     "is_ongoing": false
   },
   {
+    "name": "Happy Birthday, Professor Willow!",
+    "url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
+    "title": "Happy Birthday, Professor Willow!",
+    "start_date": "Tuesday, July 21, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, July 21, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu! The Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Professor Willow's assistant Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Professor Willow Pikachu.png"
+        }
+      ],
+      "Snapshot Surprises": [
+        {
+          "name": "Professor Willow's assistant Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Professor Willow Pikachu.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Professor Willow's assistant Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Professor Willow Pikachu.png"
+          }
+        ]
+      }
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Kyogre in 5-star Raid Battles",
     "url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1375,20 +1372,27 @@
     "is_ongoing": false
   },
   {
-    "name": "July Event - July 21",
-    "url": "https://leekduck.com/events/july-event-2026-july-21/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "July Event - July 21",
-    "start_date": "Tuesday, July 21, 2026,",
+    "name": "Ozone Ascent",
+    "url": "https://leekduck.com/events/ozone-ascent-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
+    "title": "Ozone Ascent",
+    "start_date": "Saturday, July 25, 2026,",
     "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, July 27, 2026,",
+    "end_date": "Sunday, July 26, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The July Event - July 21 event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Dragon Ascent and Meteorites": [
+        {
+          "name": "Rayquaza",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
