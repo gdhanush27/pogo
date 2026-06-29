@@ -1,45 +1,5 @@
 [
   {
-    "name": "Skarmory Super Mega Raid Day",
-    "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
-    "title": "Skarmory Super Mega Raid Day",
-    "start_date": "Saturday, June 27, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, June 27, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Stay sharp for Skarmory Super Mega Raid Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Mega-Evolved Pokémon Debut": [
-        {
-          "name": "Mega Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Mega Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00_shiny.png"
-        },
-        {
-          "name": "Mega Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Flying Taxi",
     "url": "https://leekduck.com/events/flying-taxi-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
