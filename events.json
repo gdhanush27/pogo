@@ -109,7 +109,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Flying Taxi: Taken Over",
@@ -166,7 +166,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Pidove during Max Monday",
@@ -190,7 +190,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
@@ -353,7 +353,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Sobble Community Day",
