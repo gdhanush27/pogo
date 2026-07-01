@@ -1,33 +1,5 @@
 [
   {
-    "name": "Mega Pidgeot in Mega Raids",
-    "url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Pidgeot in Mega Raids",
-    "start_date": "Wednesday, June 24, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Wednesday, July 1, 2026,",
-    "end_time": "at 6:00 AM Local Time",
-    "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Pidgeot",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_00_shiny.png"
-        },
-        {
-          "name": "Mega Pidgeot",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_51_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
     "name": "Articuno, Zapdos, and Moltres Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260701/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
