@@ -1,29 +1,5 @@
 [
   {
-    "name": "Pidgey Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-02/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Pidgey Spotlight Hour",
-    "start_date": "Thursday, July 2, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Thursday, July 2, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday. July 2 : The featured Pokémon is Pidgey and the special bonus is 2× Evolution XP .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Pidgey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Choose Your Path: Charged Embers",
     "url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
@@ -181,6 +157,18 @@
       ],
       "Shiny": [
         {
+          "name": "Party Hat Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_11_shiny.png"
+        },
+        {
+          "name": "Party Hat Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_11_shiny.png"
+        },
+        {
+          "name": "Party Hat Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_11_shiny.png"
+        },
+        {
           "name": "Cake Hat Pikachu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.s.icon.png"
         },
@@ -195,8 +183,32 @@
       ],
       "spawns": [
         {
+          "name": "Party Hat Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_11.png"
+        },
+        {
+          "name": "Party Hat Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_11.png"
+        },
+        {
+          "name": "Party Hat Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_11.png"
+        },
+        {
+          "name": "Caterpie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png"
+        },
+        {
           "name": "Cake Hat Pikachu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
+        },
+        {
+          "name": "Hisuian Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm100.fHISUIAN.icon.png"
         },
         {
           "name": "Eevee",
