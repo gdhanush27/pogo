@@ -14,7 +14,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Sobble Community Day",
@@ -58,7 +58,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
@@ -220,7 +220,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Chansey during Max Monday",
