@@ -1,22 +1,5 @@
 [
   {
-    "name": "Choose Your Path: Charged Embers",
-    "url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
-    "title": "Choose Your Path: Charged Embers",
-    "start_date": "Tuesday, June 30, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Friday, July 3, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way! During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore , Catch , or Battle . Your choice will shape the Timed Research tasks and bonuses throughout the week. You may have different research opportunities than other Trainers.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-    "detail_types": [
-      "Choose Your Path"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Sobble Community Day",
     "url": "https://leekduck.com/events/july-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
@@ -461,20 +444,10 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
         }
       ],
-      "Monday, July 6": [
+      "Featured Attacks": [
         {
           "name": "Kyurem",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
-        }
-      ],
-      "Friday, July 10": [
-        {
-          "name": "Origin Forme Dialga",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.fORIGIN.icon.png"
-        },
-        {
-          "name": "Origin Forme Palkia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.fORIGIN.icon.png"
         }
       ]
     },
