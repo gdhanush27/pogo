@@ -1,49 +1,5 @@
 [
   {
-    "name": "Sobble Community Day",
-    "url": "https://leekduck.com/events/july-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
-    "title": "Sobble Community Day",
-    "start_date": "Saturday, July 4, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, July 4, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Sobble, the Water Lizard Pokémon, will be featured during July Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Sobble",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Sobble",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.s.icon.png"
-        },
-        {
-          "name": "Drizzile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm817.s.icon.png"
-        },
-        {
-          "name": "Inteleon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Sobble",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
     "url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-july-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
