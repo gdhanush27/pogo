@@ -29,7 +29,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Lucario in Mega Raids",
@@ -57,7 +57,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "10th Anniversary Party",
@@ -183,7 +183,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: June",
@@ -407,7 +407,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon GO Fest 2026: Global",
