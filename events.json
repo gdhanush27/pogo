@@ -99,7 +99,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Chansey during Max Monday",
@@ -123,7 +123,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: June",
@@ -1087,7 +1087,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League and Master Premier | Forever Forward",
