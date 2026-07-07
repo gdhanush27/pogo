@@ -1,131 +1,5 @@
 [
   {
-    "name": "10th Anniversary Party",
-    "url": "https://leekduck.com/events/10th-anniversary-party/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
-    "title": "10th Anniversary Party",
-    "start_date": "Saturday, July 4, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, July 6, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party! The 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Gimmighoul (10th Anniversary Coin)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm999.icon.png"
-        }
-      ],
-      "Featured Attacks": [
-        {
-          "name": "Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
-        },
-        {
-          "name": "Ivysaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_002_00.png"
-        },
-        {
-          "name": "Venusaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Party Hat Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_11_shiny.png"
-        },
-        {
-          "name": "Party Hat Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_11_shiny.png"
-        },
-        {
-          "name": "Party Hat Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_11_shiny.png"
-        },
-        {
-          "name": "Cake Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.s.icon.png"
-        },
-        {
-          "name": "Eevee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00_11_shiny.png"
-        },
-        {
-          "name": "Party Hat Wurmple",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_11_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Party Hat Bulbasaur",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00_11.png"
-        },
-        {
-          "name": "Party Hat Charmander",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_11.png"
-        },
-        {
-          "name": "Party Hat Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00_11.png"
-        },
-        {
-          "name": "Caterpie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png"
-        },
-        {
-          "name": "Cake Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Voltorb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
-        },
-        {
-          "name": "Hisuian Voltorb",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm100.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Eevee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00_11.png"
-        },
-        {
-          "name": "Party Hat Wurmple",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_11.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Chansey during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-07-06/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Chansey during Max Monday",
-    "start_date": "Monday, July 6, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, July 6, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On July 6, 2026 , the featured Dynamax Pokemon is Chansey .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Chansey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "GO Pass: June",
     "url": "https://leekduck.com/events/go-pass-june-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-02-go-pass-june-2026/go-pass-june-2026.jpg",
@@ -1242,20 +1116,43 @@
     "is_ongoing": false
   },
   {
-    "name": "August Community Day",
+    "name": "Nickit Community Day",
     "url": "https://leekduck.com/events/august-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "August Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
+    "title": "Nickit Community Day",
     "start_date": "Sunday, August 16, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Sunday, August 16, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Nickit, the Fox Pokémon, will be featured during August Community Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Photobomb": [
+        {
+          "name": "Nickit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Nickit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.s.icon.png"
+        },
+        {
+          "name": "Thievul",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm828.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Nickit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
