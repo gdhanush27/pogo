@@ -1596,22 +1596,5 @@
     ],
     "pokemon_sections": {},
     "is_ongoing": false
-  },
-  {
-    "name": "Example Event Template (Auto ToC Demo)",
-    "url": "https://leekduck.com/events/example_event/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-    "title": "Example Event Template (Auto ToC Demo)",
-    "start_date": "Tuesday, December 1, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Wednesday, December 2, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "This file demonstrates the reusable event pattern:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
   }
 ]
