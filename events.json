@@ -1,22 +1,5 @@
 [
   {
-    "name": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
-    "url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
-    "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": null,
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
-    "detail_types": [
-      "Twitch Drops"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Road of Legends",
     "url": "https://leekduck.com/events/road-of-legends-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
@@ -205,6 +188,23 @@
       ]
     },
     "is_ongoing": true
+  },
+  {
+    "name": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
+    "url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
+    "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": null,
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
+    "detail_types": [
+      "Twitch Drops"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Fest 2026: Global",
