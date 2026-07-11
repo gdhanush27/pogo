@@ -258,6 +258,20 @@
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png"
           }
         ],
+        "1-Star Raids": [
+          {
+            "name": "Pikachu wearing a Team Instinct hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2026_CAP_YELLOW.s.icon.png"
+          },
+          {
+            "name": "Pikachu wearing a Team Mystic hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2026_CAP_BLUE.s.icon.png"
+          },
+          {
+            "name": "Pikachu wearing a Team Valor hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2026_CAP_RED.s.icon.png"
+          }
+        ],
         "Mega Raids": [
           {
             "name": "Mega Tyranitar",
