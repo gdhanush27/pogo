@@ -353,6 +353,34 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_626_00_shiny.png"
         }
       ],
+      "Mewtwo": [
+        {
+          "name": "Mewtwo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
+        },
+        {
+          "name": "Mega Mewtwo Y",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png"
+        }
+      ],
+      "Origin Forme Palkia": [
+        {
+          "name": "Origin Forme Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.fORIGIN.icon.png"
+        }
+      ],
+      "Origin Forme Dialga": [
+        {
+          "name": "Origin Forme Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.fORIGIN.icon.png"
+        }
+      ],
+      "Kyurem": [
+        {
+          "name": "Kyurem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
+        }
+      ],
       "Beedrill": [
         {
           "name": "Weedle",
