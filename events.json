@@ -552,6 +552,64 @@
       "Event"
     ],
     "pokemon_sections": {
+      "Celebration 1": [
+        {
+          "name": "Witch Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2017.icon.png"
+        },
+        {
+          "name": "Halloween Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Trick or Treat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_28.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_02.png"
+        },
+        {
+          "name": "Summer Style Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png"
+        },
+        {
+          "name": "Malachite Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_A.icon.png"
+        },
+        {
+          "name": "Aquamarine Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_B.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with red accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with blue accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with yellow accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
+        }
+      ],
+      "Celebration 2": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ],
+      "Celebration 3": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ],
       "raid_pokemon": {
         "One-Star Raids": [
           {
@@ -591,21 +649,7 @@
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png"
           }
         ]
-      },
-      "spawns": [
-        {
-          "name": "Pikachu wearing a Tricks & Treats costume",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Winter Carnival Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png"
-        },
-        {
-          "name": "Summer Style Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png"
-        }
-      ]
+      }
     },
     "is_ongoing": false
   },
