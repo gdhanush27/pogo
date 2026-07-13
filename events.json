@@ -381,7 +381,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Deino during Max Monday",
@@ -405,7 +405,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Ultra League and Fantasy Cup: Ultra League Edition | Forever Forward",
@@ -450,7 +450,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Kyogre Raid Hour",
@@ -651,7 +651,7 @@
         ]
       }
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Trubbish during Max Monday",
