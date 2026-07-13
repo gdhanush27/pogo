@@ -466,6 +466,216 @@
     "is_ongoing": false
   },
   {
+    "name": "Ultra Unlock: 10th Anniversary Edition",
+    "url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
+    "title": "Ultra Unlock: 10th Anniversary Edition",
+    "start_date": "Tuesday, July 21, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, July 27, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition! The Ultra Unlock: 10th Anniversary Edition event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "July 21 – July 23": [
+        {
+          "name": "Bulbasaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png"
+        },
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
+        },
+        {
+          "name": "Chikorita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_152_00.png"
+        },
+        {
+          "name": "Cyndaquil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_155_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Treecko",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_252_00.png"
+        },
+        {
+          "name": "Torchic",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_255_00.png"
+        },
+        {
+          "name": "Mudkip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_258_00.png"
+        }
+      ],
+      "July 23 – July 25": [
+        {
+          "name": "Turtwig",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_387_00.png"
+        },
+        {
+          "name": "Chimchar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_390_00.png"
+        },
+        {
+          "name": "Piplup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
+        },
+        {
+          "name": "Snivy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_495_00.png"
+        },
+        {
+          "name": "Tepig",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_498_00.png"
+        },
+        {
+          "name": "Oshawott",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png"
+        },
+        {
+          "name": "Chespin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png"
+        },
+        {
+          "name": "Fennekin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png"
+        },
+        {
+          "name": "Froakie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
+        }
+      ],
+      "July 25 – July 27": [
+        {
+          "name": "Rowlet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm722.icon.png"
+        },
+        {
+          "name": "Litten",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png"
+        },
+        {
+          "name": "Popplio",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png"
+        },
+        {
+          "name": "Grookey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
+        },
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+        },
+        {
+          "name": "Sobble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
+        },
+        {
+          "name": "Sprigatito",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png"
+        },
+        {
+          "name": "Fuecoco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
+        },
+        {
+          "name": "Quaxly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png"
+        }
+      ],
+      "Lure Module Encounters": [
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Dreepy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "In 1-Star Raids": [
+          {
+            "name": "Party Hat Grimer",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm88.cANNIVERSARY_2024.icon.png"
+          }
+        ],
+        "In 3-Star Raids": [
+          {
+            "name": "Party Hat Raticate",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_020_00_11.png"
+          },
+          {
+            "name": "Party Hat Nidorino",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00_11.png"
+          },
+          {
+            "name": "Party Hat Gengar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png"
+          },
+          {
+            "name": "Party Hat Wobbuffet",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png"
+          }
+        ]
+      },
+      "Featured Attacks": [
+        {
+          "name": "Venusaur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png"
+        },
+        {
+          "name": "Meganium",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_154_00.png"
+        },
+        {
+          "name": "Sceptile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00.png"
+        },
+        {
+          "name": "Torterra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_389_00.png"
+        },
+        {
+          "name": "Serperior",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_497_00.png"
+        },
+        {
+          "name": "Chesnaught",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_652_00.png"
+        },
+        {
+          "name": "Decidueye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.icon.png"
+        },
+        {
+          "name": "Rillaboom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.icon.png"
+        },
+        {
+          "name": "Meowscarada",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Dynamax Feebas during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-07-27/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
