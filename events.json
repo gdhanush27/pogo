@@ -192,8 +192,48 @@
       ],
       "Celebration 2": [
         {
+          "name": "Holiday Attire Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2023.icon.png"
+        },
+        {
           "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2016.icon.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_11.png"
+        },
+        {
+          "name": "Pyrite Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_D.icon.png"
+        },
+        {
+          "name": "Winter Carnival Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png"
+        },
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_08.png"
+        },
+        {
+          "name": "Flying Pikachu with Multicolored Balloons",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fCOSTUME_2020.icon.png"
+        },
+        {
+          "name": "Quartz Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_C.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with red accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with blue accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with yellow accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
         }
       ],
       "Celebration 3": [
@@ -780,6 +820,36 @@
         {
           "name": "Bidoof",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Gigantamax Rillaboom Max Battle Day",
+    "url": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
+    "title": "Gigantamax Rillaboom Max Battle Day",
+    "start_date": "Saturday, August 1, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, August 1, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Gigantamax Rillaboom Max Battle Day event will take place on August 1, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Gigantamax Rillaboom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0812_000_mf_g_00000000_f_n.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Gigantamax Rillaboom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.fGIGANTAMAX.s.icon.png"
         }
       ]
     },
