@@ -1,33 +1,5 @@
 [
   {
-    "name": "Mega Lucario in Mega Raids - July 13",
-    "url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Lucario in Mega Raids - July 13",
-    "start_date": "Monday, July 13, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, July 14, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Mega Lucario returns to Mega Raids from July 13, 2026 at 6 am to July 14, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Lucario",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00_shiny.png"
-        },
-        {
-          "name": "Mega Lucario",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Kyogre Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260715/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -1318,6 +1290,108 @@
       "Event"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Summer Marathon: Arctic Embers",
+    "url": "https://leekduck.com/events/summer-marathon-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
+    "title": "Summer Marathon: Arctic Embers",
+    "start_date": "Tuesday, August 4, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Monday, August 10, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "Fire up or chill out during Summer Marathon: Arctic Embers! The Summer Marathon: Arctic Embers event will take place from August 4, 2026 at 10 am to August 10, 2026 at 8 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Shiny Pokémon Debut": [
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png"
+        },
+        {
+          "name": "Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png"
+        },
+        {
+          "name": "Galarian Darumaka",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00_shiny.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png"
+        },
+        {
+          "name": "Snover",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00_shiny.png"
+        },
+        {
+          "name": "Vanillite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png"
+        },
+        {
+          "name": "Alolan Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png"
+        },
+        {
+          "name": "Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png"
+        },
+        {
+          "name": "Swinub",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_220_00.png"
+        },
+        {
+          "name": "Snorunt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png"
+        },
+        {
+          "name": "Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
+        },
+        {
+          "name": "Snover",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+        },
+        {
+          "name": "Vanillite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
