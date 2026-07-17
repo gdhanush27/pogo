@@ -152,8 +152,48 @@
       ],
       "Celebration 3": [
         {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          "name": "Flying 5th Anniversary Balloons Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_5thanniversary.png"
+        },
+        {
+          "name": "Moon Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png"
+        },
+        {
+          "name": "Sun Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png"
+        },
+        {
+          "name": "Flower Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_12.png"
+        },
+        {
+          "name": "Flower Crown Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_07.png"
+        },
+        {
+          "name": "Party Top Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Cherry Blossom Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cSPRING_2023.icon.png"
+        },
+        {
+          "name": "Cake Hat Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with red accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with blue accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
+        },
+        {
+          "name": "Dapper Pikachu with yellow accents",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
         }
       ],
       "raid_pokemon": {
