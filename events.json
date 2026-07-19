@@ -41,7 +41,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Special Anniversary Pikachu Celebration",
@@ -688,6 +688,10 @@
         {
           "name": "Nihilego",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm793.s.icon.png"
+        },
+        {
+          "name": "Buzzwole",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png"
         },
         {
           "name": "Pheromosa",
