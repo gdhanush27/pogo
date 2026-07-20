@@ -1,49 +1,5 @@
 [
   {
-    "name": "Raichu Super Mega Raid Day",
-    "url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
-    "title": "Raichu Super Mega Raid Day",
-    "start_date": "Saturday, July 18, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, July 18, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Sparks fly for Raichu Super Mega Raid Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Mega-Evolved Pokémon Debut": [
-        {
-          "name": "Mega Raichu X",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png"
-        },
-        {
-          "name": "Mega Raichu Y",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Mega Raichu X",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png"
-        },
-        {
-          "name": "Mega Raichu Y",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Raichu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Special Anniversary Pikachu Celebration",
     "url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
@@ -261,7 +217,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Master League and Retro Cup: Great League Edition | Forever Forward",
