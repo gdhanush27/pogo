@@ -1,225 +1,5 @@
 [
   {
-    "name": "Special Anniversary Pikachu Celebration",
-    "url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-    "title": "Special Anniversary Pikachu Celebration",
-    "start_date": "Monday, July 13, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, July 20, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Keep the festivities going with three celebrations of different costumed Pikachu! The Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Celebration 1": [
-        {
-          "name": "Witch Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2017.icon.png"
-        },
-        {
-          "name": "Halloween Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Trick or Treat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_28.png"
-        },
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_02.png"
-        },
-        {
-          "name": "Summer Style Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png"
-        },
-        {
-          "name": "Malachite Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_A.icon.png"
-        },
-        {
-          "name": "Aquamarine Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_B.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with red accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with blue accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with yellow accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
-        }
-      ],
-      "Celebration 2": [
-        {
-          "name": "Holiday Attire Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2023.icon.png"
-        },
-        {
-          "name": "Santa Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2016.icon.png"
-        },
-        {
-          "name": "Polka Dot Party Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_11.png"
-        },
-        {
-          "name": "Pyrite Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_D.icon.png"
-        },
-        {
-          "name": "Winter Carnival Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png"
-        },
-        {
-          "name": "Winter Beanie Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_08.png"
-        },
-        {
-          "name": "Flying Pikachu with Multicolored Balloons",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fCOSTUME_2020.icon.png"
-        },
-        {
-          "name": "Quartz Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_C.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with red accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with blue accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with yellow accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
-        }
-      ],
-      "Celebration 3": [
-        {
-          "name": "Flying 5th Anniversary Balloons Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_5thanniversary.png"
-        },
-        {
-          "name": "Moon Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png"
-        },
-        {
-          "name": "Sun Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png"
-        },
-        {
-          "name": "Flower Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_12.png"
-        },
-        {
-          "name": "Flower Crown Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_07.png"
-        },
-        {
-          "name": "Party Top Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Cherry Blossom Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cSPRING_2023.icon.png"
-        },
-        {
-          "name": "Cake Hat Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with red accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with blue accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png"
-        },
-        {
-          "name": "Dapper Pikachu with yellow accents",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Formal Pikachu with red accents",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_RED.icon.png"
-          },
-          {
-            "name": "Formal Pikachu with yellow accents",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_YELLOW.icon.png"
-          },
-          {
-            "name": "Formal Pikachu with blue accents",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_BLUE.icon.png"
-          },
-          {
-            "name": "Safari Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_13.png"
-          },
-          {
-            "name": "Pikachu wearing a varsity jacket",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2025.icon.png"
-          },
-          {
-            "name": "Amethyst Crown Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_E.icon.png"
-          },
-          {
-            "name": "World Championships 2022 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2022.icon.png"
-          },
-          {
-            "name": "World Championships 2023 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2023.icon.png"
-          },
-          {
-            "name": "World Championships 2024 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png"
-          }
-        ]
-      }
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Trubbish during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-07-20/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Trubbish during Max Monday",
-    "start_date": "Monday, July 20, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, July 20, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On July 20, 2026 , the featured Dynamax Pokemon is Trubbish .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Trubbish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Master League and Retro Cup: Great League Edition | Forever Forward",
     "url": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
@@ -1889,6 +1669,23 @@
       ]
     },
     "is_ongoing": true
+  },
+  {
+    "name": "GO Pass: August",
+    "url": "https://leekduck.com/events/go-pass-august-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+    "title": "GO Pass: August",
+    "start_date": "Tuesday, August 4, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, September 8, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "The Lucky Trinket returns and Latias soars into GO Pass: August! The GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+    "detail_types": [
+      "GO Pass"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
