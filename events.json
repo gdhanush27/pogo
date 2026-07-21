@@ -193,7 +193,7 @@
         ]
       }
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Trubbish during Max Monday",
@@ -217,7 +217,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Master League and Retro Cup: Great League Edition | Forever Forward",
@@ -272,7 +272,7 @@
         ]
       }
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Kyogre in 5-star Raid Battles",
@@ -933,7 +933,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Feebas during Max Monday",
