@@ -370,6 +370,18 @@
           "name": "Regidrago",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.s.icon.png"
         }
+      ],
+      "Origin Forme Palkia": [
+        {
+          "name": "Origin Forme Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.fORIGIN.icon.png"
+        }
+      ],
+      "Origin Forme Dialga": [
+        {
+          "name": "Origin Forme Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.fORIGIN.icon.png"
+        }
       ]
     },
     "is_ongoing": false
