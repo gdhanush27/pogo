@@ -346,15 +346,15 @@
     "is_ongoing": false
   },
   {
-    "name": "Ozone Ascent",
+    "name": "Ozone Ascent - Rayquaza Timed Research",
     "url": "https://leekduck.com/events/ozone-ascent-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
-    "title": "Ozone Ascent",
+    "title": "Ozone Ascent - Rayquaza Timed Research",
     "start_date": "Saturday, July 25, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, July 26, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm.",
+    "description": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent - Rayquaza Timed Research event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
     "detail_types": [
       "Event"
@@ -367,7 +367,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Ultra Unlock: 10th Anniversary Edition",
