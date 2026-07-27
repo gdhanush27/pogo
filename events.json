@@ -447,7 +447,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ozone Ascent - Rayquaza Timed Research",
@@ -471,7 +471,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra Unlock: 10th Anniversary Edition",
@@ -705,7 +705,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
