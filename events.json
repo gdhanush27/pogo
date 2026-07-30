@@ -66,7 +66,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Bidoof Spotlight Hour",
@@ -90,7 +90,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Gigantamax Rillaboom Max Battle Day",
