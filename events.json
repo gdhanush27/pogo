@@ -1,59 +1,5 @@
 [
   {
-    "name": "Bidoof Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Bidoof Spotlight Hour",
-    "start_date": "Thursday, July 30, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Thursday, July 30, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday. July 30 : The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Bidoof",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Gigantamax Rillaboom Max Battle Day",
-    "url": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
-    "title": "Gigantamax Rillaboom Max Battle Day",
-    "start_date": "Saturday, August 1, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Saturday, August 1, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "The Gigantamax Rillaboom Max Battle Day event will take place on August 1, 2026 from 2 pm to 5 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {
-      "Featured Pokémon": [
-        {
-          "name": "Gigantamax Rillaboom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0812_000_mf_g_00000000_f_n.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Gigantamax Rillaboom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.fGIGANTAMAX.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Choose Your Path: Fairy Trail",
     "url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
@@ -1370,6 +1316,38 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png"
         }
       ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "LEGO Stores and Pokémon GO",
+    "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-pokemon-go-2026.jpg",
+    "title": "LEGO Stores and Pokémon GO",
+    "start_date": "Monday, August 3, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Wednesday, September 30, 2026,",
+    "end_time": "at 11:59 PM Local Time",
+    "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play. The LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-pokemon-go-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Stamp Rally": [
+        {
+          "name": "Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+        }
+      ],
+      "raid_pokemon": {
+        "In 1-Star Raids": [
+          {
+            "name": "Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          }
+        ]
+      }
     },
     "is_ongoing": false
   }
