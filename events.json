@@ -260,6 +260,10 @@
         {
           "name": "Snom",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png"
+        },
+        {
+          "name": "Frosmoth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm873.s.icon.png"
         }
       ],
       "In 5 km Eggs": [
@@ -282,6 +286,16 @@
         {
           "name": "Snom",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        }
+      ],
+      "Shiny Debut": [
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png"
+        },
+        {
+          "name": "Frosmoth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm873.s.icon.png"
         }
       ],
       "Increased Shiny Chance": [
@@ -1418,14 +1432,14 @@
   {
     "name": "LEGO Stores and Pokémon GO",
     "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-pokemon-go-2026.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
     "title": "LEGO Stores and Pokémon GO",
     "start_date": "Monday, August 3, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Wednesday, September 30, 2026,",
     "end_time": "at 11:59 PM Local Time",
     "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play. The LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-pokemon-go-2026.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
     "detail_types": [
       "Event"
     ],
