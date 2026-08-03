@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "GO Pass: July",
@@ -1445,6 +1445,6 @@
         ]
       }
     },
-    "is_ongoing": false
+    "is_ongoing": true
   }
 ]
