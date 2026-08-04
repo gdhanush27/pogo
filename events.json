@@ -14,7 +14,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Magmar during Max Monday",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "GO Pass: July",
@@ -280,6 +280,10 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
         },
         {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
           "name": "Sizzlipede",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
         },
@@ -367,7 +371,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Beldum during Max Monday",
@@ -1330,7 +1334,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
