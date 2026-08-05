@@ -14,7 +14,7 @@
       "GO Pass"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League and Master Premier | Forever Forward",
@@ -63,7 +63,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Kyurem in 5-star Raid Battles",
@@ -87,7 +87,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Aggron in Mega Raids",
@@ -115,7 +115,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Uxie, Mesprit, and Azelf Raid Hour",
@@ -132,7 +132,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Delibird Spotlight Hour",
@@ -399,7 +399,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
@@ -431,7 +431,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Groudon Raid Hour",
@@ -1342,7 +1342,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Gyarados in Mega Raids",
