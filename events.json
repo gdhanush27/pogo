@@ -1,67 +1,5 @@
 [
   {
-    "name": "Delibird Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-08-06/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Delibird Spotlight Hour",
-    "start_date": "Thursday, August 6, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Thursday, August 6, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday. August 6 : The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Delibird",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Fire and Ice Hatch Day",
-    "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
-    "title": "Fire and Ice Hatch Day",
-    "start_date": "Saturday, August 8, 2026,",
-    "start_time": "at 11:00 AM Local Time",
-    "end_date": "Saturday, August 8, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Feeling the heat—and the chill? Fire and Ice Hatch Day features Smoochum and Magby hatching much more frequently from 2 km Eggs, with an increased chance of hatching Shiny Smoochum and Shiny Magby! The Fire and Ice Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Featured Pokémon": [
-        {
-          "name": "Smoochum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png"
-        },
-        {
-          "name": "Magby",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Smoochum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00_shiny.png"
-        },
-        {
-          "name": "Magby",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Summer Marathon: Arctic Embers",
     "url": "https://leekduck.com/events/summer-marathon-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
@@ -1418,7 +1356,7 @@
       "Event"
     ],
     "pokemon_sections": {
-      "Stamp Rally": [
+      "How stamp rallies work": [
         {
           "name": "Pikachu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
