@@ -1342,6 +1342,57 @@
     "is_ongoing": false
   },
   {
+    "name": "September Community Day Classic",
+    "url": "https://leekduck.com/events/september-communitydayclassic2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "September Community Day Classic",
+    "start_date": "Saturday, September 12, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, September 12, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The September Community Day Classic event will take place on September 12, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Super Mega Raid Day",
+    "url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Super Mega Raid Day",
+    "start_date": "Saturday, September 19, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, September 19, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Super Mega Raid Day event will take place on September 19, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Catch Mastery",
+    "url": "https://leekduck.com/events/catch-mastery-september-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Catch Mastery",
+    "start_date": "Saturday, September 26, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Saturday, September 26, 2026,",
+    "end_time": "at 8:00 PM Local Time",
+    "description": "The Catch Mastery event will take place on September 26, 2026 from 10 am to 8 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "LEGO Stores and Pokémon GO",
     "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
@@ -1372,5 +1423,124 @@
       }
     },
     "is_ongoing": true
+  },
+  {
+    "name": "Max Battle Day",
+    "url": "https://leekduck.com/events/max-battle-day-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Max Battle Day",
+    "start_date": "Saturday, October 3, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, October 3, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "October Community Day",
+    "url": "https://leekduck.com/events/october-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "October Community Day",
+    "start_date": "Saturday, October 10, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, October 10, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The October Community Day event will take place on October 10, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Hatch Day",
+    "url": "https://leekduck.com/events/hatch-day-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Hatch Day",
+    "start_date": "Saturday, October 17, 2026,",
+    "start_time": "at 11:00 AM Local Time",
+    "end_date": "Saturday, October 17, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Max Battle Day",
+    "url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Max Battle Day",
+    "start_date": "Saturday, October 24, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, October 24, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Super Mega Raid Day",
+    "url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Super Mega Raid Day",
+    "start_date": "Saturday, October 31, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, October 31, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Super Mega Raid Day event will take place on October 31, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "November Community Day",
+    "url": "https://leekduck.com/events/november-communityday2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
+    "title": "November Community Day",
+    "start_date": "Saturday, November 21, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, November 21, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The November Community Day event will take place on November 21, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "detail_types": [
+      "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Super Mega Raid Day",
+    "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Super Mega Raid Day",
+    "start_date": "Saturday, November 28, 2026,",
+    "start_time": "at 2:00 PM Local Time",
+    "end_date": "Saturday, November 28, 2026,",
+    "end_time": "at 5:00 PM Local Time",
+    "description": "The Super Mega Raid Day event will take place on November 28, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
   }
 ]
