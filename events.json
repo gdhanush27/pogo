@@ -1,161 +1,5 @@
 [
   {
-    "name": "Summer Marathon: Arctic Embers",
-    "url": "https://leekduck.com/events/summer-marathon-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
-    "title": "Summer Marathon: Arctic Embers",
-    "start_date": "Tuesday, August 4, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, August 10, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Fire up or chill out during Summer Marathon: Arctic Embers! The Summer Marathon: Arctic Embers event will take place from August 4, 2026 at 10 am to August 10, 2026 at 8 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Shiny Pokémon Debut": [
-        {
-          "name": "Snom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png"
-        },
-        {
-          "name": "Frosmoth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm873.s.icon.png"
-        }
-      ],
-      "In 5 km Eggs": [
-        {
-          "name": "Sneasel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png"
-        },
-        {
-          "name": "Darumaka",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png"
-        },
-        {
-          "name": "Galarian Darumaka",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Sizzlipede",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
-        },
-        {
-          "name": "Snom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
-        }
-      ],
-      "Shiny Debut": [
-        {
-          "name": "Snom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png"
-        },
-        {
-          "name": "Frosmoth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm873.s.icon.png"
-        }
-      ],
-      "Increased Shiny Chance": [
-        {
-          "name": "Ponyta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00_shiny.png"
-        },
-        {
-          "name": "Slugma",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png"
-        },
-        {
-          "name": "Snover",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00_shiny.png"
-        },
-        {
-          "name": "Vanillite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png"
-        },
-        {
-          "name": "Alolan Vulpix",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png"
-        },
-        {
-          "name": "Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png"
-        },
-        {
-          "name": "Swinub",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_220_00.png"
-        },
-        {
-          "name": "Snorunt",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png"
-        },
-        {
-          "name": "Litwick",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png"
-        },
-        {
-          "name": "Cubchoo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_613_00.png"
-        },
-        {
-          "name": "Litleo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_667_00.png"
-        },
-        {
-          "name": "Ponyta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
-        },
-        {
-          "name": "Snover",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png"
-        },
-        {
-          "name": "Slugma",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
-        },
-        {
-          "name": "Vanillite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Beldum during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-10/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Beldum during Max Monday",
-    "start_date": "Monday, August 10, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, August 10, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On August 10, 2026 , the featured Dynamax Pokemon is Beldum .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Beldum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
     "url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
@@ -982,7 +826,38 @@
     "detail_types": [
       "Pokémon GO Fest"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "Mega Raids": [
+          {
+            "name": "Mega Chesnaught",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm652.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Delphox",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm655.fMEGA.icon.png"
+          },
+          {
+            "name": "Mega Greninja",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm658.fMEGA.icon.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Mega Chesnaught",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm652.fMEGA.s.icon.png"
+        },
+        {
+          "name": "Mega Delphox",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm655.fMEGA.s.icon.png"
+        },
+        {
+          "name": "Mega Greninja",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm658.fMEGA.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
