@@ -129,7 +129,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Beldum during Max Monday",
@@ -153,7 +153,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
@@ -328,7 +328,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Magikarp during Max Monday",
