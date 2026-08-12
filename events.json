@@ -1,82 +1,5 @@
 [
   {
-    "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-    "url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-    "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Blaziken in Mega Raids",
-    "url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Blaziken in Mega Raids",
-    "start_date": "Wednesday, August 5, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, August 11, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Mega Blaziken will be in Mega Raids from August 5, 2026 at 6 am to August 11, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Blaziken",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00_shiny.png"
-        },
-        {
-          "name": "Mega Blaziken",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
-    "start_date": "Wednesday, August 5, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Tuesday, August 11, 2026,",
-    "end_time": "at 10:00 PM Local Time",
-    "description": "Uxie, Mesprit, and Azelf will be in five-star raid battles from August 5, 2026 to August 11, 2026. There will also be a Raid Hour featuring Uxie, Mesprit, and Azelf from 6:00 pm to 7:00 pm local time on the following date: As a reminder, these are the regions that Uxie, Mesprit, and Azelf are available in: Uxie is available in the Asia-Pacific region. Mesprit is available in Europe, the Middle East, Africa, and India. Azelf is available in the Americas and Greenland.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Uxie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png"
-        },
-        {
-          "name": "Mesprit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png"
-        },
-        {
-          "name": "Azelf",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Groudon Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260812/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -1458,7 +1381,7 @@
         },
         {
           "name": "Mega Glalie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.s.icon.png"
         }
       ],
       "Battle District": [
