@@ -42,7 +42,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
@@ -74,7 +74,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Groudon Raid Hour",
@@ -91,7 +91,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Wurmple Spotlight Hour",
@@ -237,7 +237,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Garchomp in Mega Raids",
@@ -265,7 +265,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Lunala Raid Hour",
