@@ -1478,6 +1478,30 @@
     "is_ongoing": false
   },
   {
+    "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+    "url": "https://leekduck.com/events/10th-anniversary-celebration/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg",
+    "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+    "start_date": "Wednesday, August 12, 2026,",
+    "start_time": "at 4:00 PM Local Time",
+    "end_date": "Sunday, September 6, 2026,",
+    "end_time": "at 11:59 PM Local Time",
+    "description": "Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo! The Perfect Mewtwo Timed Research will be available from August 12, 2026 at 4:00 p.m. PDT to September 6, 2026 at 11 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Special Mewtwo": [
+        {
+          "name": "Mewtwo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png"
+        }
+      ]
+    },
+    "is_ongoing": true
+  },
+  {
     "name": "Forever Forward",
     "url": "https://leekduck.com/events/season-23-forever-forward/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg",
