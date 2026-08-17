@@ -37,7 +37,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Choose Your Path: Venom and Vines",
@@ -78,7 +78,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
