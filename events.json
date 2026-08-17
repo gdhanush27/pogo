@@ -1,45 +1,5 @@
 [
   {
-    "name": "Nickit Community Day",
-    "url": "https://leekduck.com/events/august-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
-    "title": "Nickit Community Day",
-    "start_date": "Sunday, August 16, 2026,",
-    "start_time": "at 2:00 PM Local Time",
-    "end_date": "Sunday, August 16, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Nickit, the Fox Pokémon, will be featured during August Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.s.icon.png"
-        },
-        {
-          "name": "Thievul",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm828.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Choose Your Path: Venom and Vines",
     "url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
@@ -259,12 +219,46 @@
       ],
       "Some Trainers might even encounter the following!": [
         {
+          "name": "Squirtle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
+        },
+        {
+          "name": "Gyarados",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png"
+        },
+        {
           "name": "Feebas",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png"
         },
         {
           "name": "Clamperl",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png"
+        },
+        {
+          "name": "Oshawott",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png"
+        },
+        {
+          "name": "Popplio",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Azurill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png"
+        },
+        {
+          "name": "Mantyke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png"
+        },
+        {
+          "name": "Frillish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_00.png"
+        },
+        {
+          "name": "Cramorant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0845_000_mf_n_00000000_f_n.png"
         }
       ],
       "raid_pokemon": {
@@ -325,12 +319,44 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png"
         },
         {
+          "name": "Tentacool",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_072_00.png"
+        },
+        {
           "name": "Goldeen",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png"
         },
         {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Wailmer",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png"
+        },
+        {
+          "name": "Corphish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png"
+        },
+        {
+          "name": "Ducklett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00.png"
+        },
+        {
+          "name": "Frillish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_01.png"
+        },
+        {
           "name": "Mareanie",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png"
+        },
+        {
+          "name": "Dewpider",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.icon.png"
         },
         {
           "name": "Wimpod",
