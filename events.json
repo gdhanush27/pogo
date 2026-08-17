@@ -214,7 +214,13 @@
       "Pokémon Debuts": [
         {
           "name": "Cramorant",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0845_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png"
+        }
+      ],
+      "GO Snapshot": [
+        {
+          "name": "Cramorant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png"
         }
       ],
       "Some Trainers might even encounter the following!": [
@@ -258,7 +264,7 @@
         },
         {
           "name": "Cramorant",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0845_000_mf_n_00000000_f_n.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png"
         }
       ],
       "raid_pokemon": {
