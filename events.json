@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Magikarp during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-17/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Magikarp during Max Monday",
-    "start_date": "Monday, August 17, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, August 17, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On August 17, 2026 , the featured Dynamax Pokemon is Magikarp .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Magikarp",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
     "url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
