@@ -1,22 +1,5 @@
 [
   {
-    "name": "Choose Your Path: Venom and Vines",
-    "url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
-    "title": "Choose Your Path: Venom and Vines",
-    "start_date": "Tuesday, August 11, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Monday, August 17, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way! During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore , Catch , or Battle . Your choice will shape the Timed Research tasks and bonuses throughout the week. You may have different research opportunities than other Trainers.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-    "detail_types": [
-      "Choose Your Path"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Magikarp during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-08-17/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -411,14 +394,14 @@
   {
     "name": "Lunala in 5-star Raid Battles",
     "url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/lunala.jpg?v2",
     "title": "Lunala in 5-star Raid Battles",
     "start_date": "Wednesday, August 19, 2026,",
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, August 25, 2026,",
     "end_time": "at 10:00 PM Local Time",
     "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026. There will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
     "detail_types": [
       "Raid Battles"
     ],
