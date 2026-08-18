@@ -14,7 +14,7 @@
       "Choose Your Path"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Magikarp during Max Monday",
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
@@ -225,10 +225,6 @@
       ],
       "Some Trainers might even encounter the following!": [
         {
-          "name": "Squirtle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png"
-        },
-        {
           "name": "Gyarados",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png"
         },
@@ -239,14 +235,6 @@
         {
           "name": "Clamperl",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png"
-        },
-        {
-          "name": "Oshawott",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png"
-        },
-        {
-          "name": "Popplio",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png"
         }
       ],
       "In 5 km Eggs": [
@@ -370,7 +358,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Hitmontop during Max Monday",
