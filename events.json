@@ -1,45 +1,5 @@
 [
   {
-    "name": "Starmie Super Mega Raid Day",
-    "url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-day-2026.jpg",
-    "title": "Starmie Super Mega Raid Day",
-    "start_date": "Saturday, August 22, 2026,",
-    "start_time": "at 11:00 AM Local Time",
-    "end_date": "Saturday, August 22, 2026,",
-    "end_time": "at 5:00 PM Local Time",
-    "description": "Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-day-2026.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Mega-Evolved Pokémon Debut": [
-        {
-          "name": "Mega Starmie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Mega Starmie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Starmie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_121_00_shiny.png"
-        },
-        {
-          "name": "Mega Starmie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Starmie.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Ultra Unlock: Water Festival",
     "url": "https://leekduck.com/events/water-festival-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
@@ -1656,14 +1616,14 @@
   {
     "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
     "url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/regi-trio.jpg",
     "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
     "start_date": "Wednesday, August 26, 2026,",
     "start_time": "at 6:00 AM Local Time",
     "end_date": "Tuesday, September 8, 2026,",
     "end_time": "at 10:00 PM Local Time",
     "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026. There will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/regi-trio.jpg",
     "detail_types": [
       "Raid Battles"
     ],
