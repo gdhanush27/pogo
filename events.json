@@ -167,7 +167,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Hitmontop during Max Monday",
@@ -191,7 +191,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Great League and Scroll Cup: Great League Edition | Forever Forward",
@@ -463,7 +463,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Dynamax Eevee during Max Monday",
