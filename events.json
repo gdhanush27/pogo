@@ -1552,6 +1552,23 @@
     "is_ongoing": false
   },
   {
+    "name": "GO Pass: September",
+    "url": "https://leekduck.com/events/go-pass-september-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
+    "title": "GO Pass: September",
+    "start_date": "Tuesday, September 8, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, October 6, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Latios soars in faster than a jet for GO Pass: September! The GO Pass and GO Pass Deluxe for September will be available from September 8, 2026 at 10:00 am to October 6, 2026 at 10:00 am local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
+    "detail_types": [
+      "GO Pass"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "October Community Day",
     "url": "https://leekduck.com/events/october-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
@@ -1651,6 +1668,158 @@
       "Raid Day"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Twilight Trails",
+    "url": "https://leekduck.com/events/season-24-twilight-trails/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
+    "title": "Twilight Trails",
+    "start_date": "Tuesday, September 8, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Tuesday, December 1, 2026,",
+    "end_time": "at 10:00 AM Local Time",
+    "description": "Welcome to Pokémon GO: Twilight Trails! In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
+    "detail_types": [
+      "Season"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debuts": [
+        {
+          "name": "Maschiff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
+        },
+        {
+          "name": "Mabosstiff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm943.icon.png"
+        }
+      ],
+      "Max Pokémon Debuts": [
+        {
+          "name": "Rhyhorn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png"
+        },
+        {
+          "name": "Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png"
+        },
+        {
+          "name": "Uxie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png"
+        },
+        {
+          "name": "Mesprit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png"
+        },
+        {
+          "name": "Azelf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        }
+      ],
+      "In 2 km Eggs": [
+        {
+          "name": "Elekid",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png"
+        },
+        {
+          "name": "Magby",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png"
+        },
+        {
+          "name": "Azurill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Munchlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Fidough",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        }
+      ],
+      "In 5 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Tyrogue",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png"
+        },
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+        },
+        {
+          "name": "Budew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_406_00.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Galarian Meowth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
+        },
+        {
+          "name": "Galarian Zigzagoon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
+        }
+      ],
+      "In 7 km Eggs From Route Rewards": [
+        {
+          "name": "Galarian Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
+        },
+        {
+          "name": "Hisuian Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        }
+      ],
+      "In 10 km Eggs": [
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Impidimp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png"
+        }
+      ],
+      "In 10 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Druddigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   }
 ]
