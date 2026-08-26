@@ -45,7 +45,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Swampert in Mega Raids",
@@ -73,7 +73,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regirock, Regice, and Registeel Raid Hour",
@@ -90,7 +90,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mankey Spotlight Hour",
@@ -1441,7 +1441,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
@@ -1473,7 +1473,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Zacian (Hero of Many Battles) Raid Hour",
