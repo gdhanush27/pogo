@@ -1791,20 +1791,51 @@
     "is_ongoing": false
   },
   {
-    "name": "Catch Mastery",
-    "url": "https://leekduck.com/events/catch-mastery-september-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Catch Mastery",
+    "name": "Phantump Catch Mastery",
+    "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
+    "title": "Phantump Catch Mastery",
     "start_date": "Saturday, September 26, 2026,",
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Saturday, September 26, 2026,",
     "end_time": "at 8:00 PM Local Time",
-    "description": "The Catch Mastery event will take place on September 26, 2026 from 10 am to 8 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Phantump",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png"
+        }
+      ],
+      "Increased Shiny Chance": [
+        {
+          "name": "Cherubi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png"
+        },
+        {
+          "name": "Drifloon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png"
+        },
+        {
+          "name": "Phantump",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Cherubi",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png"
+        },
+        {
+          "name": "Drifloon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
