@@ -90,7 +90,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mankey Spotlight Hour",
@@ -114,7 +114,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Twitch Drops for 2026 Pokémon World Championships",
