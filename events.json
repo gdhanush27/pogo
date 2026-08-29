@@ -17,6 +17,67 @@
     "is_ongoing": false
   },
   {
+    "name": "[San Francisco] 2026 Pokémon World Championships",
+    "url": "https://leekduck.com/events/pokemon-world-championships-2026-san-francisco/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-san-francisco.png",
+    "title": "[San Francisco] 2026 Pokémon World Championships",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "Special in-person Pokémon GO activities are available around San Francisco during the 2026 Pokémon World Championships. Explore the city for a Stamp Rally, location-themed raids with guaranteed Location Backgrounds, and exclusive research. The event runs from Friday, August 28, at 10:00 a.m. to Sunday, August 30, 2026, at 8:00 p.m. PDT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-san-francisco.png",
+    "detail_types": [
+      "Event",
+      "Location-specific"
+    ],
+    "pokemon_sections": {
+      "Stamp Rally": [
+        {
+          "name": "Pikachu wearing a Cosmog-themed spacesuit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "In 1-Star Raids": [
+          {
+            "name": "Zigzagoon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_00.png"
+          },
+          {
+            "name": "Fuecoco",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
+          }
+        ],
+        "In 3-Star Raids": [
+          {
+            "name": "Dewgong",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_087_00.png"
+          },
+          {
+            "name": "Kingler",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_099_00.png"
+          },
+          {
+            "name": "Alolan Exeggutor",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png"
+          },
+          {
+            "name": "Duraludon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+          }
+        ],
+        "In 5-Star Raids": [
+          {
+            "name": "Rayquaza",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png"
+          }
+        ]
+      }
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "PokémonXP & 2026 Worlds",
     "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
