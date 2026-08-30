@@ -41,6 +41,14 @@
       "raid_pokemon": {
         "In 1-Star Raids": [
           {
+            "name": "World Championships 2026 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png"
+          },
+          {
+            "name": "Pikachu wearing a Cosmog-themed spacesuit",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
+          },
+          {
             "name": "Zigzagoon",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_00.png"
           },
@@ -71,6 +79,18 @@
           {
             "name": "Rayquaza",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png"
+          },
+          {
+            "name": "Deoxys (Attack)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png"
+          },
+          {
+            "name": "Deoxys (Defense)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png"
+          },
+          {
+            "name": "Deoxys (Speed)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png"
           }
         ]
       }
