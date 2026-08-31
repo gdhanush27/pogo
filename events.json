@@ -1,143 +1,5 @@
 [
   {
-    "name": "PokémonXP & 2026 Worlds",
-    "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
-    "title": "PokémonXP & 2026 Worlds",
-    "start_date": "Tuesday, August 25, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Sunday, August 30, 2026,",
-    "end_time": "at 8:00 PM Local Time",
-    "description": "Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO! The PokémonXP & 2026 Worlds event will take place from August 25, 2026 at 10 am to August 30, 2026 at 8 pm local time. PokémonXP: Tuesday, August 25, at 10:00 a.m. to Friday, August 28, 2026, at 10:00 a.m. local time. 2026 Pokémon World Championships: Friday, August 28, at 10:00 a.m. to Sunday, August 30, at 8:00 p.m. local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Pikachu wearing a Cosmog-themed spacesuit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
-        },
-        {
-          "name": "World Championships 2026 Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png"
-        }
-      ],
-      "PokémonXP": [
-        {
-          "name": "Ralts",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
-        },
-        {
-          "name": "Numel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png"
-        },
-        {
-          "name": "Spheal",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png"
-        },
-        {
-          "name": "Drifloon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png"
-        },
-        {
-          "name": "Elgyem",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png"
-        },
-        {
-          "name": "Sobble",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
-        },
-        {
-          "name": "Pawmi",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm921.icon.png"
-        }
-      ],
-      "Some Trainers might even encounter the following!": [
-        {
-          "name": "Togetic",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
-        },
-        {
-          "name": "Beldum",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
-        }
-      ],
-      "2026 Pokémon World Championships": [
-        {
-          "name": "Alolan Sandshrew",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png"
-        },
-        {
-          "name": "Mankey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png"
-        },
-        {
-          "name": "Lickitung",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_108_00.png"
-        },
-        {
-          "name": "Totodile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
-        },
-        {
-          "name": "Wooper",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_194_00.png"
-        },
-        {
-          "name": "Foongus",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png"
-        },
-        {
-          "name": "Froakie",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
-        },
-        {
-          "name": "Litten",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "In 1-Star Raids": [
-          {
-            "name": "Pikachu wearing a Cosmog-themed spacesuit",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
-          },
-          {
-            "name": "World Championships 2026 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png"
-          },
-          {
-            "name": "Honedge",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Pikachu wearing a Cosmog-themed spacesuit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.s.icon.png"
-        },
-        {
-          "name": "World Championships 2026 Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.s.icon.png"
-        }
-      ],
-      "Featured Attacks": [
-        {
-          "name": "Alolan Sandshrew",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png"
-        },
-        {
-          "name": "Alolan Sandslash",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_028_61.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Eevee during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-08-31/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -260,6 +122,24 @@
         {
           "name": "Mega Latios",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png"
+        }
+      ],
+      "Chesnaught": [
+        {
+          "name": "Chesnaught",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_652_00.png"
+        }
+      ],
+      "Delphox": [
+        {
+          "name": "Delphox",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_655_00.png"
+        }
+      ],
+      "Greninja": [
+        {
+          "name": "Greninja",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_658_00.png"
         }
       ],
       "Shiny": [
