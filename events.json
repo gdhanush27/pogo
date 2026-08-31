@@ -1,103 +1,5 @@
 [
   {
-    "name": "Twitch Drops for 2026 Pokémon World Championships",
-    "url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
-    "title": "Twitch Drops for 2026 Pokémon World Championships",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Get codes for exclusive Timed Research, a Worlds Tee avatar item, and special Pikachu encounters by tuning in to the 2026 Pokémon World Championships and PokémonXP livestreams. Trainers can earn up to five Pokémon GO rewards across the official Pokémon GO broadcast, the Pokémon World Championships finals stream, official co-streamers, and the PokémonXP Pokémon GO panel. Here’s everything you can unlock.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
-    "detail_types": [
-      "Research"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "[San Francisco] 2026 Pokémon World Championships",
-    "url": "https://leekduck.com/events/pokemon-world-championships-2026-san-francisco/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-san-francisco.png",
-    "title": "[San Francisco] 2026 Pokémon World Championships",
-    "start_date": "Calculating...",
-    "start_time": null,
-    "end_date": "Calculating...",
-    "end_time": null,
-    "description": "Special in-person Pokémon GO activities are available around San Francisco during the 2026 Pokémon World Championships. Explore the city for a Stamp Rally, location-themed raids with guaranteed Location Backgrounds, and exclusive research. The event runs from Friday, August 28, at 10:00 a.m. to Sunday, August 30, 2026, at 8:00 p.m. PDT.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-san-francisco.png",
-    "detail_types": [
-      "Event",
-      "Location-specific"
-    ],
-    "pokemon_sections": {
-      "Stamp Rally": [
-        {
-          "name": "Pikachu wearing a Cosmog-themed spacesuit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "In 1-Star Raids": [
-          {
-            "name": "World Championships 2026 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png"
-          },
-          {
-            "name": "Pikachu wearing a Cosmog-themed spacesuit",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png"
-          },
-          {
-            "name": "Zigzagoon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_00.png"
-          },
-          {
-            "name": "Fuecoco",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
-          }
-        ],
-        "In 3-Star Raids": [
-          {
-            "name": "Dewgong",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_087_00.png"
-          },
-          {
-            "name": "Kingler",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_099_00.png"
-          },
-          {
-            "name": "Alolan Exeggutor",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png"
-          },
-          {
-            "name": "Duraludon",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
-          }
-        ],
-        "In 5-Star Raids": [
-          {
-            "name": "Rayquaza",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png"
-          },
-          {
-            "name": "Deoxys (Attack)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png"
-          },
-          {
-            "name": "Deoxys (Defense)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png"
-          },
-          {
-            "name": "Deoxys (Speed)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png"
-          }
-        ]
-      }
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "PokémonXP & 2026 Worlds",
     "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
@@ -456,7 +358,7 @@
     "start_time": "at 10:00 AM Local Time",
     "end_date": "Sunday, September 6, 2026,",
     "end_time": "at 6:00 PM Local Time",
-    "description": "Rally with Trainers around the world for the mega conclusion of Pokémon GO Fest 2026! Pokémon GO Fest 2026: Mega Finale brings rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y. Prepare during the lead-up event Mega Ascension , then join this unticketed worldwide weekend finale. The Pokémon GO Fest 2026: Mega Finale event will take place from September 5, 2026 at 10 am to September 6, 2026 at 6 pm local time.",
+    "description": "Rally with Trainers around the world for the mega conclusion of Pokémon GO Fest 2026! Pokémon GO Fest 2026: Mega Finale brings Armored Mewtwo in five-star raids, rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y. Prepare during the lead-up event Mega Ascension , then join this unticketed worldwide weekend finale. The Pokémon GO Fest 2026: Mega Finale event will take place from September 5, 2026 at 10 am to September 6, 2026 at 6 pm local time.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg",
     "detail_types": [
       "Pokémon GO Fest"
@@ -488,6 +390,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png"
         }
       ],
+      "raid_pokemon": {
+        "Five-star Raids": [
+          {
+            "name": "Armored Mewtwo",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0150_00_pgo_a.png"
+          }
+        ],
+        "Super Mega Raids": [
+          {
+            "name": "Mega Mewtwo Y",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.s.icon.png"
+          }
+        ]
+      },
       "Verdant Overgrowth - In the wild": [
         {
           "name": "Weedle",
@@ -1010,14 +926,6 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm658.fMEGA.s.icon.png"
         }
       ],
-      "raid_pokemon": {
-        "Super Mega Raids": [
-          {
-            "name": "Mega Mewtwo Y",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.s.icon.png"
-          }
-        ]
-      },
       "spawns": [
         {
           "name": "Chespin",
@@ -1033,6 +941,23 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Armored Mewtwo in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/armored-mewtwo-in-5-star-raid-battles-september-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/armored-mewtwo-mega-finale-2026.png",
+    "title": "Armored Mewtwo in 5-star Raid Battles",
+    "start_date": "Saturday, September 5, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, September 6, 2026,",
+    "end_time": "at 6:00 PM Local Time",
+    "description": "Armored Mewtwo is back! Last seen in 2020, Armored Mewtwo will return to five-star Raid Battles for a limited time during Pokémon GO Fest 2026: Mega Finale . Armored Mewtwo will appear in five-star raids on both Saturday, September 5, and Sunday, September 6, 2026, from 10:00 a.m. to 6:00 p.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/armored-mewtwo-mega-finale-2026.png",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
