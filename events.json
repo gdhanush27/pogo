@@ -233,7 +233,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Eevee during Max Monday",
@@ -257,7 +257,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Great League, Ultra League, and Master League | Forever Forward",
@@ -445,7 +445,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Pokémon GO Fest 2026: Mega Finale",
