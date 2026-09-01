@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Eevee during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-08-31/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Eevee during Max Monday",
-    "start_date": "Monday, August 31, 2026,",
-    "start_time": "at 6:00 AM Local Time",
-    "end_date": "Monday, August 31, 2026,",
-    "end_time": "at 9:00 PM Local Time",
-    "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On August 31, 2026 , the featured Dynamax Pokemon is Eevee .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Eevee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Regirock, Regice, and Registeel Raid Hour",
     "url": "https://leekduck.com/events/raidhour20260902/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
