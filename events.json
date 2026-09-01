@@ -1603,20 +1603,27 @@
     "is_ongoing": false
   },
   {
-    "name": "Super Mega Raid Day",
-    "url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Super Mega Raid Day",
+    "name": "Staraptor Super Mega Raid Day",
+    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
+    "title": "Staraptor Super Mega Raid Day",
     "start_date": "Saturday, September 19, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, September 19, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Super Mega Raid Day event will take place on September 19, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Staraptor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_398_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
