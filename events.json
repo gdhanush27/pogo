@@ -169,7 +169,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Pokémon GO Fest 2026: Mega Finale",
@@ -763,7 +763,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Armored Mewtwo in 5-star Raid Battles",
@@ -780,7 +780,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
