@@ -241,7 +241,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Armored Mewtwo in 5-star Raid Battles",
@@ -258,7 +258,7 @@
       "Raid Battles"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
@@ -282,7 +282,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Dynamax Ralts during Max Monday",
@@ -306,7 +306,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Forever Forward",
