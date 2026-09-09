@@ -1,252 +1,5 @@
 [
   {
-    "name": "Forever Forward",
-    "url": "https://leekduck.com/events/season-23-forever-forward/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg",
-    "title": "Forever Forward",
-    "start_date": "Tuesday, June 2, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, September 8, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "Welcome to Pokémon GO: Forever Forward! In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg",
-    "detail_types": [
-      "Season"
-    ],
-    "pokemon_sections": {
-      "Research Breakthrough": [
-        {
-          "name": "Dragonite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png"
-        },
-        {
-          "name": "Axew",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
-        },
-        {
-          "name": "Honedge",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-        },
-        {
-          "name": "Jangmo-o",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
-        },
-        {
-          "name": "Indeedee (Male)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2"
-        },
-        {
-          "name": "Klawf",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm950.icon.png"
-        }
-      ],
-      "In 2 km Eggs": [
-        {
-          "name": "Exeggcute",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_102_00.png"
-        },
-        {
-          "name": "Pichu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png"
-        },
-        {
-          "name": "Cleffa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png"
-        },
-        {
-          "name": "Togepi",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png"
-        },
-        {
-          "name": "Corphish",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png"
-        },
-        {
-          "name": "Wynaut",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_360_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        }
-      ],
-      "In 5 km Eggs": [
-        {
-          "name": "Riolu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png"
-        },
-        {
-          "name": "Mantyke",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Snom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
-        },
-        {
-          "name": "Indeedee (Male)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2"
-        },
-        {
-          "name": "Indeedee (Female)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2"
-        },
-        {
-          "name": "Flittle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png"
-        }
-      ],
-      "In 5 km Eggs from Adventure Sync Rewards": [
-        {
-          "name": "Tyrogue",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png"
-        },
-        {
-          "name": "Sableye",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
-        },
-        {
-          "name": "Budew",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_406_00.png"
-        },
-        {
-          "name": "Chingling",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png"
-        },
-        {
-          "name": "Happiny",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
-        }
-      ],
-      "In 7 km Eggs": [
-        {
-          "name": "Alolan Diglett",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
-        },
-        {
-          "name": "Galarian Meowth",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
-        },
-        {
-          "name": "Alolan Geodude",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
-        },
-        {
-          "name": "Galarian Corsola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
-        },
-        {
-          "name": "Galarian Zigzagoon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
-        },
-        {
-          "name": "Galarian Darumaka",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
-        },
-        {
-          "name": "Galarian Stunfisk",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
-        }
-      ],
-      "In 7 km Eggs From Route Rewards": [
-        {
-          "name": "Hisuian Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Galarian Slowpoke",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
-        },
-        {
-          "name": "Hisuian Sneasel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Galarian Corsola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
-        },
-        {
-          "name": "Basculin (White Striped)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png"
-        }
-      ],
-      "In 10 km Eggs": [
-        {
-          "name": "Mawile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png"
-        },
-        {
-          "name": "Absol",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00.png"
-        },
-        {
-          "name": "Larvesta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
-        },
-        {
-          "name": "Honedge",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
-        },
-        {
-          "name": "Charcadet",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
-        },
-        {
-          "name": "Tinkatink",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
-        },
-        {
-          "name": "Frigibax",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
-        }
-      ],
-      "In 10 km Eggs from Adventure Sync Rewards": [
-        {
-          "name": "Bagon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
-        },
-        {
-          "name": "Gible",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
-        },
-        {
-          "name": "Druddigon",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png"
-        },
-        {
-          "name": "Drampa",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
-        },
-        {
-          "name": "Toxel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": true
-  },
-  {
-    "name": "GO Pass: August",
-    "url": "https://leekduck.com/events/go-pass-august-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
-    "title": "GO Pass: August",
-    "start_date": "Tuesday, August 4, 2026,",
-    "start_time": "at 10:00 AM Local Time",
-    "end_date": "Tuesday, September 8, 2026,",
-    "end_time": "at 10:00 AM Local Time",
-    "description": "The Lucky Trinket returns and Latias soars into GO Pass: August! The GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
-    "detail_types": [
-      "GO Pass"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": true
-  },
-  {
     "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
     "url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -276,7 +29,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Mega Gyarados in Mega Raids",
@@ -304,7 +57,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
@@ -336,7 +89,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Zacian (Hero of Many Battles) Raid Hour",
@@ -353,7 +106,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Weedle, Kakuna, and Beedrill Spotlight Hour",
@@ -680,7 +433,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Houndoom in Mega Raids",
@@ -1461,7 +1214,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Mega Victreebel in Mega Raids",
