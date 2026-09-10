@@ -14,7 +14,7 @@
       "Raid Hour"
     ],
     "pokemon_sections": {},
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Weedle, Kakuna, and Beedrill Spotlight Hour",
@@ -46,7 +46,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Gible Community Day Classic",
@@ -887,20 +887,33 @@
     "is_ongoing": true
   },
   {
-    "name": "Max Battle Day",
-    "url": "https://leekduck.com/events/max-battle-day-october-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Max Battle Day",
+    "name": "Gigantamax Cinderace Max Battle Day",
+    "url": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-battle-day.jpg",
+    "title": "Gigantamax Cinderace Max Battle Day",
     "start_date": "Saturday, October 3, 2026,",
     "start_time": "at 2:00 PM Local Time",
     "end_date": "Saturday, October 3, 2026,",
     "end_time": "at 5:00 PM Local Time",
-    "description": "The Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "The Gigantamax Cinderace Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-battle-day.jpg",
     "detail_types": [
       "Max Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Gigantamax Cinderace",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0815_000_mf_g_00000000_f_n.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Gigantamax Cinderace",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.fGIGANTAMAX.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1313,6 +1326,874 @@
     "is_ongoing": false
   },
   {
+    "name": "Pokémon GO Wild Area: Sendai • Tohoku",
+    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
+    "title": "Pokémon GO Wild Area: Sendai • Tohoku",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. JST (UTC+9) Location: Sendai, Japan, with gameplay throughout Miyagi Prefecture Ticket: ¥4,000 (including applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Ticket registration: Register from September 11 at 8:00 a.m. JST through September 15, 2026, at 7:59 a.m. JST . Registered Trainers will be notified of their purchase window afterward. Tickets are first come, first served, and registration does not guarantee availability. Read the ticket registration announcement .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
+    "detail_types": [
+      "Wild Area",
+      "Location-specific",
+      "Ticketed Event"
+    ],
+    "pokemon_sections": {
+      "Hisuian Sliggoo and Hisuian Goodra Debut": [
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Hisuian Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm706.fHISUIAN.icon.png"
+        }
+      ],
+      "Solid as Steel Hour": [
+        {
+          "name": "Alolan Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png"
+        },
+        {
+          "name": "Alolan Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
+        },
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Onix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png"
+        },
+        {
+          "name": "Porygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png"
+        },
+        {
+          "name": "Shuckle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png"
+        },
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
+        },
+        {
+          "name": "Nosepass",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
+        },
+        {
+          "name": "Aron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Piplup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
+        },
+        {
+          "name": "Shieldon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
+        },
+        {
+          "name": "Bronzor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png"
+        },
+        {
+          "name": "Lucario",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
+          "name": "Ferroseed",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
+        },
+        {
+          "name": "Klink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
+        },
+        {
+          "name": "Durant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png"
+        },
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
+        },
+        {
+          "name": "Orthworm",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
+        }
+      ],
+      "Daring as Dragons Hour": [
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Gligar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png"
+        },
+        {
+          "name": "Trapinch",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png"
+        },
+        {
+          "name": "Swablu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+        },
+        {
+          "name": "Barboach",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Tynamo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png"
+        },
+        {
+          "name": "Axew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
+        },
+        {
+          "name": "Heatmor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png"
+        },
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+        },
+        {
+          "name": "Skrelp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png"
+        },
+        {
+          "name": "Tyrunt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png"
+        },
+        {
+          "name": "Amaura",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Noibat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Jangmo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
+        },
+        {
+          "name": "Applin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Frigibax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+        }
+      ],
+      "Mighty Pokémon": [
+        {
+          "name": "Modern Jacket Machamp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+        },
+        {
+          "name": "Alolan Exeggutor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png"
+        },
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Azumarill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+        },
+        {
+          "name": "Scizor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+        },
+        {
+          "name": "Kingdra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
+        },
+        {
+          "name": "Aggron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png"
+        },
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        },
+        {
+          "name": "Walrein",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png"
+        },
+        {
+          "name": "Metagross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png"
+        },
+        {
+          "name": "Empoleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png"
+        },
+        {
+          "name": "Bastiodon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png"
+        },
+        {
+          "name": "Magnezone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png"
+        },
+        {
+          "name": "Conkeldurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png"
+        },
+        {
+          "name": "Ferrothorn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png"
+        },
+        {
+          "name": "Haxorus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        },
+        {
+          "name": "Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png"
+        },
+        {
+          "name": "Noivern",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png"
+        },
+        {
+          "name": "Kommo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png"
+        },
+        {
+          "name": "Tinkaton",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png"
+        },
+        {
+          "name": "Clodsire",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png"
+        }
+      ],
+      "Incense Encounters": [
+        {
+          "name": "Lapras",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+        },
+        {
+          "name": "Azumarill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+        },
+        {
+          "name": "Scizor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+        },
+        {
+          "name": "Kingdra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
+        },
+        {
+          "name": "Aggron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png"
+        },
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        },
+        {
+          "name": "Empoleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png"
+        },
+        {
+          "name": "Bastiodon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png"
+        },
+        {
+          "name": "Conkeldurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        },
+        {
+          "name": "Kommo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png"
+        }
+      ],
+      "Ticket Holder Incense Encounters": [
+        {
+          "name": "Unown A",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_11.png"
+        },
+        {
+          "name": "Unown D",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_14.png"
+        },
+        {
+          "name": "Unown E",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_15.png"
+        },
+        {
+          "name": "Unown I",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png"
+        },
+        {
+          "name": "Unown N",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png"
+        },
+        {
+          "name": "Unown S",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_29.png"
+        }
+      ],
+      "10 km Eggs": [
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Klefki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Modern Jacket Machamp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+          }
+        ]
+      },
+      "Max Battles": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
+        },
+        {
+          "name": "Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.s.icon.png"
+        },
+        {
+          "name": "Hisuian Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm706.fHISUIAN.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Pokémon GO Wild Area: Mexico City",
+    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
+    "title": "Pokémon GO Wild Area: Mexico City",
+    "start_date": "Calculating...",
+    "start_time": null,
+    "end_date": "Calculating...",
+    "end_time": null,
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. local time (UTC−6) Location: Mexico City, Mexico, with gameplay throughout the metropolitan area Ticket: MXN$350 (plus applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Tickets are available on the official event ticket page , while supplies last.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
+    "detail_types": [
+      "Wild Area",
+      "Location-specific",
+      "Ticketed Event"
+    ],
+    "pokemon_sections": {
+      "Hisuian Sliggoo and Hisuian Goodra Debut": [
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Hisuian Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm706.fHISUIAN.icon.png"
+        }
+      ],
+      "Solid as Steel Hour": [
+        {
+          "name": "Alolan Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png"
+        },
+        {
+          "name": "Alolan Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
+        },
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Onix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png"
+        },
+        {
+          "name": "Porygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png"
+        },
+        {
+          "name": "Shuckle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png"
+        },
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
+        },
+        {
+          "name": "Nosepass",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
+        },
+        {
+          "name": "Aron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Piplup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
+        },
+        {
+          "name": "Shieldon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
+        },
+        {
+          "name": "Bronzor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png"
+        },
+        {
+          "name": "Lucario",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
+          "name": "Ferroseed",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
+        },
+        {
+          "name": "Klink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
+        },
+        {
+          "name": "Durant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png"
+        },
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
+        },
+        {
+          "name": "Orthworm",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png"
+        }
+      ],
+      "Daring as Dragons Hour": [
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Gligar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png"
+        },
+        {
+          "name": "Trapinch",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png"
+        },
+        {
+          "name": "Swablu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+        },
+        {
+          "name": "Barboach",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Tynamo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png"
+        },
+        {
+          "name": "Axew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
+        },
+        {
+          "name": "Heatmor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png"
+        },
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+        },
+        {
+          "name": "Skrelp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png"
+        },
+        {
+          "name": "Tyrunt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png"
+        },
+        {
+          "name": "Amaura",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Noibat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Jangmo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
+        },
+        {
+          "name": "Applin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Frigibax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+        }
+      ],
+      "Mighty Pokémon": [
+        {
+          "name": "Modern Jacket Machamp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+        },
+        {
+          "name": "Alolan Exeggutor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png"
+        },
+        {
+          "name": "Azumarill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+        },
+        {
+          "name": "Scizor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+        },
+        {
+          "name": "Kingdra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
+        },
+        {
+          "name": "Aggron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png"
+        },
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        },
+        {
+          "name": "Walrein",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png"
+        },
+        {
+          "name": "Metagross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png"
+        },
+        {
+          "name": "Empoleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png"
+        },
+        {
+          "name": "Bastiodon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png"
+        },
+        {
+          "name": "Magnezone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png"
+        },
+        {
+          "name": "Conkeldurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png"
+        },
+        {
+          "name": "Ferrothorn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png"
+        },
+        {
+          "name": "Haxorus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png"
+        },
+        {
+          "name": "Noivern",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png"
+        },
+        {
+          "name": "Kommo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png"
+        },
+        {
+          "name": "Tinkaton",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png"
+        },
+        {
+          "name": "Clodsire",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png"
+        }
+      ],
+      "Incense Encounters": [
+        {
+          "name": "Azumarill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+        },
+        {
+          "name": "Scizor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+        },
+        {
+          "name": "Kingdra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
+        },
+        {
+          "name": "Aggron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png"
+        },
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        },
+        {
+          "name": "Empoleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png"
+        },
+        {
+          "name": "Bastiodon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png"
+        },
+        {
+          "name": "Conkeldurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Kommo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png"
+        }
+      ],
+      "Ticket Holder Incense Encounters": [
+        {
+          "name": "Unown C",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_13.png"
+        },
+        {
+          "name": "Unown E",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_15.png"
+        },
+        {
+          "name": "Unown I",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown O",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png"
+        },
+        {
+          "name": "Unown X",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_34.png"
+        }
+      ],
+      "10 km Eggs": [
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Klefki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Modern Jacket Machamp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+          }
+        ]
+      },
+      "Max Battles": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
+        },
+        {
+          "name": "Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Hisuian Sliggoo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.s.icon.png"
+        },
+        {
+          "name": "Hisuian Goodra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm706.fHISUIAN.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-28-twilight-trails.png",
@@ -1327,6 +2208,345 @@
       "GO Battle League"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Pokémon GO Wild Area: Global",
+    "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg",
+    "title": "Pokémon GO Wild Area: Global",
+    "start_date": "Saturday, November 14, 2026,",
+    "start_time": "at 10:00 AM Local Time",
+    "end_date": "Sunday, November 15, 2026,",
+    "end_time": "at 6:00 PM Local Time",
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 14 and 15, 2026 Time: 10:00 a.m. – 6:00 p.m. local time each day Location: Worldwide All Trainers can participate in the global event. An optional US$11.99 ticket adds Special Research, increased Shiny chances, extra Incense encounters, and additional bonuses across both days. Purchase a ticket from the Pokémon GO Web Store .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg",
+    "detail_types": [
+      "Wild Area",
+      "Ticketed Event"
+    ],
+    "pokemon_sections": {
+      "Solid as Steel Hour": [
+        {
+          "name": "Alolan Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png"
+        },
+        {
+          "name": "Alolan Diglett",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
+        },
+        {
+          "name": "Magnemite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+        },
+        {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Onix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png"
+        },
+        {
+          "name": "Porygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png"
+        },
+        {
+          "name": "Shuckle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png"
+        },
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
+        },
+        {
+          "name": "Nosepass",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png"
+        },
+        {
+          "name": "Aron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+        },
+        {
+          "name": "Beldum",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png"
+        },
+        {
+          "name": "Piplup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png"
+        },
+        {
+          "name": "Shieldon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
+        },
+        {
+          "name": "Bronzor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png"
+        },
+        {
+          "name": "Lucario",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png"
+        },
+        {
+          "name": "Drilbur",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png"
+        },
+        {
+          "name": "Ferroseed",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png"
+        },
+        {
+          "name": "Klink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+        },
+        {
+          "name": "Galarian Stunfisk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
+        },
+        {
+          "name": "Durant",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
+        }
+      ],
+      "Daring as Dragons Hour": [
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png"
+        },
+        {
+          "name": "Dratini",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png"
+        },
+        {
+          "name": "Gligar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png"
+        },
+        {
+          "name": "Trapinch",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png"
+        },
+        {
+          "name": "Swablu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+        },
+        {
+          "name": "Barboach",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png"
+        },
+        {
+          "name": "Bagon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Tynamo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png"
+        },
+        {
+          "name": "Axew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png"
+        },
+        {
+          "name": "Heatmor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png"
+        },
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+        },
+        {
+          "name": "Skrelp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png"
+        },
+        {
+          "name": "Tyrunt",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png"
+        },
+        {
+          "name": "Amaura",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Noibat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+        },
+        {
+          "name": "Turtonator",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png"
+        },
+        {
+          "name": "Jangmo-o",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
+        },
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        },
+        {
+          "name": "Frigibax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+        }
+      ],
+      "Saturday, November 14": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
+        }
+      ],
+      "Sunday, November 15": [
+        {
+          "name": "Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+        }
+      ],
+      "Incense Encounters": [
+        {
+          "name": "Alolan Exeggutor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png"
+        },
+        {
+          "name": "Azumarill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+        },
+        {
+          "name": "Scizor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png"
+        },
+        {
+          "name": "Kingdra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
+        },
+        {
+          "name": "Aggron",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png"
+        },
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        },
+        {
+          "name": "Empoleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png"
+        },
+        {
+          "name": "Magnezone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png"
+        },
+        {
+          "name": "Conkeldurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png"
+        },
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        }
+      ],
+      "Ticket Holder Incense Encounters": [
+        {
+          "name": "Unown D",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_14.png"
+        },
+        {
+          "name": "Unown I",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown W",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_33.png"
+        }
+      ],
+      "10 km Eggs": [
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Klefki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "Three-Star Raids": [
+          {
+            "name": "Modern Jacket Machamp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+          }
+        ]
+      },
+      "Machamp wearing a modern jacket": [
+        {
+          "name": "Modern Jacket Machamp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png"
+        }
+      ],
+      "Flygon": [
+        {
+          "name": "Flygon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png"
+        }
+      ],
+      "Metagross": [
+        {
+          "name": "Metagross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png"
+        }
+      ],
+      "Magnezone": [
+        {
+          "name": "Magnezone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png"
+        }
+      ],
+      "Haxorus": [
+        {
+          "name": "Haxorus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png"
+        }
+      ],
+      "Hydreigon": [
+        {
+          "name": "Hydreigon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png"
+        }
+      ],
+      "Tinkaton": [
+        {
+          "name": "Tinkaton",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
