@@ -1,37 +1,5 @@
 [
   {
-    "name": "Weedle, Kakuna, and Beedrill Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-10/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Weedle, Kakuna, and Beedrill Spotlight Hour",
-    "start_date": "Thursday, September 10, 2026,",
-    "start_time": "at 6:00 PM Local Time",
-    "end_date": "Thursday, September 10, 2026,",
-    "end_time": "at 7:00 PM Local Time",
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. September 10 : The featured Pokémon are Weedle, Kakuna, and Beedrill and the special bonus is 2× Transfer Candy .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Weedle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
-        },
-        {
-          "name": "Kakuna",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png"
-        },
-        {
-          "name": "Beedrill",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Gible Community Day Classic",
     "url": "https://leekduck.com/events/september-communitydayclassic2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-12-september-communitydayclassic2026/gible-community-day-classic.jpg",
