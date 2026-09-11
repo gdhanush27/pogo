@@ -29,7 +29,7 @@
         }
       ]
     },
-    "is_ongoing": true
+    "is_ongoing": false
   },
   {
     "name": "Gible Community Day Classic",
@@ -178,6 +178,14 @@
         {
           "name": "Carvanha",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png"
+        },
+        {
+          "name": "Purrloin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_509_00.png"
+        },
+        {
+          "name": "Nickit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
         }
       ],
       "In 5 km Eggs": [
@@ -352,7 +360,7 @@
         }
       ]
     },
-    "is_ongoing": false
+    "is_ongoing": true
   },
   {
     "name": "Zamazenta (Hero of Many Battles) Raid Hour",
