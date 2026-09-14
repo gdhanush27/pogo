@@ -1,43 +1,5 @@
 [
   {
-    "name": "Gible Community Day Classic",
-    "url": "https://leekduck.com/events/september-communitydayclassic2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-12-september-communitydayclassic2026/gible-community-day-classic.jpg",
-    "title": "Gible Community Day Classic",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Gible, the Land Shark Pokémon, will be featured during September Community Day Classic!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-12-september-communitydayclassic2026/gible-community-day-classic.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Gible",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00_shiny.png"
-        },
-        {
-          "name": "Gabite",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_444_00_shiny.png"
-        },
-        {
-          "name": "Garchomp",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Gible",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Houndour and Houndoom Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
