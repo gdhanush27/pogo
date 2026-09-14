@@ -2877,12 +2877,32 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png"
         },
         {
+          "name": "Larvesta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png"
+        },
+        {
           "name": "Sizzlipede",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
         },
         {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        },
+        {
+          "name": "Indeedee (Male)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2"
+        },
+        {
+          "name": "Indeedee (Female)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2"
+        },
+        {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
+        },
+        {
+          "name": "Maschiff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
         }
       ],
       "In 5 km Eggs from Adventure Sync Rewards": [
