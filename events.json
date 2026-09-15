@@ -667,14 +667,14 @@
   {
     "name": "Choose Your Path: Twilight Trails",
     "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-evergreen.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-twilight-trails-2026.jpg",
     "title": "Choose Your Path: Twilight Trails",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Choose Your Path Timed Research gives you the freedom to explore Pokémon GO your way during non-event weeks! During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore , Catch , or Battle . Your choice will shape the Timed Research tasks and bonuses throughout the week. You may have different research opportunities than other Trainers.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-twilight-trails-2026.jpg",
     "detail_types": [
       "Choose Your Path"
     ],
@@ -2889,6 +2889,10 @@
         }
       ],
       "In 5 km Eggs": [
+        {
+          "name": "Mime Jr.",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_439_00.png"
+        },
         {
           "name": "Munchlax",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png"
