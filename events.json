@@ -1,33 +1,5 @@
 [
   {
-    "name": "Houndour and Houndoom Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Houndour and Houndoom Spotlight Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. September 13 : The featured Pokémon are Houndour and Houndoom and the special bonus is 2× Transfer Candy .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Houndour",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
-        },
-        {
-          "name": "Houndoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Mega Squads",
     "url": "https://leekduck.com/events/mega-squads/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
