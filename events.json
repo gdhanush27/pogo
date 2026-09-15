@@ -1270,20 +1270,43 @@
     "is_ongoing": false
   },
   {
-    "name": "October Community Day",
+    "name": "Zorua Community Day",
     "url": "https://leekduck.com/events/october-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "October Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
+    "title": "Zorua Community Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The October Community Day event will take place on October 10, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Zorua will be featured during October Community Day!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Photobomb": [
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.s.icon.png"
+        },
+        {
+          "name": "Zoroark",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm571.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
