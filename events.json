@@ -1,173 +1,5 @@
 [
   {
-    "name": "Mega Squads",
-    "url": "https://leekduck.com/events/mega-squads/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
-    "title": "Mega Squads",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event! The Mega Squads event will take place from September 8, 2026 at 10 am to September 14, 2026 at 8 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debuts": [
-        {
-          "name": "Maschiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
-        },
-        {
-          "name": "Mabosstiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm943.icon.png"
-        }
-      ],
-      "New Mega Level: Super Max!": [
-        {
-          "name": "Mega Beedrill",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png"
-        },
-        {
-          "name": "Mega Houndoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Houndour",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
-        }
-      ],
-      "Throughout the Event": [
-        {
-          "name": "Weedle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
-        },
-        {
-          "name": "Flamigo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
-        }
-      ],
-      "September 8 at 10:00 a.m. – September 11 at 10:00 a.m.": [
-        {
-          "name": "Pidgey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png"
-        },
-        {
-          "name": "Emolga",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png"
-        },
-        {
-          "name": "Fletchling",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png"
-        },
-        {
-          "name": "Noibat",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
-        },
-        {
-          "name": "Rookidee",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
-        }
-      ],
-      "September 11 at 10:00 a.m. – September 14 at 8:00 p.m.": [
-        {
-          "name": "Houndour",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
-        },
-        {
-          "name": "Carvanha",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png"
-        },
-        {
-          "name": "Purrloin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_509_00.png"
-        },
-        {
-          "name": "Nickit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png"
-        }
-      ],
-      "In 5 km Eggs": [
-        {
-          "name": "Sandile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
-        },
-        {
-          "name": "Pancham",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png"
-        },
-        {
-          "name": "Maschiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
-        },
-        {
-          "name": "Flamigo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
-        }
-      ],
-      "raid_pokemon": {
-        "Mega Raids": [
-          {
-            "name": "Mega Houndoom",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png"
-          }
-        ]
-      },
-      "Mega Beedrill – Fell Stinger+": [
-        {
-          "name": "Mega Beedrill",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png"
-        }
-      ],
-      "Mega Houndoom – Dark Pulse+": [
-        {
-          "name": "Mega Houndoom",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png"
-        }
-      ],
-      "Shiny Debut": [
-        {
-          "name": "Flamigo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.s.icon.png"
-        }
-      ],
-      "Increased Shiny Chance": [
-        {
-          "name": "Pidgey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Rhyhorn during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-14/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Rhyhorn during Max Monday",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On September 14, 2026 , the featured Dynamax Pokémon is Rhyhorn .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Rhyhorn",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-28-twilight-trails.png",
@@ -472,6 +304,10 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png"
         },
         {
+          "name": "Rhyhorn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png"
+        },
+        {
           "name": "Eevee",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png"
         },
@@ -480,16 +316,12 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png"
         },
         {
-          "name": "Sprigatito",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png"
+          "name": "Nacli",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm932.icon.png"
         },
         {
-          "name": "Fuecoco",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
-        },
-        {
-          "name": "Quaxly",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png"
+          "name": "Tinkatink",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png"
         }
       ],
       "raid_pokemon": {
