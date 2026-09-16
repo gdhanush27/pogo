@@ -424,6 +424,22 @@
       ],
       "From 5:00 a.m. to 5:00 p.m.": [
         {
+          "name": "Charmander wearing Friede's goggles",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png"
+        },
+        {
+          "name": "Sprigatito",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png"
+        },
+        {
+          "name": "Fuecoco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
+        },
+        {
+          "name": "Quaxly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png"
+        },
+        {
           "name": "Fidough",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png"
         },
@@ -434,12 +450,28 @@
       ],
       "From 5:00 p.m. to 5:00 a.m.": [
         {
+          "name": "Charmander wearing Friede's goggles",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png"
+        },
+        {
           "name": "Eevee",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png"
         },
         {
           "name": "Hatenna",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png"
+        },
+        {
+          "name": "Sprigatito",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png"
+        },
+        {
+          "name": "Fuecoco",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png"
+        },
+        {
+          "name": "Quaxly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png"
         }
       ],
       "raid_pokemon": {
@@ -480,16 +512,6 @@
         {
           "name": "Charizard wearing Friede's goggles",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm6.fGOGGLES_2026.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Charmander wearing Friede's goggles",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png"
-        },
-        {
-          "name": "Captain's Cap Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png"
         }
       ]
     },
