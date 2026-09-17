@@ -55,10 +55,26 @@
       "Raid Day"
     ],
     "pokemon_sections": {
+      "Mega-Evolved Pokémon Debut": [
+        {
+          "name": "Mega Staraptor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.icon.png"
+        }
+      ],
+      "Featured Pokémon": [
+        {
+          "name": "Mega Staraptor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.icon.png"
+        }
+      ],
       "Shiny": [
         {
           "name": "Staraptor",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_398_00_shiny.png"
+        },
+        {
+          "name": "Mega Staraptor",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.s.icon.png"
         }
       ]
     },
