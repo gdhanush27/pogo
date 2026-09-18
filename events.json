@@ -457,7 +457,7 @@
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On September 28, 2026 , the featured Dynamax Pokémon is Sobble .",
+    "description": "Dynamax Sobble may appear in Max Battles from September 28, 2026 through October 4, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On September 28, 2026 , the featured Dynamax Pokémon is Sobble .",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
     "detail_types": [
       "Max Mondays"
@@ -595,6 +595,30 @@
           }
         ]
       }
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Seedot Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Seedot Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 1 : The featured Pokémon is Seedot and the special bonus is 2× Catch XP .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Seedot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png"
+        }
+      ]
     },
     "is_ongoing": false
   },
@@ -919,6 +943,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Dynamax Sizzlipede during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Sizzlipede during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Sizzlipede may appear in Max Battles from October 5, 2026 through October 11, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 5, 2026 , the featured Dynamax Pokémon is Sizzlipede .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Sizzlipede",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "GO Pass: September",
     "url": "https://leekduck.com/events/go-pass-september-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
@@ -1037,6 +1085,47 @@
     "is_ongoing": false
   },
   {
+    "name": "Yveltal Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261007/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Yveltal Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Yveltal is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Elgyem Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Elgyem Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 8 : The featured Pokémon is Elgyem and the special bonus is 2× Catch Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Elgyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Zorua Community Day",
     "url": "https://leekduck.com/events/october-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
@@ -1077,6 +1166,47 @@
     "is_ongoing": false
   },
   {
+    "name": "???",
+    "url": "https://leekduck.com/events/unannounced-event-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "???",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "An unannounced event will take place from October 4, 2026 through October 10, 2026. Event times and further details have not been announced. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Rookidee during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-12/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Rookidee during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Rookidee may appear in Max Battles from October 12, 2026 through October 18, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 12, 2026 , the featured Dynamax Pokémon is Rookidee .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-28-twilight-trails.png",
@@ -1094,6 +1224,99 @@
     "is_ongoing": false
   },
   {
+    "name": "Mega Blastoise in Mega Raids",
+    "url": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Blastoise in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Blastoise will be in Mega Raids from October 7, 2026 at 6 am to October 13, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Blastoise",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00_shiny.png"
+        },
+        {
+          "name": "Mega Blastoise",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Yveltal in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/yveltal-2.jpg",
+    "title": "Yveltal in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Yveltal will be in five-star raid battles from October 7, 2026 to October 13, 2026. There will also be a Raid Hour featuring Yveltal from 6:00 p.m. to 7:00 p.m. local time on October 7.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Yveltal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Dialga Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261014/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Dialga Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Dialga is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Stufful Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Stufful Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 15 : The featured Pokémon is Stufful and the special bonus is 2× Transfer Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Stufful",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Hatch Day",
     "url": "https://leekduck.com/events/hatch-day-october-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1103,6 +1326,47 @@
     "end_date": null,
     "end_time": null,
     "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Sneasel during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-19/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Sneasel during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Sneasel may appear in Max Battles from October 19, 2026 through October 25, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 19, 2026 , the featured Dynamax Pokémon is Sneasel .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Fall Marathon: Buddy Trek",
+    "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Fall Marathon: Buddy Trek",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Fall Marathon: Buddy Trek event will take place from October 13, 2026 through October 19, 2026. Event times and further details have not been announced. Stay tuned for more details.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Event"
@@ -1128,20 +1392,137 @@
     "is_ongoing": false
   },
   {
-    "name": "Max Battle Day",
-    "url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Max Battle Day",
+    "name": "Dialga in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/dialgaraids.jpg",
+    "title": "Dialga in 5-star Raid Battles",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
+    "description": "Dialga will be in five-star raid battles from October 14, 2026 to October 20, 2026. There will also be a Raid Hour featuring Dialga from 6:00 p.m. to 7:00 p.m. local time on October 14.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Dragonite in Mega Raids",
+    "url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Dragonite in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Dragonite will be in Mega Raids from October 14, 2026 at 6 am to October 20, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Dragonite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00_shiny.png"
+        },
+        {
+          "name": "Mega Dragonite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Palkia Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261021/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Palkia Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Palkia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Morelull Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Morelull Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 22 : The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Morelull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Max Battle Day",
+    "url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Dynamax Max Battle Day",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Dynamax Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Max Battles"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Sableye during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Sableye during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 26, 2026 , the featured Dynamax Pokémon is Sableye .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1162,6 +1543,103 @@
     "is_ongoing": false
   },
   {
+    "name": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Charizard X and Mega Charizard Y will be in Mega Raids from October 21, 2026 at 6 am to October 27, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Charizard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png"
+        },
+        {
+          "name": "Mega Charizard X",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51_shiny.png"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Palkia in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/palkiaraid.jpg",
+    "title": "Palkia in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Palkia will be in five-star raid battles from October 21, 2026 to October 27, 2026. There will also be a Raid Hour featuring Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Palkia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Giratina (Origin Forme) Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261028/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Giratina (Origin Forme) Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Gastly Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Gastly Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 29 : The featured Pokémon is Gastly and the special bonus is 2× Evolution XP .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Gastly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Super Mega Raid Day",
     "url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1179,6 +1657,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Halloween 2026 Part I",
+    "url": "https://leekduck.com/events/halloween-2026-part-1/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Halloween 2026 Part I",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Halloween 2026 Part I event will take place from October 27, 2026 through October 31, 2026. Event times and further details have not been announced. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
@@ -1191,6 +1686,107 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
     "detail_types": [
       "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Shadow Landorus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from October 7, 2026 to November 3, 2026. If you’re lucky, you may encounter Shiny Shadow Landorus (Incarnate Forme)!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Landorus (Incarnate)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Landorus (Incarnate)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Giratina (Origin Forme) in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/giratinaoriginforme.jpg",
+    "title": "Giratina (Origin Forme) in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Giratina (Origin) will be in five-star raid battles from October 28, 2026 to November 3, 2026. There will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 p.m. to 7:00 p.m. local time on October 28.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Giratina (Origin)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Sableye in Mega Raids",
+    "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Sableye in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Sableye will be in Mega Raids from October 28, 2026 at 6 am to November 3, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png"
+        },
+        {
+          "name": "Mega Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Halloween 2026 Part II",
+    "url": "https://leekduck.com/events/halloween-2026-part-2/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Halloween 2026 Part II",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Halloween 2026 Part II event will take place from November 1, 2026 through November 5, 2026. Event times and further details have not been announced. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
