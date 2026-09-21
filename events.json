@@ -1,45 +1,5 @@
 [
   {
-    "name": "Staraptor Super Mega Raid Day",
-    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
-    "title": "Staraptor Super Mega Raid Day",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Mega-Evolved Pokémon Debut": [
-        {
-          "name": "Mega Staraptor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.icon.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Mega Staraptor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Staraptor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_398_00_shiny.png"
-        },
-        {
-          "name": "Mega Staraptor",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm398.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-09-21/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -1142,16 +1102,16 @@
     "is_ongoing": false
   },
   {
-    "name": "???",
-    "url": "https://leekduck.com/events/unannounced-event-october-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "???",
+    "name": "World Space Week 2026",
+    "url": "https://leekduck.com/events/world-space-week-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
+    "title": "World Space Week 2026",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "An unannounced event will take place from October 4, 2026 through October 10, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Blast off with Astronaut Pikachu during World Space Week! This new costumed Pokémon makes its Pokémon GO debut in raids and free Timed Research. This global event is part of a collaboration between the European Space Agency and The Pokémon Company. World Space Week takes place from Sunday, October 4, 2026, at 12:00 a.m. to Saturday, October 10, 2026, at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
     "detail_types": [
       "Event"
     ],
