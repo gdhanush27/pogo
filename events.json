@@ -1240,18 +1240,121 @@
   {
     "name": "Fall Marathon: Buddy Trek",
     "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
     "title": "Fall Marathon: Buddy Trek",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Fall Marathon: Buddy Trek event will take place from October 13, 2026 through October 19, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Bramblin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
+        }
+      ],
+      "Mega Manectric": [
+        {
+          "name": "Mega Manectric",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png"
+        }
+      ],
+      "October 13 at 10:00 a.m. to October 16 at 10:00 a.m. local time": [
+        {
+          "name": "Galarian Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Dwebble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png"
+        },
+        {
+          "name": "Bramblin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
+        }
+      ],
+      "October 16 at 10:00 a.m. to October 19 at 8:00 p.m. local time": [
+        {
+          "name": "Hisuian Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Nincada",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Helioptile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
+        },
+        {
+          "name": "Bramblin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
+        }
+      ],
+      "Field Research Task Rewards": [
+        {
+          "name": "Doduo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Bramblin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Hisuian Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Ponyta",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
+        },
+        {
+          "name": "Doduo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Blitzle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png"
+        },
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
