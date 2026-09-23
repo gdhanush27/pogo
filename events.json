@@ -1,37 +1,5 @@
 [
   {
-    "name": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-09-21/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On September 21, 2026 , the featured Dynamax Pokémon are Articuno, Zapdos, and Moltres .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Articuno",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
-        },
-        {
-          "name": "Zapdos",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
-        },
-        {
-          "name": "Moltres",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
