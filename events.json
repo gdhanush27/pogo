@@ -72,6 +72,786 @@
     "is_ongoing": false
   },
   {
+    "name": "Brisbane, Australia - Pokémon GO City Safari",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-brisbane-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/safarizone-default.jpg",
+    "title": "Brisbane, Australia - Pokémon GO City Safari",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon GO City Safari takes place in Brisbane, Australia, on September 26 and 27, 2026, from 10 am to 6 pm AEST each day. One-day tickets cost AU$17, including taxes and fees. Event gameplay requires a ticket and attendance in Brisbane. Official event details",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/safarizone-default.jpg",
+    "detail_types": [
+      "City Safari"
+    ],
+    "pokemon_sections": {
+      "Eevee wearing an explorer hat": [
+        {
+          "name": "Explorer Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Unown B",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown R",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png"
+        },
+        {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
+          "name": "Miltank",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Baltoy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png"
+        },
+        {
+          "name": "Buizel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png"
+        },
+        {
+          "name": "Lillipup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png"
+        },
+        {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
+          "name": "Yamask",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png"
+        },
+        {
+          "name": "Gothita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+        },
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+        },
+        {
+          "name": "Clauncher",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Marseille, France - Pokémon GO City Safari",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-marseille-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/safarizone-default.jpg",
+    "title": "Marseille, France - Pokémon GO City Safari",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore Marseille on September 26–27, 2026, from 10 am–6 pm CEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Marseille. Official event details",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/safarizone-default.jpg",
+    "detail_types": [
+      "City Safari"
+    ],
+    "pokemon_sections": {
+      "Eevee wearing an explorer hat": [
+        {
+          "name": "Explorer Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Unown B",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown R",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png"
+        },
+        {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
+          "name": "Miltank",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Baltoy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png"
+        },
+        {
+          "name": "Buizel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png"
+        },
+        {
+          "name": "Lillipup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png"
+        },
+        {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
+          "name": "Yamask",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png"
+        },
+        {
+          "name": "Gothita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+        },
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+        },
+        {
+          "name": "Clauncher",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Munich, Germany - Pokémon GO City Safari",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-munich-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/safarizone-default.jpg",
+    "title": "Munich, Germany - Pokémon GO City Safari",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore Munich on September 26–27, 2026, from 10 am–6 pm CEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Munich. Official event details",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/safarizone-default.jpg",
+    "detail_types": [
+      "City Safari"
+    ],
+    "pokemon_sections": {
+      "Eevee wearing an explorer hat": [
+        {
+          "name": "Explorer Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Unown B",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown R",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png"
+        },
+        {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
+          "name": "Miltank",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Baltoy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png"
+        },
+        {
+          "name": "Buizel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png"
+        },
+        {
+          "name": "Lillipup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png"
+        },
+        {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
+          "name": "Yamask",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png"
+        },
+        {
+          "name": "Gothita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+        },
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+        },
+        {
+          "name": "Clauncher",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Lisbon, Portugal - Pokémon GO City Safari",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-lisbon-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/safarizone-default.jpg",
+    "title": "Lisbon, Portugal - Pokémon GO City Safari",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore Lisbon on September 26–27, 2026, from 10 am–6 pm WEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Lisbon. Official event details",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/safarizone-default.jpg",
+    "detail_types": [
+      "City Safari"
+    ],
+    "pokemon_sections": {
+      "Eevee wearing an explorer hat": [
+        {
+          "name": "Explorer Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Unown B",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown R",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png"
+        },
+        {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
+          "name": "Miltank",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Baltoy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png"
+        },
+        {
+          "name": "Buizel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png"
+        },
+        {
+          "name": "Lillipup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png"
+        },
+        {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
+          "name": "Yamask",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png"
+        },
+        {
+          "name": "Gothita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+        },
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+        },
+        {
+          "name": "Clauncher",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "url": "https://leekduck.com/events/pokemon-go-city-safari-rio-de-janeiro-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/safarizone-default.jpg",
+    "title": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore Rio de Janeiro on September 26–27, 2026, from 10 am–6 pm BRT daily. Tickets: R$38 for one day, including taxes and fees. Ticketed gameplay requires attendance in Rio de Janeiro. Official event details",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/safarizone-default.jpg",
+    "detail_types": [
+      "City Safari"
+    ],
+    "pokemon_sections": {
+      "Eevee wearing an explorer hat": [
+        {
+          "name": "Explorer Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+        },
+        {
+          "name": "Abra",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Totodile",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+        },
+        {
+          "name": "Mareep",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png"
+        },
+        {
+          "name": "Marill",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png"
+        },
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Unown B",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png"
+        },
+        {
+          "name": "Unown L",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png"
+        },
+        {
+          "name": "Unown M",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png"
+        },
+        {
+          "name": "Unown R",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png"
+        },
+        {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
+          "name": "Miltank",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Baltoy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png"
+        },
+        {
+          "name": "Buizel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png"
+        },
+        {
+          "name": "Lillipup",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png"
+        },
+        {
+          "name": "Petilil",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png"
+        },
+        {
+          "name": "Yamask",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png"
+        },
+        {
+          "name": "Gothita",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+        },
+        {
+          "name": "Orange Flower Flabébé",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
+        },
+        {
+          "name": "Binacle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+        },
+        {
+          "name": "Clauncher",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png"
+        },
+        {
+          "name": "Hawlucha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
+        },
+        {
+          "name": "Mudbray",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
+        },
+        {
+          "name": "Oranguru",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
+        },
+        {
+          "name": "Komala",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
+        },
+        {
+          "name": "Flamigo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Choose Your Path: Twilight Trails",
     "url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-twilight-trails-2026.jpg",
