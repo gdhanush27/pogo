@@ -1,29 +1,5 @@
 [
   {
-    "name": "Rattata Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Rattata Spotlight Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. There will be an increased chance to encounter XXS Rattata. September 24 : The featured Pokémon is Rattata and the special bonus is 2× Evolution XP .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Rattata",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Phantump Catch Mastery",
     "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
@@ -74,14 +50,14 @@
   {
     "name": "Brisbane, Australia - Pokémon GO City Safari",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-brisbane-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/safarizone-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/city-safari-brisbane-2026.jpg",
     "title": "Brisbane, Australia - Pokémon GO City Safari",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Pokémon GO City Safari takes place in Brisbane, Australia, on September 26 and 27, 2026, from 10 am to 6 pm AEST each day. One-day tickets cost AU$17, including taxes and fees. Event gameplay requires a ticket and attendance in Brisbane. Official event details",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/safarizone-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/city-safari-brisbane-2026.jpg",
     "detail_types": [
       "City Safari"
     ],
@@ -230,14 +206,14 @@
   {
     "name": "Marseille, France - Pokémon GO City Safari",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-marseille-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/safarizone-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/city-safari-marseille-2026.jpg",
     "title": "Marseille, France - Pokémon GO City Safari",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Explore Marseille on September 26–27, 2026, from 10 am–6 pm CEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Marseille. Official event details",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/safarizone-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/city-safari-marseille-2026.jpg",
     "detail_types": [
       "City Safari"
     ],
@@ -386,14 +362,14 @@
   {
     "name": "Munich, Germany - Pokémon GO City Safari",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-munich-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/safarizone-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/city-safari-munich-2026.jpg",
     "title": "Munich, Germany - Pokémon GO City Safari",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Explore Munich on September 26–27, 2026, from 10 am–6 pm CEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Munich. Official event details",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/safarizone-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/city-safari-munich-2026.jpg",
     "detail_types": [
       "City Safari"
     ],
@@ -542,14 +518,14 @@
   {
     "name": "Lisbon, Portugal - Pokémon GO City Safari",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-lisbon-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/safarizone-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/city-safari-lisbon-2026.jpg",
     "title": "Lisbon, Portugal - Pokémon GO City Safari",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Explore Lisbon on September 26–27, 2026, from 10 am–6 pm WEST daily. Tickets: €10 for one day, including taxes and fees. Ticketed gameplay requires attendance in Lisbon. Official event details",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/safarizone-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/city-safari-lisbon-2026.jpg",
     "detail_types": [
       "City Safari"
     ],
@@ -698,14 +674,14 @@
   {
     "name": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-rio-de-janeiro-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/safarizone-default.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/city-safari-rio-de-janeiro-2026.jpg",
     "title": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
     "description": "Explore Rio de Janeiro on September 26–27, 2026, from 10 am–6 pm BRT daily. Tickets: R$38 for one day, including taxes and fees. Ticketed gameplay requires attendance in Rio de Janeiro. Official event details",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/safarizone-default.jpg",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/city-safari-rio-de-janeiro-2026.jpg",
     "detail_types": [
       "City Safari"
     ],
