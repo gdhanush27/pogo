@@ -1912,6 +1912,32 @@
     "is_ongoing": false
   },
   {
+    "name": "Pokémon TCG: 30th Celebration",
+    "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
+    "title": "Pokémon TCG: 30th Celebration",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Celebrate the release of Pokémon TCG: 30th Celebration! Visit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research. The event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In Mega Raids": [
+          {
+            "name": "Mega Gengar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png"
+          }
+        ]
+      }
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Dialga in 5-star Raid Battles",
     "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/dialgaraids.jpg",
