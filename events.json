@@ -376,8 +376,16 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.cSPRING_2024.icon.png"
         },
         {
+          "name": "Skiddo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm672.icon.png"
+        },
+        {
           "name": "Applin",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
         }
       ],
       "Shiny Debut": [
@@ -418,10 +426,6 @@
       ],
       "spawns": [
         {
-          "name": "Snorlax",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
-        },
-        {
           "name": "Shroomish",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_285_00.png"
         },
@@ -440,6 +444,10 @@
         {
           "name": "Smoliv",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png"
+        },
+        {
+          "name": "Snorlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
         },
         {
           "name": "Applin",
