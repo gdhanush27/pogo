@@ -274,6 +274,28 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png"
         }
       ],
+      "Taken Over Spawns": [
+        {
+          "name": "Ekans",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_023_00.png"
+        },
+        {
+          "name": "Koffing",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png"
+        },
+        {
+          "name": "Magmar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+        },
+        {
+          "name": "Numel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png"
+        }
+      ],
       "Shiny Debut": [
         {
           "name": "Applin",
@@ -338,6 +360,26 @@
         {
           "name": "Applin",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Ekans",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_023_00.png"
+        },
+        {
+          "name": "Koffing",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png"
+        },
+        {
+          "name": "Magmar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png"
+        },
+        {
+          "name": "Slugma",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+        },
+        {
+          "name": "Numel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png"
         }
       ]
     },
@@ -393,6 +435,36 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_088_61.png"
         }
       ],
+      "Harvest Festival Spawns": [
+        {
+          "name": "Snorlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
+        },
+        {
+          "name": "Shroomish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_285_00.png"
+        },
+        {
+          "name": "Foongus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png"
+        },
+        {
+          "name": "Skwovet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png"
+        },
+        {
+          "name": "Applin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+        },
+        {
+          "name": "Smoliv",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png"
+        }
+      ],
       "Shiny Shroodle Debut": [
         {
           "name": "Shroodle",
@@ -411,8 +483,16 @@
       ],
       "spawns": [
         {
+          "name": "Ekans",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_023_00.png"
+        },
+        {
           "name": "Koffing",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png"
+        },
+        {
+          "name": "Magmar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png"
         },
         {
           "name": "Slugma",
@@ -423,8 +503,32 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png"
         },
         {
-          "name": "Magmar",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png"
+          "name": "Snorlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
+        },
+        {
+          "name": "Shroomish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_285_00.png"
+        },
+        {
+          "name": "Foongus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png"
+        },
+        {
+          "name": "Skwovet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png"
+        },
+        {
+          "name": "Applin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png"
+        },
+        {
+          "name": "Lechonk",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+        },
+        {
+          "name": "Smoliv",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png"
         }
       ]
     },
@@ -1137,6 +1241,60 @@
       "Max Battles"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Minior Showers: Orionids 2026",
+    "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Orionids 2026",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Orionids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from October 19, 2026 at 5:00 p.m. to October 24, 2026 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -2751,6 +2909,60 @@
     "is_ongoing": false
   },
   {
+    "name": "Minior Showers: Leonids 2026",
+    "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Leonids 2026",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Leonids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from November 14, 2026 at 5:00 p.m. to November 19, 2026 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Minior Cores": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "November Community Day",
     "url": "https://leekduck.com/events/november-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
@@ -3058,6 +3270,60 @@
     "is_ongoing": false
   },
   {
+    "name": "Minior Showers: Geminids 2026",
+    "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Geminids 2026",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Geminids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from December 11, 2026 at 5:00 p.m. to December 16, 2026 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Minior Cores": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "adidas × Pokémon Timed Research",
     "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemon-x-adidas-2026.jpg",
@@ -3125,6 +3391,168 @@
       "Pokémon GO Tour"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Minior Showers: Eta Aquariids 2027",
+    "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Eta Aquariids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from May 3, 2027 at 5:00 p.m. to May 8, 2027 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Minior Cores": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Minior Showers: Southern Delta Aquariids 2027",
+    "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Southern Delta Aquariids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from July 28, 2027 at 5:00 p.m. to August 2, 2027 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Minior Cores": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Minior Showers: Perseids 2027",
+    "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
+    "title": "Minior Showers: Perseids 2027",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Explore by starlight during the Perseids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from August 10, 2027 at 5:00 p.m. to August 15, 2027 at 11:59 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {
+      "Minior Cores": [
+        {
+          "name": "Minior (Red Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Orange Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Yellow Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Green Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Blue Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Indigo Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Minior (Violet Core)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        }
+      ]
+    },
     "is_ongoing": false
   }
 ]
