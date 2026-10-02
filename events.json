@@ -1227,20 +1227,49 @@
     "is_ongoing": false
   },
   {
-    "name": "Dynamax Max Battle Day",
-    "url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Dynamax Max Battle Day",
+    "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "url": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
+    "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Dynamax Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "The Dynamax Uxie, Mesprit, and Azelf Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
     "detail_types": [
       "Max Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Dynamax Debuts": [
+        {
+          "name": "Uxie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png"
+        },
+        {
+          "name": "Mesprit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png"
+        },
+        {
+          "name": "Azelf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Uxie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png"
+        },
+        {
+          "name": "Mesprit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png"
+        },
+        {
+          "name": "Azelf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
