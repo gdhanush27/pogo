@@ -1,37 +1,5 @@
 [
   {
-    "name": "LEGO Stores and Pokémon GO",
-    "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
-    "title": "LEGO Stores and Pokémon GO",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play. The LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "How stamp rallies work": [
-        {
-          "name": "Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-        }
-      ],
-      "raid_pokemon": {
-        "In 1-Star Raids": [
-          {
-            "name": "Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
-          }
-        ]
-      }
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Seedot Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
@@ -1253,6 +1221,24 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Twitch Drops for Pokémon Night Out 2026",
+    "url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg",
+    "title": "Twitch Drops for Pokémon Night Out 2026",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch. Tune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar. The broadcast end time and the code and Timed Research expiration dates have not been announced.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg",
+    "detail_types": [
+      "Twitch Drops",
+      "Research"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
