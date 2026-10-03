@@ -698,7 +698,22 @@
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Astronaut Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.icon.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Astronaut Pikachu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
