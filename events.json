@@ -1,29 +1,5 @@
 [
   {
-    "name": "Seedot Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Seedot Spotlight Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 1 : The featured Pokémon is Seedot and the special bonus is 2× Catch XP .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Seedot",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Patterns of the Wild",
     "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
