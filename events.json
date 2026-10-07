@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Sizzlipede during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-05/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Sizzlipede during Max Monday",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Dynamax Sizzlipede may appear in Max Battles from October 5, 2026 through October 11, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 5, 2026 , the featured Dynamax Pokémon is Sizzlipede .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Sizzlipede",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "GO Pass: September",
     "url": "https://leekduck.com/events/go-pass-september-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
@@ -1181,7 +1157,7 @@
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. JST (UTC+9) Location: Sendai, Japan, with gameplay throughout Miyagi Prefecture Ticket: ¥4,000 (including applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Ticket registration: Register from September 11 at 8:00 a.m. JST through September 15, 2026, at 7:59 a.m. JST . Registered Trainers will be notified of their purchase window afterward. Tickets are first come, first served, and registration does not guarantee availability. Read the ticket registration announcement .",
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Gigantamax Duraludon, Dynamax Dialga, and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. JST (UTC+9) Location: Sendai, Japan, with gameplay throughout Miyagi Prefecture Ticket: ¥4,000 (including applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Ticket registration: Register from September 11 at 8:00 a.m. JST through September 15, 2026, at 7:59 a.m. JST . Registered Trainers will be notified of their purchase window afterward. Tickets are first come, first served, and registration does not guarantee availability. Read the ticket registration announcement .",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
     "detail_types": [
       "Wild Area",
@@ -1189,6 +1165,12 @@
       "Ticketed Event"
     ],
     "pokemon_sections": {
+      "Gigantamax Duraludon Debuts": [
+        {
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/gigantamax-duraludon.png"
+        }
+      ],
       "Hisuian Sliggoo and Hisuian Goodra Debut": [
         {
           "name": "Hisuian Sliggoo",
@@ -1583,14 +1565,10 @@
           }
         ]
       },
-      "Max Battles": [
+      "Six-Star Max Battles": [
         {
-          "name": "Dialga",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
-        },
-        {
-          "name": "Palkia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/gigantamax-duraludon.png"
         }
       ],
       "Shiny": [
@@ -1615,7 +1593,7 @@
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. local time (UTC−6) Location: Mexico City, Mexico, with gameplay throughout the metropolitan area Ticket: MXN$350 (plus applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Tickets are available on the official event ticket page , while supplies last.",
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Gigantamax Duraludon, Dynamax Dialga, and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 6, 7, or 8, 2026 Time: 10:00 a.m. – 6:00 p.m. local time (UTC−6) Location: Mexico City, Mexico, with gameplay throughout the metropolitan area Ticket: MXN$350 (plus applicable taxes and fees) for one day All event gameplay is exclusive to ticket holders. A standard ticket covers one selected day; Extra Day add-ons extend eligible gameplay to additional days. Gameplay is available only within the event area at the date and time specified on your ticket. Tickets are available on the official event ticket page , while supplies last.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
     "detail_types": [
       "Wild Area",
@@ -1623,6 +1601,12 @@
       "Ticketed Event"
     ],
     "pokemon_sections": {
+      "Gigantamax Duraludon Debuts": [
+        {
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/gigantamax-duraludon.png"
+        }
+      ],
       "Hisuian Sliggoo and Hisuian Goodra Debut": [
         {
           "name": "Hisuian Sliggoo",
@@ -2017,14 +2001,10 @@
           }
         ]
       },
-      "Max Battles": [
+      "Six-Star Max Battles": [
         {
-          "name": "Dialga",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
-        },
-        {
-          "name": "Palkia",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png"
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/gigantamax-duraludon.png"
         }
       ],
       "Shiny": [
@@ -2066,13 +2046,19 @@
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 14 and 15, 2026 Time: 10:00 a.m. – 6:00 p.m. local time each day Location: Worldwide All Trainers can participate in the global event. An optional US$11.99 ticket adds Special Research, increased Shiny chances, extra Incense encounters, and additional bonuses across both days. Purchase a ticket from the Pokémon GO Web Store .",
+    "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Gigantamax Duraludon, Dynamax Dialga, and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters! Dates: November 14 and 15, 2026 Time: 10:00 a.m. – 6:00 p.m. local time each day Location: Worldwide All Trainers can participate in the global event. An optional US$11.99 ticket adds Special Research, increased Shiny chances, extra Incense encounters, and additional bonuses across both days. Purchase a ticket from the Pokémon GO Web Store .",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg",
     "detail_types": [
       "Wild Area",
       "Ticketed Event"
     ],
     "pokemon_sections": {
+      "Gigantamax Duraludon Debuts": [
+        {
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/gigantamax-duraludon.png"
+        }
+      ],
       "Solid as Steel Hour": [
         {
           "name": "Alolan Sandshrew",
@@ -2351,6 +2337,12 @@
           }
         ]
       },
+      "Six-Star Max Battles": [
+        {
+          "name": "Gigantamax Duraludon",
+          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/gigantamax-duraludon.png"
+        }
+      ],
       "Machamp wearing a modern jacket": [
         {
           "name": "Modern Jacket Machamp",
