@@ -1,106 +1,5 @@
 [
   {
-    "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "The Master League and Mega Color Cup: Great League Edition will run from September 29, 2026, at 1:00 p.m. to October 6, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
-    "name": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-    "url": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Shadow Thundurus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from September 9, 2026 to October 6, 2026. If you’re lucky, you may encounter Shiny Shadow Thundurus (Incarnate Forme)!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "In 5-Star Shadow Raids": [
-          {
-            "name": "Thundurus (Incarnate)",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Thundurus (Incarnate)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Mega Victreebel in Mega Raids",
-    "url": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Victreebel in Mega Raids",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Mega Victreebel will be in Mega Raids from September 30, 2026 at 6 am to October 6, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Victreebel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_071_00_shiny.png"
-        },
-        {
-          "name": "Mega Victreebel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Xerneas in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/xerneas-woods.jpg",
-    "title": "Xerneas in 5-star Raid Battles",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Xerneas will be in five-star raid battles from September 30, 2026 to October 6, 2026. There will also be a Raid Hour featuring Xerneas from 6:00 p.m. to 7:00 p.m. local time on September 30.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg",
-    "detail_types": [
-      "Raid Battles"
-    ],
-    "pokemon_sections": {
-      "Shiny": [
-        {
-          "name": "Xerneas",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Yveltal Raid Hour",
     "url": "https://leekduck.com/events/raidhour20261007/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -947,7 +846,7 @@
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "Celebrate Halloween with the debut of Pikachu wearing a hat and capelet, Zubat wearing a top hat, and Sinistea wearing a bow! Discover spooky surprises in the wild and unlock Candy and Stardust bonuses with the event GO Pass. Halloween 2026 Part I runs from Tuesday, October 27, at 10:00 a.m. to Sunday, November 1, 2026, at 10:00 a.m. local time .",
+    "description": "Celebrate Halloween with the debut of Pikachu wearing a hat and capelet, Zubat wearing a top hat, and Sinistea wearing a bow! Discover spooky surprises in the wild and unlock Candy and Stardust bonuses with the event GO Pass. Halloween 2026 Part I runs from Tuesday, October 27, at 10:00 a.m. to Sunday, November 1, 2026, at 10:00 a.m. local time . The celebration continues in Halloween 2026 Part II , featuring Shiny Greavard’s debut and Mega Sableye’s new Super Max level.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/halloween-2026-part-1.jpg",
     "detail_types": [
       "Event"
@@ -1115,20 +1014,67 @@
     "is_ongoing": false
   },
   {
-    "name": "Halloween 2026 Part II",
+    "name": "Pokémon GO Halloween 2026 Part II",
     "url": "https://leekduck.com/events/halloween-2026-part-2/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Halloween 2026 Part II",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/halloween-2026-part-2.jpg",
+    "title": "Pokémon GO Halloween 2026 Part II",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Halloween 2026 Part II event will take place from November 1, 2026 through November 5, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Shiny Greavard makes its Pokémon GO debut, and Mega Sableye can reach the new Super Max Mega Level! Halloween continues with costumed Pokémon, themed encounters, and GO Pass bonuses. Halloween 2026 Part II runs from Sunday, November 1, at 10:00 a.m. to Thursday, November 5, 2026, at 8:00 p.m. local time . See Halloween 2026 Part I for the first part of the celebration, including the debut of costumed Pikachu, Zubat, and Sinistea.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/halloween-2026-part-2.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Mega Sableye: Super Max Level": [
+        {
+          "name": "Mega Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Pikachu wearing a hat and capelet",
+            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/pikachu-hat-capelet.png"
+          },
+          {
+            "name": "Sinistea wearing a bow",
+            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/sinistea-bow.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Greavard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm971.s.icon.png"
+        },
+        {
+          "name": "Houndstone",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm972.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Litwick",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_607_00.png"
+        },
+        {
+          "name": "Rowlet wearing a Pokémon Halloween costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png"
+        },
+        {
+          "name": "Greavard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png"
+        },
+        {
+          "name": "Gengar wearing a Spooky Festival costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
