@@ -1,29 +1,5 @@
 [
   {
-    "name": "Elgyem Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Elgyem Spotlight Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 8 : The featured Pokémon is Elgyem and the special bonus is 2× Catch Candy .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Elgyem",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Zorua Community Day",
     "url": "https://leekduck.com/events/october-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
