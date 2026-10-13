@@ -1,77 +1,5 @@
 [
   {
-    "name": "Zorua Community Day",
-    "url": "https://leekduck.com/events/october-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
-    "title": "Zorua Community Day",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Zorua, the Tricky Fox Pokémon, will be featured during October Community Day!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.s.icon.png"
-        },
-        {
-          "name": "Zoroark",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm571.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Zorua",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "World Space Week 2026",
-    "url": "https://leekduck.com/events/world-space-week-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
-    "title": "World Space Week 2026",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Blast off with Astronaut Pikachu during World Space Week! This new costumed Pokémon makes its Pokémon GO debut in raids and free Timed Research. This global event is part of a collaboration between the European Space Agency and The Pokémon Company. World Space Week takes place from Sunday, October 4, 2026, at 12:00 a.m. to Saturday, October 10, 2026, at 11:59 p.m. local time .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "raid_pokemon": {
-        "One-Star Raids": [
-          {
-            "name": "Astronaut Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.icon.png"
-          }
-        ]
-      },
-      "Shiny": [
-        {
-          "name": "Astronaut Pikachu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Rookidee during Max Monday",
     "url": "https://leekduck.com/events/max-mondays-2026-10-12/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -262,6 +190,10 @@
         {
           "name": "Bramblin",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
+        },
+        {
+          "name": "Brambleghast",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm947.icon.png"
         }
       ],
       "Mega Manectric": [
@@ -314,20 +246,6 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
         }
       ],
-      "Field Research Task Rewards": [
-        {
-          "name": "Doduo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png"
-        },
-        {
-          "name": "Electrike",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
-        },
-        {
-          "name": "Bramblin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
-        }
-      ],
       "Shiny": [
         {
           "name": "Hisuian Growlithe",
@@ -348,8 +266,16 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png"
         },
         {
+          "name": "Stantler",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
+        },
+        {
           "name": "Electrike",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Cacnea",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png"
         },
         {
           "name": "Blitzle",
