@@ -706,20 +706,43 @@
     "is_ongoing": false
   },
   {
-    "name": "Super Mega Raid Day",
-    "url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Super Mega Raid Day",
+    "name": "Chandelure Super Mega Raid Day",
+    "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
+    "title": "Chandelure Super Mega Raid Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Super Mega Raid Day event will take place on October 31, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Mega Chandelure makes its Pokémon GO debut during Chandelure Super Mega Raid Day on Saturday, October 31, 2026, from 2:00 p.m. to 5:00 p.m. local time!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Mega Chandelure Debut": [
+        {
+          "name": "Mega Chandelure",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.icon.png"
+        }
+      ],
+      "Featured Pokémon": [
+        {
+          "name": "Mega Chandelure",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.icon.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Chandelure",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_609_00_shiny.png"
+        },
+        {
+          "name": "Mega Chandelure",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
