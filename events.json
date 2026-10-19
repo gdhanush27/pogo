@@ -1,43 +1,5 @@
 [
   {
-    "name": "Sandile Hatch Day",
-    "url": "https://leekduck.com/events/sandile-hatch-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
-    "title": "Sandile Hatch Day",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile! The Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Featured Pokémon": [
-        {
-          "name": "Sandile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Sandile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00_shiny.png"
-        },
-        {
-          "name": "Krokorok",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_552_00_shiny.png"
-        },
-        {
-          "name": "Krookodile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_553_00_shiny.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Fall Marathon: Buddy Trek",
     "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
