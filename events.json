@@ -342,6 +342,119 @@
     "is_ongoing": false
   },
   {
+    "name": "Pokémon Night Out 2026 - Los Angeles",
+    "url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemon-night-out-2026.jpg",
+    "title": "Pokémon Night Out 2026 - Los Angeles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Unconfirmed Pokémon GO hours: The time shown is based on the Pokémon Night Out concert schedule. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times. Celebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue! Date: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT End time: To be announced The Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemon-night-out-2026.jpg",
+    "detail_types": [
+      "Event",
+      "Location-specific"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Gengar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00.png"
+          }
+        ]
+      },
+      "Featured Research Encounters": [
+        {
+          "name": "Toxtricity (Low Key Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png"
+        },
+        {
+          "name": "Toxtricity (Amped Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Gastly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+        },
+        {
+          "name": "Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
+        },
+        {
+          "name": "Alolan Marowak",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png"
+        },
+        {
+          "name": "Hoothoot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
+        },
+        {
+          "name": "Murkrow",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png"
+        },
+        {
+          "name": "Houndour",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Carvanha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        },
+        {
+          "name": "Joltik",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+        },
+        {
+          "name": "Froakie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Unown P",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png"
+        },
+        {
+          "name": "Unown N",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png"
+        },
+        {
+          "name": "Unown O",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Minior Showers: Orionids 2026",
     "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
@@ -782,6 +895,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Dynamax Machop during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-02/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Machop during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On November 2, 2026 , the featured Dynamax Pokémon is Machop .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Machop",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "GO Pass: October",
     "url": "https://leekduck.com/events/go-pass-october-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-06-go-pass-october-2026/go-pass-october-2026.jpg",
@@ -872,28 +1009,41 @@
     "is_ongoing": false
   },
   {
-    "name": "Mega Sableye in Mega Raids",
-    "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-    "title": "Mega Sableye in Mega Raids",
+    "name": "Giratina (Altered Forme) Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261104/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Giratina (Altered Forme) Raid Hour",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "Mega Sableye will be in Mega Raids from October 28, 2026 at 6 am to November 3, 2026 at 10 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
     "detail_types": [
-      "Raid Battles"
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Teddiursa wearing a witch hat Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Teddiursa wearing a witch hat Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. November 5 : The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
     ],
     "pokemon_sections": {
-      "Shiny": [
+      "spawns": [
         {
-          "name": "Sableye",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png"
-        },
-        {
-          "name": "Mega Sableye",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png"
+          "name": "Teddiursa wearing a witch hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png"
         }
       ]
     },
@@ -1856,6 +2006,84 @@
     "is_ongoing": false
   },
   {
+    "name": "Mega Sableye in Mega Raids",
+    "url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Sableye in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Sableye will be in Mega Raids from October 28, 2026 at 6 am to November 8, 2026 at 10 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png"
+        },
+        {
+          "name": "Mega Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Giratina (Altered Forme) in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Giratina (Altered) will be in five-star raid battles from November 4, 2026 to November 8, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Giratina (Altered Forme) from 6:00 p.m. to 7:00 p.m. local time on November 4.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Giratina (Altered)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Shadow Tornadus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from November 4, 2026 to November 8, 2026.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Tornadus (Incarnate)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png"
+          }
+        ]
+      }
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-season-28-twilight-trails.png",
@@ -1870,6 +2098,119 @@
       "GO Battle League"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Pokémon Night Out 2026 - London",
+    "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemon-night-out-2026.jpg",
+    "title": "Pokémon Night Out 2026 - London",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Unconfirmed Pokémon GO hours: The times shown are based on the Pokémon Night Out event schedule, beginning when doors open. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times. Celebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue! Date: November 10, 2026 Location: O2 Arena, London, England Night Out event hours: 6:00 p.m. – 10:30 p.m. GMT (unconfirmed for Pokémon GO) The O2 listing gives a doors-open time of 6:00 p.m., and its official calendar lists an end time of 10:30 p.m. The concert’s performance start time is not specified.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemon-night-out-2026.jpg",
+    "detail_types": [
+      "Event",
+      "Location-specific"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Gengar",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00.png"
+          }
+        ]
+      },
+      "Featured Research Encounters": [
+        {
+          "name": "Toxtricity (Low Key Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png"
+        },
+        {
+          "name": "Toxtricity (Amped Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Gastly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+        },
+        {
+          "name": "Voltorb",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
+        },
+        {
+          "name": "Alolan Marowak",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png"
+        },
+        {
+          "name": "Hoothoot",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
+        },
+        {
+          "name": "Murkrow",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png"
+        },
+        {
+          "name": "Houndour",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
+        },
+        {
+          "name": "Electrike",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
+        },
+        {
+          "name": "Carvanha",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png"
+        },
+        {
+          "name": "Shinx",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png"
+        },
+        {
+          "name": "Zorua",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png"
+        },
+        {
+          "name": "Joltik",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+        },
+        {
+          "name": "Froakie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png"
+        },
+        {
+          "name": "Dedenne",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png"
+        },
+        {
+          "name": "Rookidee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png"
+        },
+        {
+          "name": "Unown P",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png"
+        },
+        {
+          "name": "Unown N",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png"
+        },
+        {
+          "name": "Unown O",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -2364,6 +2705,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Max Monday: Pokémon to be announced",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Max Monday: Pokémon to be announced",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details. These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. The featured Pokémon for Max Monday on November 16, 2026 will be announced later.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
@@ -2444,6 +2802,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Cresselia and Darkrai Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261118/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Cresselia and Darkrai Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Minior Showers: Leonids 2026",
     "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
@@ -2512,6 +2887,103 @@
       "Community Day"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Trails",
+    "url": "https://leekduck.com/events/dynamax-trails-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Dynamax Trails",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Dynamax Trails event will take place from November 16, 2026 to November 23, 2026. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Espurr during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Espurr during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On November 23, 2026 , the featured Dynamax Pokémon is Espurr .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Espurr",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Cresselia and Darkrai in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Cresselia and Darkrai in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Cresselia and Darkrai will be in five-star raid battles from November 16, 2026 to November 24, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Cresselia and Darkrai from 6:00 p.m. to 7:00 p.m. local time on November 18.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Cresselia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png"
+        },
+        {
+          "name": "Darkrai",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Banette in Mega Raids",
+    "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Banette in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Banette will be in Mega Raids from November 16, 2026 at 6 am to November 24, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Banette",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
+        },
+        {
+          "name": "Mega Banette",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -2595,6 +3067,47 @@
     "is_ongoing": false
   },
   {
+    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261125/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Noibat Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Noibat Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. November 26 : The featured Pokémon is Noibat and the special bonus is 2× Catch Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Noibat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Super Mega Raid Day",
     "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -2609,6 +3122,47 @@
       "Raid Day"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Twilight Wishes",
+    "url": "https://leekduck.com/events/twilight-wishes-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Twilight Wishes",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Twilight Wishes event will take place from November 24, 2026 to November 30, 2026. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Cryogonal during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Cryogonal during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On November 30, 2026 , the featured Dynamax Pokémon is Cryogonal .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Cryogonal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_615_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -2802,6 +3356,96 @@
       "GO Battle League"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Shadow Tornadus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from November 16, 2026 to December 1, 2026.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Tornadus (Incarnate)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png"
+          }
+        ]
+      }
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Deoxys (Normal), Deoxys (Defense), Deoxys (Attack), and Deoxys (Speed) will be in five-star raid battles from November 25, 2026 to December 1, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) from 6:00 p.m. to 7:00 p.m. local time on November 25.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Deoxys (Normal)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_11_shiny.png"
+        },
+        {
+          "name": "Deoxys (Defense)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13_shiny.png"
+        },
+        {
+          "name": "Deoxys (Attack)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12_shiny.png"
+        },
+        {
+          "name": "Deoxys (Speed)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Metagross in Mega Raids",
+    "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Metagross in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Metagross will be in Mega Raids from November 25, 2026 at 6 am to December 1, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Metagross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00_shiny.png"
+        },
+        {
+          "name": "Mega Metagross",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm376.fMEGA.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
