@@ -1,147 +1,5 @@
 [
   {
-    "name": "Fall Marathon: Buddy Trek",
-    "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
-    "title": "Fall Marathon: Buddy Trek",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Bramblin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
-        },
-        {
-          "name": "Brambleghast",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm947.icon.png"
-        }
-      ],
-      "Mega Manectric": [
-        {
-          "name": "Mega Manectric",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png"
-        }
-      ],
-      "October 13 at 10:00 a.m. to October 16 at 10:00 a.m. local time": [
-        {
-          "name": "Galarian Ponyta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png"
-        },
-        {
-          "name": "Hoppip",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png"
-        },
-        {
-          "name": "Electrike",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
-        },
-        {
-          "name": "Dwebble",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png"
-        },
-        {
-          "name": "Bramblin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
-        }
-      ],
-      "October 16 at 10:00 a.m. to October 19 at 8:00 p.m. local time": [
-        {
-          "name": "Hisuian Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
-        },
-        {
-          "name": "Nincada",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png"
-        },
-        {
-          "name": "Electrike",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
-        },
-        {
-          "name": "Helioptile",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png"
-        },
-        {
-          "name": "Bramblin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Hisuian Growlithe",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png"
-        },
-        {
-          "name": "Electrike",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Ponyta",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
-        },
-        {
-          "name": "Doduo",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png"
-        },
-        {
-          "name": "Stantler",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png"
-        },
-        {
-          "name": "Electrike",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png"
-        },
-        {
-          "name": "Cacnea",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png"
-        },
-        {
-          "name": "Blitzle",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png"
-        },
-        {
-          "name": "Skarmory",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Dynamax Sneasel during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-19/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Sneasel during Max Monday",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Dynamax Sneasel may appear in Max Battles from October 19, 2026 through October 25, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 19, 2026 , the featured Dynamax Pokémon is Sneasel .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Sneasel",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
@@ -2873,20 +2731,47 @@
     "is_ongoing": false
   },
   {
-    "name": "November Community Day",
+    "name": "Pawniard Community Day",
     "url": "https://leekduck.com/events/november-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
-    "title": "November Community Day",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
+    "title": "Pawniard Community Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The November Community Day event will take place on November 21, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+    "description": "Pawniard, the Sharp Blade Pokémon, will be featured during November Community Day! The event takes place on Saturday, November 21, 2026, from 2:00 p.m. to 5:00 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
     "detail_types": [
       "Community Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Photobomb": [
+        {
+          "name": "Pawniard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Pawniard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png"
+        },
+        {
+          "name": "Bisharp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png"
+        },
+        {
+          "name": "Kingambit",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Pawniard",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
