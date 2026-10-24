@@ -269,24 +269,6 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
         }
       ],
-      "Timed Research": [
-        {
-          "name": "Orange Flower Flabébé",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png"
-        },
-        {
-          "name": "Hawlucha",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png"
-        },
-        {
-          "name": "Mudbray",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png"
-        },
-        {
-          "name": "Komala",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png"
-        }
-      ],
       "spawns": [
         {
           "name": "Jigglypuff",
