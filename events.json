@@ -1,29 +1,5 @@
 [
   {
-    "name": "Morelull Spotlight Hour",
-    "url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
-    "title": "Morelull Spotlight Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. October 22 : The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-    "detail_types": [
-      "Pokémon Spotlight Hour"
-    ],
-    "pokemon_sections": {
-      "spawns": [
-        {
-          "name": "Morelull",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
     "url": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
