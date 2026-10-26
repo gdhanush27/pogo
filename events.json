@@ -1,35 +1,5 @@
 [
   {
-    "name": "Minior Showers: Orionids 2026",
-    "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
-    "title": "Minior Showers: Orionids 2026",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Explore by starlight during the Orionids meteor shower for a chance to encounter Minior in Pokémon GO! This Minior Shower runs from October 19, 2026 at 5:00 p.m. to October 24, 2026 at 11:59 p.m. local time .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
-    "detail_types": [
-      "Event"
-    ],
-    "pokemon_sections": {
-      "Pokémon Debut": [
-        {
-          "name": "Minior (Green Core)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Minior (Meteor Form)",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Pokémon GO City Safari: Boston (Rescheduled)",
     "url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/city-safari-boston-2026.jpg",
@@ -424,12 +394,36 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
         },
         {
+          "name": "Piplup wearing a Halloween Mischief costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Noibat wearing a headband",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png"
+        },
+        {
+          "name": "Pumpkaboo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.icon.png"
+        },
+        {
           "name": "Duskull",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_355_00.png"
         },
         {
-          "name": "Piplup wearing a Halloween Mischief costume",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+          "name": "Misdreavus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_200_00.png"
+        },
+        {
+          "name": "Drifblim wearing a Halloween Mischief costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Vulpix wearing a Spooky Festival costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png"
+        },
+        {
+          "name": "Gengar wearing a Tricks & Treats costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png"
         }
       ]
     },
