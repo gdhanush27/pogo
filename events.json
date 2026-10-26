@@ -558,33 +558,47 @@
       "Pokémon Debuts": [
         {
           "name": "Pikachu wearing a hat and capelet",
-          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/pikachu-hat-capelet.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png"
         },
         {
           "name": "Zubat wearing a top hat",
-          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/zubat-top-hat.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
         },
         {
           "name": "Sinistea wearing a bow",
-          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png"
         }
       ],
       "raid_pokemon": {
         "One-Star Raids": [
           {
             "name": "Pikachu wearing a hat and capelet",
-            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/pikachu-hat-capelet.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png"
           },
           {
             "name": "Sinistea wearing a bow",
-            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png"
           }
         ]
       },
+      "Shiny": [
+        {
+          "name": "Pikachu wearing a hat and capelet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHALLOWEEN_2026.s.icon.png"
+        },
+        {
+          "name": "Zubat wearing a top hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm41.fHALLOWEEN_2026_01.s.icon.png"
+        },
+        {
+          "name": "Sinistea wearing a bow",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.fP_HALLOWEEN_2026_01.s.icon.png"
+        }
+      ],
       "spawns": [
         {
           "name": "Zubat wearing a top hat",
-          "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/zubat-top-hat.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
         },
         {
           "name": "Duskull",
@@ -778,11 +792,11 @@
         "One-Star Raids": [
           {
             "name": "Pikachu wearing a hat and capelet",
-            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/pikachu-hat-capelet.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png"
           },
           {
             "name": "Sinistea wearing a bow",
-            "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/sinistea-bow.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png"
           }
         ]
       },
