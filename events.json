@@ -362,6 +362,48 @@
           "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png"
         }
       ],
+      "Trick or Treat!": [
+        {
+          "name": "Pikachu Candy ×6",
+          "image": "https://cdn.leekduck.com/assets/img/candy/regular/25.png"
+        },
+        {
+          "name": "Zubat Candy ×6",
+          "image": "https://cdn.leekduck.com/assets/img/candy/regular/41.png"
+        },
+        {
+          "name": "Sinistea Candy ×6",
+          "image": "https://cdn.leekduck.com/assets/img/candy/regular/854.png"
+        },
+        {
+          "name": "Vulpix wearing a Spooky Festival costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png"
+        },
+        {
+          "name": "Piplup wearing a Halloween Mischief costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Zubat wearing a top hat",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
+        },
+        {
+          "name": "Noibat wearing a headband",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png"
+        },
+        {
+          "name": "Drifblim wearing a Halloween Mischief costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Gengar wearing a Tricks & Treats costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Rare Candy ×1",
+          "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+        }
+      ],
       "raid_pokemon": {
         "One-Star Raids": [
           {
