@@ -1,29 +1,5 @@
 [
   {
-    "name": "Dynamax Sableye during Max Monday",
-    "url": "https://leekduck.com/events/max-mondays-2026-10-26/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-    "title": "Dynamax Sableye during Max Monday",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026 . These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On October 26, 2026 , the featured Dynamax Pokémon is Sableye .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-    "detail_types": [
-      "Max Mondays"
-    ],
-    "pokemon_sections": {
-      "Menu": [
-        {
-          "name": "Sableye",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
     "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
@@ -2240,6 +2216,38 @@
     "is_ongoing": false
   },
   {
+    "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. November 19 : The featured Pokémon are Grookey, Scorbunny, and Sobble and the special bonus is 2× Catch Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Grookey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
+        },
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+        },
+        {
+          "name": "Sobble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Minior Showers: Leonids 2026",
     "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
@@ -2294,6 +2302,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Eternamax Eternatus Returns",
+    "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
+    "title": "Eternamax Eternatus Returns",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Eternamax Eternatus returns during Dynamax Trails , taking over the majority of Power Spots on November 21, 2026, from 11 am to 2 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
+    "detail_types": [
+      "Max Battles"
+    ],
+    "pokemon_sections": {
+      "Eternamax Eternatus in Max Battles": [
+        {
+          "name": "Eternamax Eternatus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Pawniard Community Day",
     "url": "https://leekduck.com/events/november-communityday2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
@@ -2340,18 +2372,45 @@
   {
     "name": "Dynamax Trails",
     "url": "https://leekduck.com/events/dynamax-trails-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
     "title": "Dynamax Trails",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Dynamax Trails event will take place from November 16, 2026 to November 23, 2026. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Get ready for a week of Max Battles! Dynamax Pokémon return, Max Particles are surging in the wild, and Eternamax Eternatus returns to Power Spots during Dynamax Trails. The Dynamax Trails event will take place from November 16, 2026 at 10 am to November 23, 2026 at 8 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Eternatus Returns": [
+        {
+          "name": "Eternamax Eternatus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png"
+        }
+      ],
+      "Spotlight Hour": [
+        {
+          "name": "Grookey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
+        },
+        {
+          "name": "Scorbunny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+        },
+        {
+          "name": "Sobble",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
+        }
+      ],
+      "Featured Pokémon and Rewards": [
+        {
+          "name": "Eternatus",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
