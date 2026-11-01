@@ -377,16 +377,28 @@
       ],
       "spawns": [
         {
+          "name": "Sandygast",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm769.icon.png"
+        },
+        {
           "name": "Litwick",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_607_00.png"
         },
         {
-          "name": "Rowlet wearing a Pokémon Halloween costume",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png"
-        },
-        {
           "name": "Greavard",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png"
+        },
+        {
+          "name": "Froakie wearing a Pokémon Halloween costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.cFALL_2024.icon.png"
+        },
+        {
+          "name": "Shuppet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm353.icon.png"
+        },
+        {
+          "name": "Rowlet wearing a Pokémon Halloween costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png"
         },
         {
           "name": "Gengar wearing a Spooky Festival costume",
