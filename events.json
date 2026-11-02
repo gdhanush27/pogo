@@ -1,45 +1,5 @@
 [
   {
-    "name": "Chandelure Super Mega Raid Day",
-    "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
-    "title": "Chandelure Super Mega Raid Day",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Mega Chandelure makes its Pokémon GO debut during Chandelure Super Mega Raid Day on Saturday, October 31, 2026, from 2:00 p.m. to 5:00 p.m. local time!",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
-    "detail_types": [
-      "Raid Day"
-    ],
-    "pokemon_sections": {
-      "Mega Chandelure Debut": [
-        {
-          "name": "Mega Chandelure",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.icon.png"
-        }
-      ],
-      "Featured Pokémon": [
-        {
-          "name": "Mega Chandelure",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.icon.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Chandelure",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_609_00_shiny.png"
-        },
-        {
-          "name": "Mega Chandelure",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm609.fMEGA.s.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Pokémon GO Halloween 2026 Part I",
     "url": "https://leekduck.com/events/halloween-2026-part-1/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/halloween-2026-part-1.jpg",
@@ -2532,18 +2492,125 @@
   {
     "name": "Twilight Wishes",
     "url": "https://leekduck.com/events/twilight-wishes-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/twilight-wishes-2026.png",
     "title": "Twilight Wishes",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Twilight Wishes event will take place from November 24, 2026 to November 30, 2026. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Celebrate Twilight Wishes with Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff! Enjoy increased chances to encounter Shiny Staryu and Shiny Elgyem, event-themed raids and Field Research, and rewards and bonuses from the event GO Pass. Twilight Wishes runs from Tuesday, November 24, at 10:00 a.m. to Monday, November 30, 2026, at 8:00 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/twilight-wishes-2026.png",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Espeon wearing a sun scarf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm196.fGOFEST_2024_SSCARF.icon.png"
+        },
+        {
+          "name": "Umbreon wearing a moon scarf",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm197.fGOFEST_2024_MSCARF.icon.png"
+        },
+        {
+          "name": "Rockruff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Pikachu wearing a sun crown",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2024_STIARA.icon.png"
+          },
+          {
+            "name": "Pikachu wearing a moon crown",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2024_MTIARA.icon.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Espeon wearing a sun scarf",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm196.fGOFEST_2024_SSCARF.icon.png"
+          },
+          {
+            "name": "Umbreon wearing a moon scarf",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm197.fGOFEST_2024_MSCARF.icon.png"
+          }
+        ],
+        "Mega Raids": [
+          {
+            "name": "Mega Beedrill",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_015_51.png"
+          },
+          {
+            "name": "Mega Houndoom",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_229_51.png"
+          },
+          {
+            "name": "Mega Sableye",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_302_51.png"
+          },
+          {
+            "name": "Mega Manectric",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_310_51.png"
+          }
+        ]
+      },
+      "Field Research Task Rewards": [
+        {
+          "name": "Staryu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png"
+        },
+        {
+          "name": "Elgyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png"
+        }
+      ],
+      "November 24 at 10:00 a.m. to November 26 at 10:00 a.m. local time": [
+        {
+          "name": "Applin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+        },
+        {
+          "name": "Maschiff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png"
+        }
+      ],
+      "November 26 at 10:00 a.m. to November 30 at 8:00 p.m. local time": [
+        {
+          "name": "Gengar wearing a Spooky Festival costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Drifblim wearing a Halloween Mischief costume",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+        },
+        {
+          "name": "Bramblin",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Clefairy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_035_00.png"
+        },
+        {
+          "name": "Staryu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png"
+        },
+        {
+          "name": "Elgyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png"
+        },
+        {
+          "name": "Rockruff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
