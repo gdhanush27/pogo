@@ -1708,6 +1708,23 @@
     "is_ongoing": false
   },
   {
+    "name": "GO Wild Area: Gigantamax Machamp Power Up! Timed Research",
+    "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-machamp-max-battles.jpg",
+    "title": "GO Wild Area: Gigantamax Machamp Power Up! Timed Research",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "There will be Timed Research available to Trainers starting Friday, November 6, at 10:00 a.m. to Sunday, November 15, 2026, at 11:59 p.m. local time. Complete the Timed Research to encounter Gigantamax Machamp and earn Machop Candy, Machop Candy XL, and Max Particles to help power it up. Timed Research tasks will also award Stardust, Ultra Balls, and more!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-machamp-max-battles.jpg",
+    "detail_types": [
+      "Timed Research"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Max Monday: Pokémon to be announced",
     "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
@@ -2221,20 +2238,33 @@
     "is_ongoing": false
   },
   {
-    "name": "Super Mega Raid Day",
-    "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Super Mega Raid Day",
+    "name": "Clefable Super Mega Raid Day",
+    "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/clefable-super-mega-raid-day-2026.jpg",
+    "title": "Clefable Super Mega Raid Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Super Mega Raid Day event will take place on November 28, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Mega Clefable makes its Pokémon GO debut during Clefable Super Mega Raid Day on Saturday, November 28, 2026, from 2:00 p.m. to 5:00 p.m. local time!",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/clefable-super-mega-raid-day-2026.jpg",
     "detail_types": [
       "Raid Day"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Encounter after defeating Mega Clefable": [
+        {
+          "name": "Clefable",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_036_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Clefable",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_036_00_shiny.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
