@@ -1,22 +1,5 @@
 [
   {
-    "name": "Cresselia and Darkrai Raid Hour",
-    "url": "https://leekduck.com/events/raidhour20261118/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
-    "title": "Cresselia and Darkrai Raid Hour",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-    "detail_types": [
-      "Raid Hour"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
     "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
@@ -144,6 +127,24 @@
         }
       ]
     },
+    "is_ongoing": false
+  },
+  {
+    "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+    "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
+    "title": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2027 Pokémon Latin America International Championships Twitch broadcast. PsyRhino took home the gold at the 2026 Pokémon GO North America International Championships with a powerful Shadow Samurott on their team. Watch the 2027 LAIC stream, and you can get a Samurott inspired by PsyRhino’s NAIC-winning team. Tune in to Twitch.tv/PokemonGO on November 20 and 21, or Twitch.tv/Pokemon on November 22, and you’ll earn rewards the longer you watch. Here’s what you can get: Watch for 30 minutes: Unique Timed Research that includes the following. Watch for 45 minutes: An LAIC Battle Bundle that includes the following. Timed Research tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST. Find more information on the Timed Research from the Twitch Drops in the Research section .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
+    "detail_types": [
+      "Twitch Drops",
+      "Research"
+    ],
+    "pokemon_sections": {},
     "is_ongoing": false
   },
   {
