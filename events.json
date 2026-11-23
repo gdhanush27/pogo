@@ -1,73 +1,5 @@
 [
   {
-    "name": "Eternamax Eternatus Returns",
-    "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
-    "title": "Eternamax Eternatus Returns",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Eternamax Eternatus returns during Dynamax Trails , taking over the majority of Power Spots on November 21, 2026, from 11 am to 2 pm local time.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
-    "detail_types": [
-      "Max Battles"
-    ],
-    "pokemon_sections": {
-      "Eternamax Eternatus in Max Battles": [
-        {
-          "name": "Eternamax Eternatus",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm890.fETERNAMAX.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
-    "name": "Pawniard Community Day",
-    "url": "https://leekduck.com/events/november-communityday2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
-    "title": "Pawniard Community Day",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Pawniard, the Sharp Blade Pokémon, will be featured during November Community Day! The event takes place on Saturday, November 21, 2026, from 2:00 p.m. to 5:00 p.m. local time .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
-    "detail_types": [
-      "Community Day"
-    ],
-    "pokemon_sections": {
-      "Photobomb": [
-        {
-          "name": "Pawniard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
-        }
-      ],
-      "Shiny": [
-        {
-          "name": "Pawniard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png"
-        },
-        {
-          "name": "Bisharp",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png"
-        },
-        {
-          "name": "Kingambit",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png"
-        }
-      ],
-      "spawns": [
-        {
-          "name": "Pawniard",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
     "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
@@ -835,6 +767,16 @@
       "Event"
     ],
     "pokemon_sections": {
+      "Bonuses": [
+        {
+          "name": "Shiny Staryu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00_shiny.png"
+        },
+        {
+          "name": "Shiny Elgyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00_shiny.png"
+        }
+      ],
       "Featured Pokémon": [
         {
           "name": "Espeon wearing a sun scarf",
@@ -852,75 +794,69 @@
       "raid_pokemon": {
         "One-Star Raids": [
           {
-            "name": "Pikachu wearing a sun crown",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2024_STIARA.icon.png"
+            "name": "Sun Crown Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png"
           },
           {
-            "name": "Pikachu wearing a moon crown",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2024_MTIARA.icon.png"
+            "name": "Moon Crown Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png"
           }
         ],
         "Three-Star Raids": [
           {
-            "name": "Espeon wearing a sun scarf",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm196.fGOFEST_2024_SSCARF.icon.png"
+            "name": "Day Scarf Espeon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm196.fGOFEST_2024_SSCARF.icon.png"
           },
           {
-            "name": "Umbreon wearing a moon scarf",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm197.fGOFEST_2024_MSCARF.icon.png"
+            "name": "Night Scarf Umbreon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm197.fGOFEST_2024_MSCARF.icon.png"
           }
         ],
         "Mega Raids": [
           {
             "name": "Mega Beedrill",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_015_51.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png"
           },
           {
             "name": "Mega Houndoom",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_229_51.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png"
           },
           {
             "name": "Mega Sableye",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_302_51.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png"
           },
           {
             "name": "Mega Manectric",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_310_51.png"
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png"
           }
         ]
       },
-      "Field Research Task Rewards": [
+      "November 24, until 10:00 p.m. local time": [
         {
-          "name": "Staryu",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png"
+          "name": "Cresselia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00.png"
         },
         {
-          "name": "Elgyem",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png"
+          "name": "Darkrai",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00.png"
         }
       ],
-      "November 24 at 10:00 a.m. to November 26 at 10:00 a.m. local time": [
+      "November 25 at 6:00 a.m. to November 30 at 8:00 p.m. local time": [
         {
-          "name": "Applin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+          "name": "Deoxys (Normal)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_11.png"
         },
         {
-          "name": "Maschiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png"
-        }
-      ],
-      "November 26 at 10:00 a.m. to November 30 at 8:00 p.m. local time": [
-        {
-          "name": "Gengar wearing a Spooky Festival costume",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png"
+          "name": "Deoxys (Defense)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png"
         },
         {
-          "name": "Drifblim wearing a Halloween Mischief costume",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+          "name": "Deoxys (Attack)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png"
         },
         {
-          "name": "Bramblin",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png"
+          "name": "Deoxys (Speed)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png"
         }
       ],
       "spawns": [
@@ -929,8 +865,20 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_035_00.png"
         },
         {
+          "name": "Jigglypuff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_039_00.png"
+        },
+        {
           "name": "Staryu",
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png"
+        },
+        {
+          "name": "Chimecho",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_358_00.png"
+        },
+        {
+          "name": "Munna",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_517_00.png"
         },
         {
           "name": "Elgyem",
