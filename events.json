@@ -584,86 +584,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-    "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). The following Pokémon will not be allowed.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {
-      "2026 GO LAIC Cup": [
-        {
-          "name": "Chansey",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
-        },
-        {
-          "name": "Snorlax",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png"
-        },
-        {
-          "name": "Furret",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_162_00.png"
-        },
-        {
-          "name": "Wobbuffet",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00.png"
-        },
-        {
-          "name": "Galarian Corsola",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
-        },
-        {
-          "name": "Kingdra",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png"
-        },
-        {
-          "name": "Medicham",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_308_00.png"
-        },
-        {
-          "name": "Altaria",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_334_00.png"
-        },
-        {
-          "name": "Dusclops",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_356_00.png"
-        },
-        {
-          "name": "Jellicent",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_593_00.png"
-        },
-        {
-          "name": "Jellicent",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_593_01.png"
-        },
-        {
-          "name": "Araquanid",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.icon.png"
-        },
-        {
-          "name": "Oranguru",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png"
-        },
-        {
-          "name": "Annihilape",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm979.icon.png"
-        },
-        {
-          "name": "Clodsire",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png"
-        }
-      ]
-    },
-    "is_ongoing": false
-  },
-  {
     "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
     "url": "https://leekduck.com/events/raidhour20261125/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
@@ -1110,23 +1030,6 @@
     "is_ongoing": false
   },
   {
-    "name": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-    "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-    "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). *Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-    "detail_types": [
-      "GO Battle League"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
     "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/tornadus.jpg",
@@ -1217,6 +1120,47 @@
     "is_ongoing": false
   },
   {
+    "name": "Regidrago Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261202/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Regidrago Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Regidrago is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Wimpod Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Wimpod Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. December 3 : The featured Pokémon is Wimpod and the special bonus is 2× Transfer Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Wimpod",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Max Battle Day",
     "url": "https://leekduck.com/events/max-battle-day-december-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1231,6 +1175,157 @@
       "Max Battles"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Tropical Paradise",
+    "url": "https://leekduck.com/events/tropical-paradise-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Tropical Paradise",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Tropical Paradise event will take place from December 1 to December 7, 2026. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Deino during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-07/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Deino during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Deino may appear in Max Battles from December 7, 2026 through December 13, 2026 . These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On December 7, 2026 , the featured Dynamax Pokémon is Deino .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Deino",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_633_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from December 1, 2026, at 1:00 p.m. to December 8, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Slowbro in Mega Raids",
+    "url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Slowbro in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Slowbro will be in Mega Raids from December 2, 2026 at 6 am to December 8, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Slowbro",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_00_shiny.png"
+        },
+        {
+          "name": "Mega Slowbro",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Regidrago in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/regidrago.jpg",
+    "title": "Regidrago in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Regidrago will be in five-star raid battles from December 2, 2026 to December 8, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Regidrago from 6:00 p.m. to 7:00 p.m. local time on December 2.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/regidrago.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Regidrago",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Unannounced Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261209/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Unannounced Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour is scheduled from 6:00 p.m. to 7:00 p.m. local time. The featured raid boss has not been announced yet. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Starly Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Starly Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. December 10 : The featured Pokémon is Starly and the special bonus is 2× Catch Stardust .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Starly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1658,6 +1753,126 @@
     "is_ongoing": false
   },
   {
+    "name": "Unannounced Event",
+    "url": "https://leekduck.com/events/unannounced-event-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Unannounced Event",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "An event that has not been announced yet will take place from December 8 to December 14, 2026. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Eevee during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-14/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Eevee during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Eevee may appear in Max Battles from December 14, 2026 through December 20, 2026 . These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On December 14, 2026 , the featured Dynamax Pokémon is Eevee .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Eevee",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_133_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition and Mountain Cup: Great League Edition will run from December 8, 2026, at 1:00 p.m. to December 15, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Gengar in Mega Raids",
+    "url": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Gengar in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Gengar will be in Mega Raids from December 9, 2026 at 6 am to December 15, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Gengar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_shiny.png"
+        },
+        {
+          "name": "Mega Gengar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Unannounced Pokémon in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Unannounced Pokémon in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A five-star raid boss that has not been announced yet will be in five-star raid battles from December 9, 2026 to December 15, 2026. Stay tuned for more details. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring this raid boss from 6:00 p.m. to 7:00 p.m. local time on December 9.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Ho-Oh Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261216/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Ho-Oh Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Ho-Oh is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Minior Showers: Geminids 2026",
     "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/minior-showers-2026.jpg",
@@ -1712,6 +1927,30 @@
     "is_ongoing": false
   },
   {
+    "name": "Bergmite Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Bergmite Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. December 17 : The featured Pokémon is Bergmite and the special bonus is 2× Evolution XP .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Bergmite",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Raid Day",
     "url": "https://leekduck.com/events/raid-day-december-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1729,6 +1968,140 @@
     "is_ongoing": false
   },
   {
+    "name": "Dynamax Alolan Sandshrew during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-21/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Alolan Sandshrew during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Alolan Sandshrew may appear in Max Battles from December 21, 2026 through December 27, 2026 . These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On December 21, 2026 , the featured Dynamax Pokémon is Alolan Sandshrew .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Alolan Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_027_61.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Ultra League: Mega Edition and Holiday Cup: Great League Edition will run from December 15, 2026, at 1:00 p.m. to December 22, 2026, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Ho-Oh in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/hooh.jpg",
+    "title": "Ho-Oh in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Ho-Oh will be in five-star raid battles from December 16, 2026 to December 22, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Ho-Oh from 6:00 p.m. to 7:00 p.m. local time on December 16.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/hooh.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Ho-Oh",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Skarmory in Mega Raids",
+    "url": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Skarmory in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Skarmory will be in Mega Raids from December 16, 2026 at 6 am to December 22, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00_shiny.png"
+        },
+        {
+          "name": "Mega Skarmory",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Lugia Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261223/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Lugia Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Lugia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Delibird Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Delibird Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. December 24 : The featured Pokémon is Delibird and the special bonus is 2× Catch XP .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Delibird",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Hatch Day",
     "url": "https://leekduck.com/events/hatch-day-december-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1743,6 +2116,161 @@
       "Event"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Winter Holiday 2026",
+    "url": "https://leekduck.com/events/winter-holiday-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "Winter Holiday 2026",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Winter Holiday 2026 event will take place from December 22 to December 28, 2026. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Dynamax Magikarp during Max Monday",
+    "url": "https://leekduck.com/events/max-mondays-2026-12-28/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
+    "title": "Dynamax Magikarp during Max Monday",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Dynamax Magikarp may appear in Max Battles from December 28, 2026 through January 3, 2027 . These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays. On December 28, 2026 , the featured Dynamax Pokémon is Magikarp .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+    "detail_types": [
+      "Max Mondays"
+    ],
+    "pokemon_sections": {
+      "Menu": [
+        {
+          "name": "Magikarp",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_129_00.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Master League: Mega Edition and Holiday Cup: Great League Edition will run from December 22, 2026, at 1:00 p.m. to December 29, 2026, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Lugia in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/lugia-raids.jpg",
+    "title": "Lugia in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Lugia will be in five-star raid battles from December 23, 2026 to December 29, 2026. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Lugia from 6:00 p.m. to 7:00 p.m. local time on December 23.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/lugia-raids.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Lugia",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Glalie in Mega Raids",
+    "url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Glalie in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Glalie will be in Mega Raids from December 23, 2026 at 6 am to December 29, 2026 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Glalie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_362_00_shiny.png"
+        },
+        {
+          "name": "Mega Glalie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+    "url": "https://leekduck.com/events/raidhour20261230/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
+    "title": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "A Raid Hour featuring Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+    "detail_types": [
+      "Raid Hour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Plusle and Minun Spotlight Hour",
+    "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/pokemonspotlighthour.jpg",
+    "title": "Plusle and Minun Spotlight Hour",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time. December 31 : The featured Pokémon are Plusle and Minun and the special bonus is 2× Catch Candy .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "detail_types": [
+      "Pokémon Spotlight Hour"
+    ],
+    "pokemon_sections": {
+      "spawns": [
+        {
+          "name": "Plusle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png"
+        },
+        {
+          "name": "Minun",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1799,6 +2327,149 @@
     "is_ongoing": false
   },
   {
+    "name": "New Year's 2027",
+    "url": "https://leekduck.com/events/new-years-2027/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "New Year's 2027",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The New Year’s 2027 event will take place from December 29 to January 4, 2027. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "Event"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "GO Pass: December",
+    "url": "https://leekduck.com/events/go-pass-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "title": "GO Pass: December",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "December’s GO Pass will be available through the Pokémon GO Web Store or the in-game shop. Stay tuned for more details.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "detail_types": [
+      "GO Pass"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from December 29, 2026, at 1:00 p.m. to January 5, 2027, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Shadow Dialga in Shadow Raids",
+    "url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/dialgaraids.jpg",
+    "title": "Shadow Dialga in Shadow Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Shadow Dialga will appear in five-star Shadow Raids from December 2, 2026 to January 5, 2027.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "In 5-Star Shadow Raids": [
+          {
+            "name": "Dialga",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png"
+          }
+        ]
+      },
+      "Shiny": [
+        {
+          "name": "Dialga",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Mega Falinks in Mega Raids",
+    "url": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
+    "title": "Mega Falinks in Mega Raids",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Mega Falinks will be in Mega Raids from December 30, 2026 at 6 am to January 5, 2027 at 10 pm local time. Raid bosses change at 6:00 a.m. local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.s.icon.png"
+        },
+        {
+          "name": "Mega Falinks",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.s.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+    "url": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/tornadus-thundurus-landorus-go-tour.jpg",
+    "title": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Tornadus (Therian), Thundurus (Therian), and Landorus (Therian) will be in five-star raid battles from December 30, 2026 to January 5, 2027. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) from 6:00 p.m. to 7:00 p.m. local time on December 30.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/tornadus-thundurus-landorus-go-tour.jpg",
+    "detail_types": [
+      "Raid Battles"
+    ],
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Tornadus (Therian)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12_shiny.png"
+        },
+        {
+          "name": "Thundurus (Therian)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_12_shiny.png"
+        },
+        {
+          "name": "Landorus (Therian)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_12_shiny.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Super Mega Raid Day",
     "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1811,6 +2482,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition and Fighting Cup: Great League Edition will run from January 5, 2027, at 1:00 p.m. to January 12, 2027, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -1850,6 +2538,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Ultra League: Mega Edition and Jungle Cup: Great League Edition will run from January 12, 2027, at 1:00 p.m. to January 19, 2027, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "Max Battle Day",
     "url": "https://leekduck.com/events/max-battle-day-january-2027/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1862,6 +2567,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Max Battles"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Master League: Mega Edition and Master League | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League: Mega Edition and Master League | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Master League: Mega Edition and Master League will run from January 19, 2027, at 1:00 p.m. to January 26, 2027, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -1884,6 +2606,23 @@
     "is_ongoing": false
   },
   {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from January 26, 2027, at 1:00 p.m. to February 2, 2027, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
     "name": "February Community Day",
     "url": "https://leekduck.com/events/february-communityday2027/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/cd-default.jpg",
@@ -1896,6 +2635,23 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
     "detail_types": [
       "Community Day"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition and Master League | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition and Master League | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition and Master League will run from February 2, 2027, at 1:00 p.m. to February 9, 2027, at 1:00 p.m. PT.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
@@ -1915,6 +2671,90 @@
       "Raid Day"
     ],
     "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "title": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup will run from February 9, 2027, at 1:00 p.m. to February 16, 2027, at 1:00 p.m. PT. The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "2027 GO EUIC Cup": [
+        {
+          "name": "Nidorina",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_030_00.png"
+        },
+        {
+          "name": "Grimer",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_088_00.png"
+        },
+        {
+          "name": "Lanturn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_171_00.png"
+        },
+        {
+          "name": "Magcargo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_219_00.png"
+        },
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+        },
+        {
+          "name": "Mega Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png"
+        },
+        {
+          "name": "Pachirisu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_417_00.png"
+        },
+        {
+          "name": "Drapion",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_452_00.png"
+        },
+        {
+          "name": "Crustle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_558_00.png"
+        },
+        {
+          "name": "Malamar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_687_00.png"
+        },
+        {
+          "name": "Mega Malamar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
+        },
+        {
+          "name": "Dragalge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_691_00.png"
+        },
+        {
+          "name": "Charjabug",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm737.icon.png"
+        },
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Carkol",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm838.icon.png"
+        },
+        {
+          "name": "Coalossal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm839.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1954,6 +2794,90 @@
     "is_ongoing": false
   },
   {
+    "name": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
+    "title": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup will run from February 16, 2027, at 1:00 p.m. to February 23, 2027, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). *Pokémon must be caught between December 1, 2026, at 1:00 p.m. and March 2, 2027, at 1:00 p.m. PST. The following Pokémon will not be allowed.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "detail_types": [
+      "GO Battle League"
+    ],
+    "pokemon_sections": {
+      "2027 GO EUIC Cup": [
+        {
+          "name": "Nidorina",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_030_00.png"
+        },
+        {
+          "name": "Grimer",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_088_00.png"
+        },
+        {
+          "name": "Lanturn",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_171_00.png"
+        },
+        {
+          "name": "Magcargo",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_219_00.png"
+        },
+        {
+          "name": "Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+        },
+        {
+          "name": "Mega Sableye",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png"
+        },
+        {
+          "name": "Pachirisu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_417_00.png"
+        },
+        {
+          "name": "Drapion",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_452_00.png"
+        },
+        {
+          "name": "Crustle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_558_00.png"
+        },
+        {
+          "name": "Malamar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_687_00.png"
+        },
+        {
+          "name": "Mega Malamar",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png"
+        },
+        {
+          "name": "Dragalge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_691_00.png"
+        },
+        {
+          "name": "Charjabug",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm737.icon.png"
+        },
+        {
+          "name": "Minior (Meteor Form)",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png"
+        },
+        {
+          "name": "Carkol",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm838.icon.png"
+        },
+        {
+          "name": "Coalossal",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm839.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
     "name": "Pokémon GO Tour: Alola - Global 2027",
     "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
@@ -1966,6 +2890,163 @@
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Pokémon GO Tour"
+    ],
+    "pokemon_sections": {},
+    "is_ongoing": false
+  },
+  {
+    "name": "Daydream Destinations",
+    "url": "https://leekduck.com/events/season-25-daydream-destinations/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinations.jpg",
+    "title": "Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "Welcome to Pokémon GO: Daydream Destinations! In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinations.jpg",
+    "detail_types": [
+      "Season"
+    ],
+    "pokemon_sections": {
+      "Dynamax Pokémon": [
+        {
+          "name": "Alolan Sandshrew",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_027_61.png"
+        },
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Corphish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_341_00.png"
+        }
+      ],
+      "Gigantamax Pokémon": [
+        {
+          "name": "Gigantamax Inteleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0818_000_mf_g_00000000_f_n.png"
+        },
+        {
+          "name": "Gigantamax Toxtricity",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm849.fGIGANTAMAX.icon.png"
+        }
+      ],
+      "In 2 km Eggs": [
+        {
+          "name": "Vulpix",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png"
+        },
+        {
+          "name": "Swablu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png"
+        },
+        {
+          "name": "Yamper",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.icon.png"
+        }
+      ],
+      "In 5 km Eggs": [
+        {
+          "name": "Lickitung",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_108_00.png"
+        },
+        {
+          "name": "Snom",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png"
+        },
+        {
+          "name": "Flittle",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png"
+        }
+      ],
+      "In 5 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Tyrogue",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png"
+        },
+        {
+          "name": "Happiny",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png"
+        },
+        {
+          "name": "Maschiff",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm942.icon.png"
+        }
+      ],
+      "In 7 km Eggs": [
+        {
+          "name": "Alolan Geodude",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        },
+        {
+          "name": "Galarian Zigzagoon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+        }
+      ],
+      "In 7 km Eggs From Route Rewards": [
+        {
+          "name": "Hisuian Growlithe",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Hisuian Sneasel",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
+        },
+        {
+          "name": "Galarian Corsola",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png"
+        }
+      ],
+      "In 10 km Eggs": [
+        {
+          "name": "Honedge",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png"
+        },
+        {
+          "name": "Goomy",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+        },
+        {
+          "name": "Charcadet",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png"
+        }
+      ],
+      "In 10 km Eggs from Adventure Sync Rewards": [
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        },
+        {
+          "name": "Drampa",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+        },
+        {
+          "name": "Frigibax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+        }
+      ]
+    },
+    "is_ongoing": false
+  },
+  {
+    "name": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+    "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattle-greatleague-key.jpg",
+    "title": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+    "start_date": null,
+    "start_time": null,
+    "end_date": null,
+    "end_time": null,
+    "description": "The Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition will run from February 23, 2027, at 1:00 p.m. to March 2, 2027, at 1:00 p.m. PT. Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards). *Pokémon must be caught between December 1, 2026, at 1:00 p.m. and March 2, 2027, at 1:00 p.m. PST.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "detail_types": [
+      "GO Battle League"
     ],
     "pokemon_sections": {},
     "is_ongoing": false
