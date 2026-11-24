@@ -1,23 +1,5 @@
 [
   {
-    "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
-    "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
-    "title": "Twitch Drops for 2027 Pokémon Latin America International Championships",
-    "start_date": null,
-    "start_time": null,
-    "end_date": null,
-    "end_time": null,
-    "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2027 Pokémon Latin America International Championships Twitch broadcast. PsyRhino took home the gold at the 2026 Pokémon GO North America International Championships with a powerful Shadow Samurott on their team. Watch the 2027 LAIC stream, and you can get a Samurott inspired by PsyRhino’s NAIC-winning team. Tune in to Twitch.tv/PokemonGO on November 20 and 21, or Twitch.tv/Pokemon on November 22, and you’ll earn rewards the longer you watch. Here’s what you can get: Watch for 30 minutes: Unique Timed Research that includes the following. Watch for 45 minutes: An LAIC Battle Bundle that includes the following. Timed Research tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST. Find more information on the Timed Research from the Twitch Drops in the Research section .",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
-    "detail_types": [
-      "Twitch Drops",
-      "Research"
-    ],
-    "pokemon_sections": {},
-    "is_ongoing": false
-  },
-  {
     "name": "Dynamax Trails",
     "url": "https://leekduck.com/events/dynamax-trails-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
@@ -859,6 +841,24 @@
           "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png"
         }
       ],
+      "Increased Shiny Chances": [
+        {
+          "name": "Staryu",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00_shiny.png"
+        },
+        {
+          "name": "Starmie",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_121_00_shiny.png"
+        },
+        {
+          "name": "Elgyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00_shiny.png"
+        },
+        {
+          "name": "Beheeyem",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_606_00_shiny.png"
+        }
+      ],
       "spawns": [
         {
           "name": "Clefairy",
@@ -934,7 +934,7 @@
       "Pokémon Debuts": [
         {
           "name": "Maschiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm942.icon.png"
         },
         {
           "name": "Mabosstiff",
@@ -1016,7 +1016,7 @@
         },
         {
           "name": "Maschiff",
-          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png"
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm942.icon.png"
         }
       ],
       "In 5 km Eggs from Adventure Sync Rewards": [
