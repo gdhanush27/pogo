@@ -652,18 +652,119 @@
   {
     "name": "Tropical Paradise",
     "url": "https://leekduck.com/events/tropical-paradise-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/tropical-paradise-2026.jpg",
     "title": "Tropical Paradise",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Tropical Paradise event will take place from December 1 to December 7, 2026. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Pyukumuku makes its Pokémon GO debut, and Mega Slowbro can reach the Super Max Mega Level for the first time! Enjoy event-themed wild encounters, raids, and Field Research, plus rewards and bonuses from the event GO Pass. Tropical Paradise runs from Tuesday, December 1, at 10:00 a.m. to Monday, December 7, 2026, at 8:00 p.m. local time .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/tropical-paradise-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Pokémon Debut": [
+        {
+          "name": "Pyukumuku",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm771.icon.png"
+        }
+      ],
+      "Mega Slowbro: Super Max Level": [
+        {
+          "name": "Mega Slowbro",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_080_51.png"
+        }
+      ],
+      "December 4 at 10:00 a.m. to December 7 at 8:00 p.m. local time": [
+        {
+          "name": "Hoppip",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_187_00.png"
+        },
+        {
+          "name": "Lotad",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_270_00.png"
+        },
+        {
+          "name": "Shroomish",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_285_00.png"
+        }
+      ],
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Alolan Diglett",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_050_61.png"
+          },
+          {
+            "name": "Frillish (Female)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.fFEMALE.icon.png"
+          },
+          {
+            "name": "Frillish (Male)",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png"
+          },
+          {
+            "name": "Sandygast",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm769.icon.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Pyukumuku",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm771.icon.png"
+          }
+        ],
+        "Mega Raids": [
+          {
+            "name": "Mega Slowbro",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_080_51.png"
+          }
+        ]
+      },
+      "Field Research Task Rewards": [
+        {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Psyduck",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_054_00.png"
+        },
+        {
+          "name": "Tentacool",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_072_00.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Pyukumuku",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm771.s.icon.png"
+        }
+      ],
+      "spawns": [
+        {
+          "name": "Slowpoke",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_079_00.png"
+        },
+        {
+          "name": "Shellder",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_090_00.png"
+        },
+        {
+          "name": "Wingull",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_278_00.png"
+        },
+        {
+          "name": "Slakoth",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_287_00.png"
+        },
+        {
+          "name": "Snorlax",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_143_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
