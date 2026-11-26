@@ -633,20 +633,33 @@
     "is_ongoing": false
   },
   {
-    "name": "Max Battle Day",
-    "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Max Battle Day",
+    "name": "Gigantamax Inteleon Max Battle Day",
+    "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-12-05-gigantamax-inteleon-max-battle-day-2026/gigantamax-inteleon-max-battle-day.jpg",
+    "title": "Gigantamax Inteleon Max Battle Day",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "The Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "The Gigantamax Inteleon Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm local time.",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-05-gigantamax-inteleon-max-battle-day-2026/gigantamax-inteleon-max-battle-day.jpg",
     "detail_types": [
       "Max Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Featured Pokémon": [
+        {
+          "name": "Gigantamax Inteleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0818_000_mf_g_00000000_f_n.png"
+        }
+      ],
+      "Shiny": [
+        {
+          "name": "Gigantamax Inteleon",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.fGIGANTAMAX.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1326,20 +1339,107 @@
     "is_ongoing": false
   },
   {
-    "name": "Unannounced Event",
-    "url": "https://leekduck.com/events/unannounced-event-december-2026/",
-    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Unannounced Event",
+    "name": "Pokémon Champions Celebration Event 2026",
+    "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/",
+    "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-celebration-event-2026.jpg",
+    "title": "Pokémon Champions Celebration Event 2026",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "An event that has not been announced yet will take place from December 8 to December 14, 2026. Stay tuned for more details.",
-    "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+    "description": "Celebrate Pokémon Champions in Pokémon GO with the Pokémon Champions Celebration Event! Look for event-themed wild encounters, raids featuring Pokémon with a Special Background, an event GO Pass, and gifts for sending Pokémon from Pokémon HOME to visit Pokémon Champions .",
+    "hero_image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-celebration-event-2026.jpg",
     "detail_types": [
       "Event"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "raid_pokemon": {
+        "One-Star Raids": [
+          {
+            "name": "Bagon",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png"
+          },
+          {
+            "name": "Litten",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png"
+          },
+          {
+            "name": "Frigibax",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png"
+          }
+        ],
+        "Three-Star Raids": [
+          {
+            "name": "Raichu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_00.png"
+          },
+          {
+            "name": "Garchomp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00.png"
+          },
+          {
+            "name": "Rillaboom",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.icon.png"
+          }
+        ],
+        "Five-Star Raids*": [
+          {
+            "name": "Latias",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png"
+          },
+          {
+            "name": "Latios",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png"
+          },
+          {
+            "name": "Heatran",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00.png"
+          },
+          {
+            "name": "Cobalion",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00.png"
+          },
+          {
+            "name": "Terrakion",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00.png"
+          },
+          {
+            "name": "Virizion",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00.png"
+          },
+          {
+            "name": "Regieleki",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm894.icon.png"
+          },
+          {
+            "name": "Regidrago",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.icon.png"
+          }
+        ]
+      },
+      "spawns": [
+        {
+          "name": "Charmander",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png"
+        },
+        {
+          "name": "Starly",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png"
+        },
+        {
+          "name": "Grookey",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
+        },
+        {
+          "name": "Absol",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00.png"
+        },
+        {
+          "name": "Gible",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
@@ -1412,20 +1512,55 @@
     "is_ongoing": false
   },
   {
-    "name": "Unannounced Pokémon in 5-star Raid Battles",
-    "url": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
+    "name": "Pokémon Champions Celebration 5-star Raid Battles",
+    "url": "https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/",
     "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
-    "title": "Unannounced Pokémon in 5-star Raid Battles",
+    "title": "Pokémon Champions Celebration 5-star Raid Battles",
     "start_date": null,
     "start_time": null,
     "end_date": null,
     "end_time": null,
-    "description": "A five-star raid boss that has not been announced yet will be in five-star raid battles from December 9, 2026 to December 15, 2026. Stay tuned for more details. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour featuring this raid boss from 6:00 p.m. to 7:00 p.m. local time on December 9.",
+    "description": "As part of the Pokémon Champions Celebration Event , Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, and Regidrago will have scheduled appearances in five-star raid battles from December 9, 2026 to December 15, 2026. They are part of the Seasonal rotation; the daily schedule has not been announced yet. The Special Background will only be available for the duration of the Pokémon Champions Celebration Event, which ends on December 14 at 8:00 p.m. local time. Raid bosses change at 6:00 a.m. local time. There will also be a Raid Hour from 6:00 p.m. to 7:00 p.m. local time on December 9.",
     "hero_image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
     "detail_types": [
       "Raid Battles"
     ],
-    "pokemon_sections": {},
+    "pokemon_sections": {
+      "Shiny": [
+        {
+          "name": "Latias",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00_shiny.png"
+        },
+        {
+          "name": "Latios",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00_shiny.png"
+        },
+        {
+          "name": "Heatran",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00_shiny.png"
+        },
+        {
+          "name": "Cobalion",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00_shiny.png"
+        },
+        {
+          "name": "Terrakion",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00_shiny.png"
+        },
+        {
+          "name": "Virizion",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00_shiny.png"
+        },
+        {
+          "name": "Regieleki",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm894.s.icon.png"
+        },
+        {
+          "name": "Regidrago",
+          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.s.icon.png"
+        }
+      ]
+    },
     "is_ongoing": false
   },
   {
